@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- <link rel="icon" type="image/svg+xml" href="/favicon.svg" /> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EARTH-CODE</title>
+    <script
+      src="https://unpkg.com/@eox/esa-ui@1.0.1/components/header.js"
+      type="module"
+    ></script>
+    <script
+      src="https://unpkg.com/@eox/esa-ui@1.0.1/components/navbar.js"
+      type="module"
+    ></script>
+    <script
+      src="https://unpkg.com/@eox/esa-ui@1.0.1/components/footer.js"
+      type="module"
+    ></script>
+    <script
+      src="https://unpkg.com/@eox/esa-ui@1.0.1/components/menu.js"
+      type="module"
+    ></script>
+    <script
+      src="https://unpkg.com/@eox/esa-ui@1.0.1/components/cover.js"
+      type="module"
+    ></script>
+    <script
+      src="https://unpkg.com/@eox/esa-ui@1.0.1/components/main-section.js"
+      type="module"
+    ></script>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/@eox/esa-ui@1.0.1/css/main.css"
+    />
+  </head>
+  <body>
+    <esa-menu enable-login></esa-menu>
+    <esa-header></esa-header>
+    <esa-navbar
+      brand-title="EARTH-CODE"
+      enable-search
+      enable-login
+    ></esa-navbar>
+    <div class="l-wrapper">
+      <esa-cover
+        overline="Welcome to EARTH-CODE"
+        title="An Open Science environment for reproducible Earth System research"
+        background-image="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/11/nourishing_commercial_earth_observation/25191087-1-eng-GB/Nourishing_commercial_Earth_observation_pillars.jpg"
+      ></esa-cover>
+      <main class="u-py-5">
+        <esa-main-section
+          title="EARTH-CODE Portal"
+          text="This portal shall provide an entry point to the collaborative development tools and resources, as well as access to community guidelines and open documentation to help researchers adopt FAIR principles in their scientific practice.
+          <br><br>
+          Through community and capacity building focused on Open Science, the activity shall promote a trusted collaborative experience of conducting Earth system science."
+        ></esa-main-section>
+        <div style="display: flex; width: 100%; justify-content: center;">
+          <img src="earthcode.png" style="width: 100%; max-width: 50vw"/>
+        </div>
+        <esa-main-section
+          text="For all components (technology, community, partnerships), the Reproducible Open Science Environment can rely on elements developed as part of other FutureEO activities and on readily available operational services provided by Member States’ public and industrial facilities, including interoperable building blocks, platform services, Open Science capacity building, scientific communication, and international cooperation."
+        ></esa-main-section>
+      </main>
+      <esa-footer
+        title="Want to get notified?"
+        description="EARTH-CODE is coming soon. If you want to get notified about the public launch, do not hesitate to contact us about our newsletter."
+      ></esa-footer>
+    </div>
+
+    <script>
+      const menuItems = [
+        {
+          href: "/",
+          title: "Portal",
+        },
+        {
+          href: "/catalog/",
+          title: "Science Catalog",
+        },
+        {
+          href: "/community/",
+          title: "Community",
+        },
+        {
+          href: "/integrated-platform-services/",
+          title: "Integrated Platform Services",
+        },
+        {
+          href: "/documentation/",
+          title: "Documentation",
+        },
+      ];
+      const footerItems = [
+        [
+          {
+            href: "https://www.esa.int/",
+            title: "ESA Portal",
+          },
+          {
+            href: "https://www.esa.int/About_Us/Corporate_news",
+            title: "About ESA",
+          },
+          {
+            href: "https://www.esa.int/esashop",
+            title: "ESA Space Shop",
+          },
+        ],
+        [
+          {
+            href: "https://www.esa.int/Services/Terms_and_conditions",
+            title: "Terms and Conditions",
+          },
+          {
+            href: "https://www.esa.int/Services/Cookies_notice",
+            title: "Cookies Notice",
+          },
+        ],
+        [
+          {
+            href: "/privacy-notice",
+            title: "Privacy Notice",
+          },
+        ],
+      ];
+      document.querySelector("esa-navbar").menuItems = menuItems;
+      document.querySelector("esa-menu").menuItems = menuItems;
+      document.querySelector("esa-footer").footerItems = footerItems;
+    </script>
+  </body>
+</html>
