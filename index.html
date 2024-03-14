@@ -38,7 +38,7 @@
     <meta property="twitter:image" content="/earthcode.png" />
     <link
       rel="stylesheet"
-      href="https://unpkg.com/@eox/esa-ui@1.0.1/css/main.css"
+      href="https://unpkg.com/@eox/esa-ui@1.1.0/css/main.css"
     />
   </head>
   <body>
@@ -81,29 +81,36 @@
         title="Want to get notified?"
         description="EarthCODE is coming soon. If you want to get notified about the public launch, do not hesitate to contact us about our newsletter."
       ></esa-footer>
+      <esa-cookies
+        link="https://www.esa.int/Services/Cookies_notice"
+      ></esa-cookies>
     </div>
     <script
-      src="https://unpkg.com/@eox/esa-ui@1.0.1/components/header.js"
+      src="https://unpkg.com/@eox/esa-ui@1.1.0/components/header.js"
       type="module"
     ></script>
     <script
-      src="https://unpkg.com/@eox/esa-ui@1.0.1/components/navbar.js"
+      src="https://unpkg.com/@eox/esa-ui@1.1.0/components/navbar.js"
       type="module"
     ></script>
     <script
-      src="https://unpkg.com/@eox/esa-ui@1.0.1/components/footer.js"
+      src="https://unpkg.com/@eox/esa-ui@1.1.0/components/footer.js"
       type="module"
     ></script>
     <script
-      src="https://unpkg.com/@eox/esa-ui@1.0.1/components/menu.js"
+      src="https://unpkg.com/@eox/esa-ui@1.1.0/components/menu.js"
       type="module"
     ></script>
     <script
-      src="https://unpkg.com/@eox/esa-ui@1.0.1/components/cover.js"
+      src="https://unpkg.com/@eox/esa-ui@1.1.0/components/cover.js"
       type="module"
     ></script>
     <script
-      src="https://unpkg.com/@eox/esa-ui@1.0.1/components/main-section.js"
+      src="https://unpkg.com/@eox/esa-ui@1.1.0/components/main-section.js"
+      type="module"
+    ></script>
+    <script
+      src="https://unpkg.com/@eox/esa-ui@1.1.0/components/cookies.js"
       type="module"
     ></script>
     <script>
@@ -164,6 +171,12 @@
       document.querySelector("esa-navbar").menuItems = menuItems;
       document.querySelector("esa-menu").menuItems = menuItems;
       document.querySelector("esa-footer").footerItems = footerItems;
+      document.querySelector("esa-cookies").addEventListener("accept", () => {
+        console.log("accept");
+      });
+      document.querySelector("esa-cookies").addEventListener("decline", () => {
+        console.log("decline");
+      });
     </script>
   </body>
 </html>
