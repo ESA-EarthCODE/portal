@@ -46,9 +46,6 @@
       /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
       _paq.push(["requireCookieConsent"]);
       _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
-      _paq.push(["setCookieDomain", "*.earthcode.esa.int"]);
-      _paq.push(["setDomains", ["*.earthcode.esa.int", "*.earthcode.eox.at"]]);
-      _paq.push(["enableCrossDomainLinking"]);
       _paq.push(["trackPageView"]);
       _paq.push(["enableLinkTracking"]);
       (function () {
@@ -84,6 +81,7 @@
       ></esa-footer>
       <esa-cookies
         link="https://www.esa.int/Services/Cookies_notice"
+        style="display: none"
       ></esa-cookies>
     </div>
     <script
@@ -168,6 +166,14 @@
         _paq.push(["optUserOut"]);
       });
 
+      if (
+        !document.cookie.includes("mtm_cookie_consent") &&
+        !document.cookie.includes("mtm_consent_removed")
+      ) {
+        document.querySelector("esa-cookies").style.display = "block";
+      }
+
+      // TEMP
       const style = document.createElement("style");
       style.innerHTML = `@import "https://unpkg.com/@eox/esa-ui@1.2.1/css/main.css";`;
       const append = setInterval(() => {
