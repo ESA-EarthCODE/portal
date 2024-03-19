@@ -40,6 +40,30 @@
       rel="stylesheet"
       href="https://unpkg.com/@eox/esa-ui@1.2.1/css/main.css"
     />
+    <!-- Matomo -->
+    <script>
+      var _paq = (window._paq = window._paq || []);
+      /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+      _paq.push(["requireCookieConsent"]);
+      _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+      _paq.push(["setCookieDomain", "*.earthcode.esa.int"]);
+      _paq.push(["setDomains", ["*.earthcode.esa.int", "*.earthcode.eox.at"]]);
+      _paq.push(["enableCrossDomainLinking"]);
+      _paq.push(["trackPageView"]);
+      _paq.push(["enableLinkTracking"]);
+      (function () {
+        var u = "https://nix.eox.at/piwik/";
+        _paq.push(["setTrackerUrl", u + "matomo.php"]);
+        _paq.push(["setSiteId", "13"]);
+        var d = document,
+          g = d.createElement("script"),
+          s = d.getElementsByTagName("script")[0];
+        g.async = true;
+        g.src = u + "matomo.js";
+        s.parentNode.insertBefore(g, s);
+      })();
+    </script>
+    <!-- End Matomo Code -->
   </head>
   <body>
     <esa-menu></esa-menu>
@@ -137,11 +161,13 @@
       document.querySelector("esa-menu").menuItems = menuItems;
       document.querySelector("esa-footer").footerItems = footerItems;
       document.querySelector("esa-cookies").addEventListener("accept", () => {
-        console.log("accept");
+        _paq.push(["rememberCookieConsentGiven"]);
       });
       document.querySelector("esa-cookies").addEventListener("decline", () => {
-        console.log("decline");
+        _paq.push(["forgetCookieConsentGiven"]);
+        _paq.push(["optUserOut"]);
       });
+
       const style = document.createElement("style");
       style.innerHTML = `@import "https://unpkg.com/@eox/esa-ui@1.2.1/css/main.css";`;
       const append = setInterval(() => {
