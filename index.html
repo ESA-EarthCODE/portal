@@ -183,6 +183,32 @@
           element.shadowRoot.appendChild(style);
         }
       }, 10);
+
+      // TRACK PAGE SCROLL
+      function getScrollPercent() {
+        const h = document.documentElement,
+          b = document.body,
+          st = "scrollTop",
+          sh = "scrollHeight";
+        return ((h[st] || b[st]) / ((h[sh] || b[sh]) - h.clientHeight)) * 100;
+      }
+      const scrollTargets = {
+        25: false,
+        50: false,
+        75: false,
+        100: false,
+      };
+      document.addEventListener("scroll", (e) => {
+        Object.keys(scrollTargets).forEach((target) => {
+          if (
+            getScrollPercent() >= parseInt(target) &&
+            !scrollTargets[target]
+          ) {
+            scrollTargets[target] = true;
+            _paq.push(["trackEvent", "Scroll_depth", `${target}%`]);
+          }
+        });
+      });
     </script>
   </body>
 </html>
