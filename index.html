@@ -36,10 +36,6 @@
       content="Earth Science Collaborative Open Development Environment"
     />
     <meta property="twitter:image" content="/earthcode.png" />
-    <link
-      rel="stylesheet"
-      href="https://unpkg.com/@eox/esa-ui@1.2.1/css/main.css"
-    />
     <!-- Matomo -->
     <script>
       var _paq = (window._paq = window._paq || []);
@@ -73,7 +69,10 @@
         background-image="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/11/nourishing_commercial_earth_observation/25191087-1-eng-GB/Nourishing_commercial_Earth_observation_pillars.jpg"
       ></esa-cover>
       <main class="u-py-5">
-        <eox-storytelling markdown-url="./index.md"></eox-storytelling>
+        <eox-storytelling
+          markdown-url="./index.md"
+          no-shadow
+        ></eox-storytelling>
       </main>
       <esa-footer
         title="Want to get notified?"
@@ -116,6 +115,10 @@
       src="https://unpkg.com/@eox/storytelling@0.3.0-alpha4"
       type="module"
     ></script>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/@eox/esa-ui@1.2.1/css/main.css"
+    />
     <script>
       const menuItems = [
         {
@@ -172,17 +175,6 @@
       ) {
         document.querySelector("esa-cookies").style.display = "block";
       }
-
-      // TEMP
-      const style = document.createElement("style");
-      style.innerHTML = `@import "https://unpkg.com/@eox/esa-ui@1.2.1/css/main.css";`;
-      const append = setInterval(() => {
-        const element = document.querySelector("eox-storytelling");
-        if (element.shadowRoot) {
-          clearInterval(append);
-          element.shadowRoot.appendChild(style);
-        }
-      }, 10);
 
       // TRACK PAGE SCROLL
       function getScrollPercent() {
