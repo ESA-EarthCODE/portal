@@ -27,6 +27,10 @@ cloud services and open-source building blocks provided by European industry.
 It also serves as a platform for Open Science capacity building, scientific communication,
 and international cooperation.
 
+## Co-develop EarthCODE<!--{as="esa-main-section"}-->
+Be part of our mission by sharing your insights. 
+Participate in our survey to help shape EarthCODE according to your needs and preferences https://forms.office.com/e/3UbPiq0c0d 
+
 ## Join as an Expert or Service Provider<!--{as="esa-main-section"}-->
 Keep an eye out for our Q2 2024 best practice procurement to join our subcontractor network.
 
