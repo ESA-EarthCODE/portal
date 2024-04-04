@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -36,19 +36,32 @@
       content="Earth Science Collaborative Open Development Environment"
     />
     <meta property="twitter:image" content="/earthcode.png" />
-    <link
-      rel="stylesheet"
-      href="https://unpkg.com/@eox/esa-ui@1.0.1/css/main.css"
-    />
+    <!-- Matomo -->
+    <script>
+      var _paq = (window._paq = window._paq || []);
+      /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+      _paq.push(["requireCookieConsent"]);
+      _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+      _paq.push(["trackPageView"]);
+      _paq.push(["enableLinkTracking"]);
+      (function () {
+        var u = "https://nix.eox.at/piwik/";
+        _paq.push(["setTrackerUrl", u + "matomo.php"]);
+        _paq.push(["setSiteId", "13"]);
+        var d = document,
+          g = d.createElement("script"),
+          s = d.getElementsByTagName("script")[0];
+        g.async = true;
+        g.src = u + "matomo.js";
+        s.parentNode.insertBefore(g, s);
+      })();
+    </script>
+    <!-- End Matomo Code -->
   </head>
   <body>
-    <esa-menu enable-login></esa-menu>
+    <esa-menu></esa-menu>
     <esa-header></esa-header>
-    <esa-navbar
-      brand-title="EarthCODE"
-      enable-search
-      enable-login
-    ></esa-navbar>
+    <esa-navbar brand-title="EarthCODE"></esa-navbar>
     <div class="l-wrapper">
       <esa-cover
         overline="Welcome to EarthCODE"
@@ -56,48 +69,56 @@
         background-image="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/11/nourishing_commercial_earth_observation/25191087-1-eng-GB/Nourishing_commercial_Earth_observation_pillars.jpg"
       ></esa-cover>
       <main class="u-py-5">
-        <esa-main-section
-          title="EarthCODE Portal"
-          text="This portal shall provide an entry point to the collaborative development tools and resources, as well as access to community guidelines and open documentation to help researchers adopt FAIR principles in their scientific practice.
-          <br><br>
-          Through community and capacity building focused on Open Science, the activity shall promote a trusted collaborative experience of conducting Earth system science."
-        ></esa-main-section>
-        <div style="display: flex; width: 100%; justify-content: center">
-          <img src="earthcode.png" style="width: 100%; max-width: 50vw" />
-        </div>
-        <esa-main-section
-          text="For all components (technology, community, partnerships), the Reproducible Open Science Environment can rely on elements developed as part of other FutureEO activities and on readily available operational services provided by Member States’ public and industrial facilities, including interoperable building blocks, platform services, Open Science capacity building, scientific communication, and international cooperation."
-        ></esa-main-section>
+        <eox-storytelling
+          markdown-url="./index.md"
+          no-shadow
+        ></eox-storytelling>
       </main>
       <esa-footer
         title="Want to get notified?"
         description="EarthCODE is coming soon. If you want to get notified about the public launch, do not hesitate to contact us about our newsletter."
       ></esa-footer>
+      <esa-cookies
+        link="https://www.esa.int/Services/Cookies_notice"
+        style="display: none"
+      ></esa-cookies>
     </div>
     <script
-      src="https://unpkg.com/@eox/esa-ui@1.0.1/components/header.js"
+      src="https://unpkg.com/@eox/esa-ui@1.2.1/components/header.js"
       type="module"
     ></script>
     <script
-      src="https://unpkg.com/@eox/esa-ui@1.0.1/components/navbar.js"
+      src="https://unpkg.com/@eox/esa-ui@1.2.1/components/navbar.js"
       type="module"
     ></script>
     <script
-      src="https://unpkg.com/@eox/esa-ui@1.0.1/components/footer.js"
+      src="https://unpkg.com/@eox/esa-ui@1.2.1/components/footer.js"
       type="module"
     ></script>
     <script
-      src="https://unpkg.com/@eox/esa-ui@1.0.1/components/menu.js"
+      src="https://unpkg.com/@eox/esa-ui@1.2.1/components/menu.js"
       type="module"
     ></script>
     <script
-      src="https://unpkg.com/@eox/esa-ui@1.0.1/components/cover.js"
+      src="https://unpkg.com/@eox/esa-ui@1.2.1/components/cover.js"
       type="module"
     ></script>
     <script
-      src="https://unpkg.com/@eox/esa-ui@1.0.1/components/main-section.js"
+      src="https://unpkg.com/@eox/esa-ui@1.2.1/components/main-section.js"
       type="module"
     ></script>
+    <script
+      src="https://unpkg.com/@eox/esa-ui@1.2.1/components/cookies.js"
+      type="module"
+    ></script>
+    <script
+      src="https://unpkg.com/@eox/storytelling@0.3.0-alpha4"
+      type="module"
+    ></script>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/@eox/esa-ui@1.2.1/css/main.css"
+    />
     <script>
       const menuItems = [
         {
@@ -105,20 +126,8 @@
           title: "Portal",
         },
         {
-          href: "/catalog/",
+          href: "https://opensciencedata.esa.int/",
           title: "Science Catalog",
-        },
-        {
-          href: "/community/",
-          title: "Community",
-        },
-        {
-          href: "/integrated-platform-services/",
-          title: "Integrated Platform Services",
-        },
-        {
-          href: "/documentation/",
-          title: "Documentation",
         },
       ];
       const footerItems = [
@@ -130,10 +139,6 @@
           {
             href: "https://www.esa.int/About_Us/Corporate_news",
             title: "About ESA",
-          },
-          {
-            href: "https://www.esa.int/esashop",
-            title: "ESA Space Shop",
           },
         ],
         [
@@ -156,6 +161,46 @@
       document.querySelector("esa-navbar").menuItems = menuItems;
       document.querySelector("esa-menu").menuItems = menuItems;
       document.querySelector("esa-footer").footerItems = footerItems;
+      document.querySelector("esa-cookies").addEventListener("accept", () => {
+        _paq.push(["rememberCookieConsentGiven"]);
+      });
+      document.querySelector("esa-cookies").addEventListener("decline", () => {
+        _paq.push(["forgetCookieConsentGiven"]);
+        _paq.push(["optUserOut"]);
+      });
+
+      if (
+        !document.cookie.includes("mtm_cookie_consent") &&
+        !document.cookie.includes("mtm_consent_removed")
+      ) {
+        document.querySelector("esa-cookies").style.display = "block";
+      }
+
+      // TRACK PAGE SCROLL
+      function getScrollPercent() {
+        const h = document.documentElement,
+          b = document.body,
+          st = "scrollTop",
+          sh = "scrollHeight";
+        return ((h[st] || b[st]) / ((h[sh] || b[sh]) - h.clientHeight)) * 100;
+      }
+      const scrollTargets = {
+        25: false,
+        50: false,
+        75: false,
+        100: false,
+      };
+      document.addEventListener("scroll", (e) => {
+        Object.keys(scrollTargets).forEach((target) => {
+          if (
+            getScrollPercent() >= parseInt(target) &&
+            !scrollTargets[target]
+          ) {
+            scrollTargets[target] = true;
+            _paq.push(["trackEvent", "Scroll_depth", `${target}%`]);
+          }
+        });
+      });
     </script>
   </body>
 </html>
