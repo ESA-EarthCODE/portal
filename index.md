@@ -58,3 +58,10 @@ all the available information (e.g. input data, source code, required
 environment) will be pre-loaded, allowing you to either re-run the
 experiment with the same parameters, or changing them to build your
 own experiment upon it.
+
+## Contact us! 
+Does the information provided seem insufficient, please feel free to get in touch with our team! 
+
+Dr Chandra Taposeea-Fisher
+Senior Project Manager
+chandra.taposeea@telespazio.com
