@@ -1,4 +1,8 @@
 ## EarthCODE Portal <!--{as="esa-main-section"}-->
+
+EarthCODE envisions leveraging technology to empower FAIR and Open Earth System Science, 
+fostering innovation and collaboration for a sustainable future.
+
 This portal shall provide an entry point to the collaborative
 development tools and resources, as well as access to community
 guidelines and open documentation to help researchers adopt FAIR
@@ -9,16 +13,25 @@ activity shall promote a trusted collaborative experience of
 conducting Earth system science.
 
 ## <!--{as="div" style="display: flex; width: 100%; justify-content: center"}-->
-![Landing page image](earthcode.png) <!--{style="width: 100%; max-width: 50vw"}-->
+![Landing page image](OpenScience.png) <!--{style="width: 100%; max-width: 50vw"}-->
 
 ## <!--{as="esa-main-section"}-->
-For all components (technology, community, partnerships), the
-Reproducible Open Science Environment can rely on elements developed
-as part of other FutureEO activities and on readily available
-operational services provided by Member States’ public and industrial
-facilities, including interoperable building blocks, platform
-services, Open Science capacity building, scientific communication,
+EarthCODE is being developed on top of exisiting platform services and will 
+leverage the latest tools for managing open data and open source software. 
+It aims to grow a community of users that contribute open data and methods, 
+discover scientific datasets and workflows, access advanced computing resources 
+and collaborate to advance earth science. 
+
+EarthCODE will incrementally develop by integrating readily available Earth Observation 
+cloud services and open-source building blocks provided by European industry. 
+It also serves as a platform for Open Science capacity building, scientific communication,
 and international cooperation.
+
+## Join as an Expert or Service Provider<!--{as="esa-main-section"}-->
+Keep an eye out for our Q2 2024 best practice procurement to join our subcontractor network.
+
+The procurement will be published as a **"Non ESA Tender Action"** on ESA Star Publication: https://esastar-publication-ext.sso.esa.int/nonEsaTenderActions/filter/open
+
 
 ## I want to publish my scientific findings, how can EarthCODE help? <!--{as="esa-main-section"}-->
 After signup, you will be able to access your workspace and create
