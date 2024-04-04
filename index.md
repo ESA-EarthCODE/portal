@@ -60,8 +60,8 @@ experiment with the same parameters, or changing them to build your
 own experiment upon it.
 
 ## Contact us! 
-Does the information provided seem insufficient, please feel free to get in touch with our team! 
-
-Dr Chandra Taposeea-Fisher
-Senior Project Manager
-chandra.taposeea@telespazio.com
+Does the information provided seem insufficient? Please feel free to get in touch with our team! 
+<br>
+<b>Dr Chandra Taposeea-Fisher</b><br>
+Senior Project Manager<br>
+chandra.taposeea@telespazio.com<br>
