@@ -28,14 +28,12 @@ It also serves as a platform for Open Science capacity building, scientific comm
 and international cooperation.
 
 ## Co-develop EarthCODE<!--{as="esa-main-section"}-->
-Be part of our mission by sharing your insights. 
-Participate in our survey to help shape EarthCODE according to your needs and preferences https://forms.office.com/e/3UbPiq0c0d 
+Participate in our survey to help shape EarthCODE according to your needs and preferences: [https://forms.office.com/e/3UbPiq0c0d](https://forms.office.com/e/3UbPiq0c0d)
 
 ## Join as an Expert or Service Provider<!--{as="esa-main-section"}-->
 Keep an eye out for our Q2 2024 best practice procurement to join our subcontractor network.
 
-The procurement will be published as a **"Non ESA Tender Action"** on ESA Star Publication: https://esastar-publication-ext.sso.esa.int/nonEsaTenderActions/filter/open
-
+The procurement will be published as a **"Non ESA Tender Action"** on ESA Star Publication: [https://esastar-publication-ext.sso.esa.int/nonEsaTenderActions/filter/open](https://esastar-publication-ext.sso.esa.int/nonEsaTenderActions/filter/open)
 
 ## I want to publish my scientific findings, how can EarthCODE help? <!--{as="esa-main-section"}-->
 After signup, you will be able to access your workspace and create
@@ -61,7 +59,7 @@ own experiment upon it.
 
 ## Contact us! 
 Does the information provided seem insufficient? Please feel free to get in touch with our team! 
-<br>
-<b>Dr Chandra Taposeea-Fisher</b><br>
-Senior Project Manager<br>
-chandra.taposeea@telespazio.com<br>
+Does the information provided seem insufficient? Please feel free to get in touch with our team!  
+**Dr Chandra Taposeea-Fisher**  
+Senior Project Manager  
+[chandra.taposeea@telespazio.com](mailto:chandra.taposeea@telespazio.com)
