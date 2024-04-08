@@ -1,0 +1,47 @@
+# Simple workflow for deploying static content to GitHub Pages
+# Copies the main branch to the root of the deployment, and the staging branch into the /staging/ subfolder
+name: Deploy
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["staging"]
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+  packages: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  copy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout staging
+        uses: actions/checkout@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+      - name: Copy files
+        run: |
+            git config --global user.name "GitHub Actions"
+            git config --global user.email "action@github.com"
+            git fetch origin main:main --update-head-ok
+            git archive --format tar main | tar -x -C .
+            git fetch origin staging:staging --update-head-ok
+            mkdir staging
+            git archive --format tar staging | tar -x -C staging
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Upload entire repository
+          path: '.'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
