@@ -35,10 +35,12 @@ cloud services and open-source building blocks provided by European industry.
 It also serves as a platform for Open Science capacity building, scientific communication,
 and international cooperation.
 
-## Co-develop EarthCODE<!--{as="esa-main-section"}-->
+## <!--{as="div" style="background: #00B19D; padding: 20px 40px 10px;"}-->
+
+### Co-develop EarthCODE
 
 Be part of our mission by sharing your insights.
-Participate in our survey to help shape EarthCODE according to your needs and preferences: [https://forms.office.com/e/3UbPiq0c0d](https://forms.office.com/e/3UbPiq0c0d)
+Participate in our survey to help shape EarthCODE according to your needs and preferences: [https://forms.office.com/e/3UbPiq0c0d](https://forms.office.com/e/3UbPiq0c0d)<!--{p:style="color: #fffb"}-->
 
 ## I want to publish my scientific findings, how can EarthCODE help? <!--{as="esa-main-section"}-->
 
