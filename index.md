@@ -1,3 +1,9 @@
+## <!--{as="div" style="background: #00B19D; padding: 20px 40px 10px;"}-->
+
+### EarthCODE Info Day
+
+The project team will be hosting a supplier webinar at 12.30pm UK/1.30pm CET on 17 April, to get information on developing the three main works streams (WS): WS1 - Infrastructure, WS2 - FAIR Open Science & WS3 – Community. Please register on [here](https://events.teams.microsoft.com/event/133562f6-0358-4e09-9f4a-789d03381b75@e4fda1e2-a063-48c2-a133-cf4b3c22f5af) by Tuesday 16 April at 12.30pm UK/1.30pm CEST. <!--{p:style="color: #fffb"}-->
+
 ## EarthCODE Portal <!--{as="esa-main-section"}-->
 
 EarthCODE envisions leveraging technology to empower FAIR and Open Earth System Science,
@@ -33,12 +39,6 @@ and international cooperation.
 
 Be part of our mission by sharing your insights.
 Participate in our survey to help shape EarthCODE according to your needs and preferences: [https://forms.office.com/e/3UbPiq0c0d](https://forms.office.com/e/3UbPiq0c0d)
-
-## Join as an Expert or Service Provider<!--{as="esa-main-section"}-->
-
-Keep an eye out for our Q2 2024 best practice procurement to join our subcontractor network.
-
-The procurement will be published as a **"Non ESA Tender Action"** on ESA Star Publication: [https://esastar-publication-ext.sso.esa.int/nonEsaTenderActions/filter/open](https://esastar-publication-ext.sso.esa.int/nonEsaTenderActions/filter/open)
 
 ## I want to publish my scientific findings, how can EarthCODE help? <!--{as="esa-main-section"}-->
 
