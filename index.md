@@ -2,7 +2,7 @@
 
 ### EarthCODE Info Day
 
-The project team will be hosting a supplier webinar at 12.30pm UK/1.30pm CET on 17 April, to get information on developing the three main works streams (WS): WS1 - Infrastructure, WS2 - FAIR Open Science & WS3 – Community. Please register on [here](https://events.teams.microsoft.com/event/133562f6-0358-4e09-9f4a-789d03381b75@e4fda1e2-a063-48c2-a133-cf4b3c22f5af) by Tuesday 16 April at 12.30pm UK/1.30pm CEST. <!--{p:style="color: #fffb"}-->
+The project team will be hosting a supplier webinar at 1.30pm CEST on 17 April, to get information on developing the three main works streams (WS): WS1 - Infrastructure, WS2 - FAIR Open Science & WS3 – Community. Please register on [here](https://events.teams.microsoft.com/event/133562f6-0358-4e09-9f4a-789d03381b75@e4fda1e2-a063-48c2-a133-cf4b3c22f5af) by Tuesday 16 April at 1.30pm CEST. <!--{p:style="color: #fffb"}-->
 
 ## EarthCODE Portal <!--{as="esa-main-section"}-->
 
