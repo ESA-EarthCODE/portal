@@ -20,7 +20,7 @@ conducting Earth system science.
 
 ## <!--{as="div" style="display: flex; width: 100%; justify-content: center"}-->
 
-![Landing page image](OpenScience.png) <!--{style="width: 100%; max-width: 50vw"}-->
+![Landing page image](EO-Open-Science_Badge_DEF.png) <!--{style="width: 100%; max-width: 50vw"}-->
 
 ## <!--{as="esa-main-section"}-->
 
