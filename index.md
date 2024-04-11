@@ -6,8 +6,7 @@ EarthCODE is looking for subcontractors. The project team will be hosting a supp
 The Intended ITT is available as a non-ESA Tender Action on ESA-STAR. Access it [here](https://esastar-publication-ext.sso.esa.int/nonEsaTenderActions/details/13691). 
 - Date: April 17, 2024
 - Time: 13:30 – 15:00 CET (Madrid, Paris, Rome)
-- Duration: 1.5 hours
-- [Register here](https://events.teams.microsoft.com/event/133562f6-0358-4e09-9f4a-789d03381b75@e4fda1e2-a063-48c2-a133-cf4b3c22f5af) by Tuesday 16 April at 1.30pm CEST.<!--{p:style="color: #fffb"}-->
+- [Register here](https://events.teams.microsoft.com/event/133562f6-0358-4e09-9f4a-789d03381b75@e4fda1e2-a063-48c2-a133-cf4b3c22f5af) by Tuesday 16 April at 1.30pm CEST<!--{p:style="color: #fffb"}-->
 
 ## EarthCODE Portal <!--{as="esa-main-section"}-->
 
