@@ -58,10 +58,50 @@
     </script>
     <!-- End Matomo Code -->
     <style>
+      eox-storytelling {
+        --body-font-family: "Arial", sans-serif;
+      }
       eox-storytelling .story-telling a {
         all: unset;
         color: white;
         cursor: pointer;
+      }
+      eox-storytelling .highlight {
+        background: white;
+        padding: 20px 40px 10px;
+        box-shadow: 0 20px 30px rgba(0, 0, 0, 0.1);
+      }
+      eox-storytelling .highlight h3 {
+        background: #00b19d;
+        display: inline-flex;
+        padding: 3px 5px;
+        text-transform: uppercase;
+        letter-spacing: 0.1rem;
+        margin-bottom: 16px;
+      }
+      eox-storytelling .highlight p,
+      eox-storytelling .highlight a,
+      eox-storytelling .highlight li {
+        color: #003247;
+      }
+      eox-storytelling .highlight a {
+        border-bottom: 0.2rem solid #00ae9d;
+        padding-bottom: 0.25rem;
+        transition: all 0.5s ease;
+      }
+      eox-storytelling .highlight a:hover {
+        padding-bottom: 0.5rem;
+        color: #00ae9d;
+        background: none;
+      }
+      eox-storytelling .highlight ul {
+        padding: inherit;
+        padding-top: 0;
+      }
+      eox-storytelling .highlight li {
+        list-style: unset;
+        margin: 0;
+        padding: 0;
       }
     </style>
   </head>

@@ -1,13 +1,14 @@
-## <!--{as="div" style="background: #00B19D; padding: 20px 40px 10px;"}-->
+## <!--{as="div" .highlight}-->
 
 ### EarthCODE Info Day 17 April 2024 (online)
 
-EarthCODE is looking for subcontractors. The project team will be hosting a supplier webinar at 1.30pm CEST on 17 April, to get information on developing the three main works streams (WS): WS1 - Infrastructure, WS2 - FAIR Open Science & WS3 – Community. 
+EarthCODE is looking for subcontractors. The project team will be hosting a supplier webinar at 1.30pm CEST on 17 April, to get information on developing the three main works streams (WS): WS1 - Infrastructure, WS2 - FAIR Open Science & WS3 – Community.
 
-The [Intended ITT](https://esastar-publication-ext.sso.esa.int/nonEsaTenderActions/details/13691) is available as a non-ESA Tender Action on ESA-STAR. 
+The [Intended ITT](https://esastar-publication-ext.sso.esa.int/nonEsaTenderActions/details/13691) is available as a non-ESA Tender Action on ESA-STAR.
+
 - Date: April 17, 2024
 - Time: 13:30 – 15:00 CET (Madrid, Paris, Rome)
-- [Register](https://events.teams.microsoft.com/event/133562f6-0358-4e09-9f4a-789d03381b75@e4fda1e2-a063-48c2-a133-cf4b3c22f5af) by Tuesday 16 April at 1.30pm CEST <!--{p:style="color: #fffb"}-->
+- [Register](https://events.teams.microsoft.com/event/133562f6-0358-4e09-9f4a-789d03381b75@e4fda1e2-a063-48c2-a133-cf4b3c22f5af) by Tuesday 16 April at 1.30pm CEST
 
 ## EarthCODE Portal <!--{as="esa-main-section"}-->
 
@@ -40,12 +41,12 @@ cloud services and open-source building blocks provided by European industry.
 It also serves as a platform for Open Science capacity building, scientific communication,
 and international cooperation.
 
-## <!--{as="div" style="background: #00B19D; padding: 20px 40px 10px;"}-->
+## <!--{as="div" .highlight}-->
 
 ### Co-develop EarthCODE
 
 Be part of our mission by sharing your insights.
-Participate in our survey to help shape EarthCODE according to your needs and preferences: [https://forms.office.com/e/3UbPiq0c0d](https://forms.office.com/e/3UbPiq0c0d)<!--{p:style="color: #fffb"}-->
+Participate in our survey to help shape EarthCODE according to your needs and preferences: [https://forms.office.com/e/3UbPiq0c0d](https://forms.office.com/e/3UbPiq0c0d)
 
 ## I want to publish my scientific findings, how can EarthCODE help? <!--{as="esa-main-section"}-->
 
