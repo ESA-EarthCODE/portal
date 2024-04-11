@@ -3,13 +3,9 @@
 ### EarthCODE Info Day 17 April 2024 (online)
 
 EarthCODE is looking for subcontractors.  
-
 The project team will be hosting a supplier webinar at 1.30pm CEST on 17 April, to get information on developing the three main works streams (WS): WS1 - Infrastructure, WS2 - FAIR Open Science & WS3 – Community. 
-
 The **Intended ITT** is available as a non-ESA Tender Action on ESA-STAR. Access it [here](https://esastar-publication-ext.sso.esa.int/nonEsaTenderActions/details/13691)
- 
 The webinar is open to all interested attendees upon registration.
-
 - Date: April 17, 2024
 - Time: 13:30 – 15:00 CET (Madrid, Paris, Rome)
 - Duration: 1.5 hours
