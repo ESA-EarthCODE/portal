@@ -73,6 +73,25 @@ environment) will be pre-loaded, allowing you to either re-run the
 experiment with the same parameters, or changing them to build your
 own experiment upon it.
 
+## Team
+
+Earth Science Collaborative Open Development Environment - EarthCODE - is a project sponsored by the European Space Agency (ESA) as a collaborative project under leadership of Telespazio UK as prime contractor. The contracted partners in the consortium are below.
+
+### Prime Team
+
+[Telespazio UK – Prime Contractor](https://telespazio.co.uk)
+[EOX – Portal](https://eox.at)
+
+### Work Stream Consortium
+
+TBD
+
+## Community 
+
+EarthCODE aims to foster a community based on FAIR Open Science Principles throughout ESA-funded Earth System Science activities. Several recent and ongoing initiatives within the EO sector are focussed on the creation of common standards, common architecture, and open-source platforms. EarthCODE aims to deliver long-term persistence of data, code, and documentation, aiding reproducibility, reuse and consumption of research outputs by a wider community. Additionally, the Portal aims to provide access to community information resources and Open Science tools enabling collaboration and adherence to FAIR/open research practices.
+
+If you would like to be a part of this community, please sign up to our newsletter (once it is established) to get more information. We will also hold regular sessions with end-users, so they can contribute understanding the needs of end-users and stakeholders.
+
 ## Contact us!
 
 Does the information provided seem insufficient? Please feel free to get in touch with our team!  
