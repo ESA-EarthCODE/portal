@@ -79,8 +79,9 @@ Earth Science Collaborative Open Development Environment - EarthCODE - is a proj
 
 ### Prime Team
 
-[Telespazio UK – Prime Contractor](https://telespazio.co.uk)
-[EOX – Portal](https://eox.at)
+[![Telespazio UK - Prime Contractor](tpz.jpg)Telespazio UK - Prime Contractor](https://telespazio.co.uk)
+
+[![EOX - Portal](tpz.jpg)EOX - Portal](https://eox.at)
 
 ### Work Stream Consortium
 
