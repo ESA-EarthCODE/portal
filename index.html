@@ -65,6 +65,14 @@
         all: unset;
         color: white;
         cursor: pointer;
+        padding-bottom: 0.25rem;
+        transition: all 0.5s ease;
+        border-bottom: 0.2rem solid white;
+      }
+      eox-storytelling .story-telling a:hover {
+        padding-bottom: 0.5rem;
+        background: none;
+        color: white;
       }
       eox-storytelling .highlight {
         background: white;
@@ -86,13 +94,9 @@
       }
       eox-storytelling .highlight a {
         border-bottom: 0.2rem solid #00ae9d;
-        padding-bottom: 0.25rem;
-        transition: all 0.5s ease;
       }
       eox-storytelling .highlight a:hover {
-        padding-bottom: 0.5rem;
         color: #00ae9d;
-        background: none;
       }
       eox-storytelling .highlight ul {
         padding: inherit;
@@ -105,6 +109,36 @@
       }
       section#site-footer {
         margin-top: 0;
+      }
+      #section-team {
+        margin: 6em 0;
+      }
+      #section-team {
+        background: #e8e8e4;
+        box-shadow: 0 0 0 100vmax #e8e8e4;
+        clip-path: inset(0 -100vmax);
+        padding: 6em 0;
+      }
+      #section-team h2,
+      #section-team h3,
+      #section-team a,
+      #section-team p {
+        color: #003247;
+      }
+      #section-team a {
+        border-bottom: 0.2rem solid #003247;
+      }
+
+      .team-icon {
+        text-align: center;
+        line-height: 1.2;
+        transition: all 0.25 ease;
+      }
+      .team-icon img {
+        border-radius: 100rem;
+        object-fit: cover;
+        transition: all 1s 0.05s ease;
+        z-index: 0;
       }
     </style>
   </head>
@@ -175,6 +209,22 @@
         {
           href: "/",
           title: "Portal",
+        },
+        {
+          href: "#section-faq",
+          title: "FAQ",
+        },
+        {
+          href: "#section-community",
+          title: "Community",
+        },
+        {
+          href: "#section-team",
+          title: "Team",
+        },
+        {
+          href: "#section-contact-us",
+          title: "Contact",
         },
         {
           href: "https://opensciencedata.esa.int/",
