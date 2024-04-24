@@ -1,14 +1,20 @@
 ## <!--{as="div" .highlight}-->
 
-### EarthCODE Info Day 17 April 2024 (online)
+### EarthCODE Info Day 17 April 2024
 
-EarthCODE is looking for subcontractors. The project team will be hosting a supplier webinar at 1.30pm CEST on 17 April, to get information on developing the three main works streams (WS): WS1 - Infrastructure, WS2 - FAIR Open Science & WS3 – Community.
+EarthCODE is looking for subcontractors. The project team hosted a supplier webinar at 1.30pm CEST on 17 April, to get information on developing the three main works streams (WS): WS1 - Infrastructure, WS2 - FAIR Open Science & WS3 – Community.
+
+See recording and slides of the information day below.
 
 The [Intended ITT](https://esastar-publication-ext.sso.esa.int/nonEsaTenderActions/details/13691) is available as a non-ESA Tender Action on ESA-STAR.
 
-- Date: April 17, 2024
-- Time: 13:30 – 15:00 CEST (Madrid, Paris, Rome)
-- [Register](https://events.teams.microsoft.com/event/133562f6-0358-4e09-9f4a-789d03381b75@e4fda1e2-a063-48c2-a133-cf4b3c22f5af) by Tuesday 16 April at 1.30pm CEST
+## infoday-video <!--{as="iframe" width="100%" height="500" src="https://www.youtube-nocookie.com/embed/98eDMaVmY3k?si=A0pMdeNiVEAcelGp" frameborder="0" allowfullscreen}-->
+
+## infoday-pdf <!--{as="iframe" width="100%" height="500" src="./infoday.pdf"}-->
+
+##
+
+[View EarthCODE Information Day Presentation](./infoday.pdf)
 
 ## EarthCODE Portal <!--{as="esa-main-section"}-->
 
