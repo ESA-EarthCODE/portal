@@ -1,12 +1,12 @@
 ## <!--{as="div" .highlight}-->
 
-### EarthCODE Info Day 17 April 2024
+### EarthCODE Tender is open
 
-EarthCODE is looking for subcontractors. The project team hosted a supplier webinar at 1.30pm CEST on 17 April, to get information on developing the three main works streams (WS): WS1 - Infrastructure, WS2 - FAIR Open Science & WS3 – Community.
+The [tender for EarthCODE is open](https://esastar-publication-ext.sso.esa.int/nonEsaTenderActions/details/13691) and the full tender documentation is available as a non-ESA Tender Action on ESA-STAR.
+
+With this tender EarthCODE is looking for subcontractors. The project team hosted a supplier webinar at 1.30pm CEST on 17 April, to get information on developing the three main works streams (WS): WS1 - Infrastructure, WS2 - FAIR Open Science & WS3 – Community.
 
 See recording and slides of the information day below.
-
-The [Intended ITT](https://esastar-publication-ext.sso.esa.int/nonEsaTenderActions/details/13691) is available as a non-ESA Tender Action on ESA-STAR.
 
 ## infoday-video <!--{as="iframe" width="100%" height="500" src="https://www.youtube-nocookie.com/embed/98eDMaVmY3k?si=A0pMdeNiVEAcelGp" frameborder="0" allowfullscreen}-->
 
