@@ -1,3 +1,3 @@
 FROM nginx:alpine
 
-COPY . /usr/share/nginx/html
+COPY pages/.vitepress/dist/. /usr/share/nginx/html

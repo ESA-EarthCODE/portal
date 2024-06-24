@@ -1,0 +1,15 @@
+{
+  "home": "https://earthcode.esa.int/",
+  "dashboard": "https://hub.earthcode.eox.at/services/eoxhub-gateway/earthcode-testing/user-dashboard",
+  "slug": "earthcode",
+  "logo": "https://brand.esa.int/wp-content/themes/brandcentre/assets/img/ESA_Title.svg",
+  "meta": {
+    "description": "Earth Science Collaborative Open Development Environment",
+    "favicon": "https://www.esa.int/favicon.ico",
+    "keywords": "",
+    "title": "EarthCODE"
+  },
+  "theme": {
+    "primary_color": "#003247"
+  }
+}
