@@ -5,7 +5,9 @@ name: Deploy
 on:
   # Runs on pushes targeting the default branch and tags
   push:
-    branches: ["main"]
+    branches: 
+      - main
+      - staging
     tags:        
       - '*'
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
@@ -17,6 +19,8 @@ permissions:
 
 env:
   IMAGE_NAME: portal
+  BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
+  IMAGE_PATH: ghcr.io/esa-earthcode/$IMAGE_NAME:$BRANCH_NAME-${{ github.run_number }}
 
 jobs:
   copy:
@@ -31,17 +35,8 @@ jobs:
       - run: npm ci
       - run: npm run build --if-present
       - name: Build image
-        run: docker build . --file Dockerfile --tag $IMAGE_NAME --label "runnumber=${GITHUB_RUN_ID}"
+        run: docker build -t $IMAGE_PATH .
       - name: Login ghcr
         run: echo "${{ secrets.GITHUB_TOKEN }}" | docker login ghcr.io -u $ --password-stdin
-      - name: 'Push ghcr'
-        run: |
-          IMAGE_ID=ghcr.io/${{ github.repository_owner }}/$IMAGE_NAME
-          IMAGE_ID=$(echo $IMAGE_ID | tr '[A-Z]' '[a-z]')
-          VERSION=$(echo "${{ github.ref }}" | sed -e 's,.*/\(.*\),\1,')
-          [[ "${{ github.ref }}" == "refs/tags/"* ]] && VERSION=$(echo $VERSION | sed -e 's/^v//')
-          [[ "$VERSION" == "main" ]] && VERSION="dev-${{ github.run_number }}"
-          echo IMAGE_ID=$IMAGE_ID
-          echo VERSION=$VERSION
-          docker tag $IMAGE_NAME $IMAGE_ID:$VERSION
-          docker push $IMAGE_ID:$VERSION
+      - name: Push ghcr
+        run: docker push $IMAGE_PATH
