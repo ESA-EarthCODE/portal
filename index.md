@@ -1,5 +1,17 @@
 ## <!--{as="div" .highlight}-->
 
+### 2024 IEEE International Geoscience and Remote Sensing Symposium
+
+We are pleased to announce that EarthCODE will participate in the 2024 IEEE International Geoscience and Remote Sensing Symposium.
+
+This will be held from 7th - 12th July, 2024 in Athens, Greece.
+
+Please join us at our [poster session on Thursday, 11 Jul, 16:20 - 17:20](https://2024.ieeeigarss.org/view_session.php?SessionID=1389).
+
+Alternatively, please visit the ESA stand for more information.
+
+---
+
 ### EarthCODE Tender is open
 
 The [tender for EarthCODE is open](https://esastar-publication-ext.sso.esa.int/nonEsaTenderActions/details/13691) and the full tender documentation is available as a non-ESA Tender Action on ESA-STAR.
