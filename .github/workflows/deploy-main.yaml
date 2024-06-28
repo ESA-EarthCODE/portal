@@ -24,8 +24,8 @@ jobs:
     steps:
       - name: Checkout staging
         uses: actions/checkout@v4
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
+#      - name: Setup Pages
+#        uses: actions/configure-pages@v4
       - name: Build image
         run: docker build . --file Dockerfile --tag $IMAGE_NAME --label "runnumber=${GITHUB_RUN_ID}"
       - name: Login ghcr
