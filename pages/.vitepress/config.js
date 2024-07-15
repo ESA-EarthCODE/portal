@@ -26,7 +26,7 @@ export default {
         title: "Science Catalog",
       },
     ],
-    login: config.dashboard,
+    // login: config.dashboard,
     footer: {
       title: "Want to get notified?",
       description:
