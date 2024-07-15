@@ -22,10 +22,6 @@ export default {
         title: "Contact",
       },
       {
-        href: "/test",
-        title: "Test",
-      },
-      {
         href: "https://opensciencedata.esa.int/",
         title: "Science Catalog",
       },
