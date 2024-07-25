@@ -1,0 +1,20 @@
+{
+  "name": "brand-core-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev pages",
+    "build": "vitepress build pages",
+    "serve": "vitepress serve pages"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eox/pages-theme-esa": "^0.1.2",
+    "vitepress": "^1.1.4"
+  },
+  "dependencies": {
+    "@eox/esa-ui": "^1.4.0"
+  }
+}
