@@ -26,7 +26,7 @@ export default {
         title: "Science Catalog",
       },
     ],
-    sidebar: [
+    gateway: [
       {
         title: "Section 1 - TODO",
         links: [
