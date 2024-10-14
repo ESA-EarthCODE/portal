@@ -2,10 +2,13 @@
 layout: home
 
 hero:
-  name: Welcome to EarthCODE
   text: A FAIR Open Science environment for reproducible Earth System research
   image:
     src: https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/11/nourishing_commercial_earth_observation/25191087-1-eng-GB/Nourishing_commercial_Earth_observation_pillars.jpg
+  underline: Join our newsletter to receive the latest news, events, and resources on EarthCODE
+  cta:
+    text: Sign up for updates
+    link: https://esacontact.esa.int/ESA_EO_OpenScience_Subscribe
 ---
 
 <div class="highlight">
@@ -130,9 +133,5 @@ TBD
 
 </div>
 
-## Contact us!
 
-Does the information provided seem insufficient? Please feel free to get in touch with our team!  
-**Dr Chandra Taposeea-Fisher**  
-Senior Project Manager  
-[chandra.taposeea@telespazio.com](mailto:chandra.taposeea@telespazio.com)
+<esa-cta title="Stay updated with the Latest of EarthCODE" description="<b>Why should I sign up?</b><br /><small>• Receive regular updates to EarthCODE status and offerings<br/>• Access insights, research updates, event announcements, and more<br/>• Be the first to know about new resources and community opportunities</small>" cta-link="https://esacontact.esa.int/ESA_EO_OpenScience_Subscribe" cta-text="Subscribe" two-columns></esa-cta>
