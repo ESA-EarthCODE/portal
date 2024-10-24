@@ -73,6 +73,45 @@ It also serves as a platform for Open Science capacity building, scientific comm
 and international cooperation.
 </esa-main-section>
 
+## Roadmap (WIP) - Missing content!
+
+<esa-roadmap>
+  <esa-roadmap-step
+    step="01"
+    status="Achieved"
+    title="User-Centric Product Development for Scientists"
+    objective="Ensure the product meets the needs and expectations of EO scientists of ESA Science Clusters and Science Hub."
+    outcome="Ensure the product meets the needs and expectations of EO scientists of ESA Science Clusters and Science Hub."
+  ></esa-roadmap-step>
+
+  <esa-roadmap-step
+    step="02"
+    status="In Progress"
+    color="#0091C6"
+    title="Ensure Scalability and Flexibility"
+    objective="Ensure the product meets the needs and expectations of EO scientists of ESA Science Clusters and Science Hub."
+    outcome="Ensure the product meets the needs and expectations of EO scientists of ESA Science Clusters and Science Hub."
+  ></esa-roadmap-step>
+
+  <esa-roadmap-step
+    step="03"
+    status="Coming Up"
+    color="#55869E"
+    title="Enhanced Functionality and Performance"
+    objective="Ensure the product meets the needs and expectations of EO scientists of ESA Science Clusters and Science Hub."
+    outcome="Ensure the product meets the needs and expectations of EO scientists of ESA Science Clusters and Science Hub."
+  ></esa-roadmap-step>
+
+  <esa-roadmap-step
+    step="04"
+    status="Coming Up"
+    color="#55869E"
+    title="User-Centric Product Development for Scientists"
+    objective="Ensure the product meets the needs and expectations of EO scientists of ESA Science Clusters and Science Hub."
+    outcome="Ensure the product meets the needs and expectations of EO scientists of ESA Science Clusters and Science Hub."
+  ></esa-roadmap-step>
+</esa-roadmap>
+
 <div class="highlight">
 
 ### Co-develop EarthCODE
