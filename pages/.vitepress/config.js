@@ -134,7 +134,7 @@ export default {
         ],
       },
     ],
-    // login: config.dashboard,
+    login: config.dashboard,
     footer: {
       title: "Get in touch",
       description:
