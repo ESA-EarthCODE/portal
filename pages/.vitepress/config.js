@@ -26,6 +26,118 @@ export default {
         title: "Science Catalog",
       },
     ],
+    gateway: [
+      {
+        title: "Section 1 - TODO",
+        links: [
+          {
+            name: "Link 1",
+            href: "https://esa.int",
+          },
+          {
+            name: "Link 2",
+            href: "https://esa.int",
+          },
+          {
+            name: "Link 3",
+            href: "https://esa.int",
+          },
+          {
+            name: "Link 4",
+            href: "https://esa.int",
+          },
+        ],
+      },
+      {
+        title: "Section 2 - TODO",
+        links: [
+          {
+            name: "Link 1",
+            color: "#f1666a",
+            href: "https://esa.int",
+          },
+          {
+            name: "Link 2",
+            color: "#6dcff6",
+            href: "https://esa.int",
+          },
+          {
+            name: "Link 3",
+            color: "#76c8ae",
+            href: "https://esa.int",
+          },
+          {
+            name: "Link 4",
+            color: "#ffcc4e",
+            href: "https://esa.int",
+          },
+        ],
+      },
+      {
+        title: "Section 3 - TODO",
+        isLarge: true,
+        links: [
+          // Two columns here, thus two link arrays.
+          [
+            {
+              name: "Link 1",
+              href: "https://esa.int",
+            },
+            {
+              name: "Link 2",
+              href: "https://esa.int",
+            },
+            {
+              name: "Link 3",
+              href: "https://esa.int",
+            },
+            {
+              name: "Link 4",
+              href: "https://esa.int",
+            },
+          ],
+          [
+            {
+              name: "Link 1",
+              href: "https://esa.int",
+            },
+            {
+              name: "Link 2",
+              href: "https://esa.int",
+            },
+            {
+              name: "Link 3",
+              href: "https://esa.int",
+            },
+            {
+              name: "Link 4",
+              href: "https://esa.int",
+            },
+          ],
+        ],
+      },
+      {
+        title: "Section 4 - TODO",
+        links: [
+          {
+            name: "Link 1",
+            href: "https://esa.int",
+          },
+          {
+            name: "Link 2",
+            href: "https://esa.int",
+          },
+          {
+            name: "Link 3",
+            href: "https://esa.int",
+          },
+          {
+            name: "Link 4",
+            href: "https://esa.int",
+          },
+        ],
+      },
+    ],
     // login: config.dashboard,
     footer: {
       title: "Want to get notified?",
