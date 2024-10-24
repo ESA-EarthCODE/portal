@@ -18,10 +18,6 @@ export default {
         title: "Team",
       },
       {
-        href: "/#contact-us",
-        title: "Contact",
-      },
-      {
         href: "https://opensciencedata.esa.int/",
         title: "Science Catalog",
       },
@@ -140,9 +136,9 @@ export default {
     ],
     // login: config.dashboard,
     footer: {
-      title: "Want to get notified?",
+      title: "Get in touch",
       description:
-        "EarthCODE is coming soon. If you want to get notified about the public launch, do not hesitate to contact us about our newsletter.",
+        "EarthCODE is coming soon. If you want to get notified about the public launch, please join our newsletter; for all other inquiries, feel free to contact us.",
       contactLink: "mailto:chandra.taposeea@telespazio.com",
       links: [
         [
