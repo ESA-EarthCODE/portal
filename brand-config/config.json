@@ -1,6 +1,6 @@
 {
   "home": "https://earthcode.esa.int/",
-  "dashboard": "https://hub.earthcode.eox.at/services/eoxhub-gateway/earthcode-testing/user-area",
+  "dashboard": "https://dashboard.earthcode-testing.earthcode.eox.at",
   "slug": "earthcode",
   "logo": "https://brand.esa.int/wp-content/themes/brandcentre/assets/img/ESA_Title.svg",
   "meta": {

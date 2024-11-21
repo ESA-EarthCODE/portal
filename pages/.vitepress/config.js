@@ -18,6 +18,10 @@ export default {
         title: "Team",
       },
       {
+        href: "https://discourse-earthcode.eox.at/",
+        title: "Community Forum",
+      },
+      {
         href: "https://opensciencedata.esa.int/",
         title: "Science Catalog",
       },
