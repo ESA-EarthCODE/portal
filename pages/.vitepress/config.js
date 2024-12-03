@@ -6,135 +6,73 @@ export default {
   themeConfig: {
     nav: [
       {
-        href: "/#faq",
-        title: "FAQ",
+        href: "/about",
+        title: "About",
       },
       {
-        href: "/#community",
+        href: "/resources",
+        title: "Resources",
+      },
+      {
+        href: "/community",
         title: "Community",
       },
       {
-        href: "/#team",
-        title: "Team",
+        href: "/get-involved",
+        title: "Get Involved",
       },
       {
-        href: "https://discourse-earthcode.eox.at/",
-        title: "Community Forum",
+        href: "/blog",
+        title: "Blog",
       },
       {
-        href: "https://opensciencedata.esa.int/",
-        title: "Science Catalog",
+        href: "/contact",
+        title: "Contact",
       },
     ],
     gateway: [
       {
-        title: "Section 1 - TODO",
+        title: "ESA Vision",
         links: [
           {
-            name: "Link 1",
-            href: "https://esa.int",
-          },
-          {
-            name: "Link 2",
-            href: "https://esa.int",
-          },
-          {
-            name: "Link 3",
-            href: "https://esa.int",
-          },
-          {
-            name: "Link 4",
-            href: "https://esa.int",
+            name: "EO Science Strategy",
+            href: "https://doi.org/10.5281/zenodo.13819557",
           },
         ],
       },
       {
-        title: "Section 2 - TODO",
+        title: "ESA EO Programme",
         links: [
           {
-            name: "Link 1",
-            color: "#f1666a",
-            href: "https://esa.int",
+            name: "Observing the Earth",
+            href: "https://www.esa.int/Applications/Observing_the_Earth",
           },
           {
-            name: "Link 2",
-            color: "#6dcff6",
-            href: "https://esa.int",
-          },
-          {
-            name: "Link 3",
-            color: "#76c8ae",
-            href: "https://esa.int",
-          },
-          {
-            name: "Link 4",
-            color: "#ffcc4e",
-            href: "https://esa.int",
+            name: "Science for Society",
+            href: "https://eo4society.esa.int",
           },
         ],
       },
       {
-        title: "Section 3 - TODO",
+        title: "Research at ESA",
+        links: [
+
+            {
+              name: "Earth System Science Hub",
+              href: "https:sciencehub.esa.int",
+            },
+        ],
+      },
+      {
+        title: "Opportunities",
         isLarge: true,
         links: [
-          // Two columns here, thus two link arrays.
           [
             {
-              name: "Link 1",
-              href: "https://esa.int",
+              name: "Network of Resources",
+              href: "https://nor-discover.org",
             },
-            {
-              name: "Link 2",
-              href: "https://esa.int",
-            },
-            {
-              name: "Link 3",
-              href: "https://esa.int",
-            },
-            {
-              name: "Link 4",
-              href: "https://esa.int",
-            },
-          ],
-          [
-            {
-              name: "Link 1",
-              href: "https://esa.int",
-            },
-            {
-              name: "Link 2",
-              href: "https://esa.int",
-            },
-            {
-              name: "Link 3",
-              href: "https://esa.int",
-            },
-            {
-              name: "Link 4",
-              href: "https://esa.int",
-            },
-          ],
-        ],
-      },
-      {
-        title: "Section 4 - TODO",
-        links: [
-          {
-            name: "Link 1",
-            href: "https://esa.int",
-          },
-          {
-            name: "Link 2",
-            href: "https://esa.int",
-          },
-          {
-            name: "Link 3",
-            href: "https://esa.int",
-          },
-          {
-            name: "Link 4",
-            href: "https://esa.int",
-          },
+          ]
         ],
       },
     ],

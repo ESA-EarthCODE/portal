@@ -11,10 +11,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@eox/pages-theme-esa": "^0.2.5",
+    "@eox/pages-theme-esa": "^0.2.9",
     "vitepress": "^1.1.4"
   },
   "dependencies": {
-    "@eox/esa-ui": "^1.6.5-dev.1"
+    "@eox/esa-ui": "^1.7.3"
   }
 }
