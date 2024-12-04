@@ -47,6 +47,32 @@ hero:
 
 ## Latest News & Updates
 
+<esa-card-row>
+  <esa-card
+    type="story"
+    title="LPS2025"
+    image="https://lps25.esa.int/wp-content/themes/lps25/images/venue_1.webp"
+    tag="Announcements"
+    href="/blog/lps-25"
+    date="20.12.2024"
+  ></esa-card>
+  <esa-card
+    type="story"
+    title="Summary from 2024 IEEE symposium"
+    image="https://placehold.co/600x400"
+    tag="Summary"
+    href="#"
+    date="20.12.2024"
+  ></esa-card>
+  <esa-card
+    type="story"
+    title="Summary from IGARSS2024"
+    image="https://placehold.co/600x400"
+    tag="Summary"
+    href="#"
+    date="20.12.2024"
+  ></esa-card>
+</esa-card-row>
 </div>
 <div class="bg-white">
 
