@@ -80,8 +80,8 @@ export default {
     footer: {
       title: "Get in touch",
       description:
-        "EarthCODE is coming soon. If you want to get notified about the public launch, please join our newsletter; for all other inquiries, feel free to contact us.",
-      contactLink: "mailto:chandra.taposeea@telespazio.com",
+        "Join ESA's initiative to ensure long-term preservation and accessibility of research data, code, and documentation for a global scientific community.",
+      contactLink: "/contact",
       links: [
         [
           {

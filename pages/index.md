@@ -53,6 +53,7 @@ hero:
     title="LPS2025"
     image="https://lps25.esa.int/wp-content/themes/lps25/images/venue_1.webp"
     tag="Announcements"
+    tagColor="#00ae9d"
     href="/blog/lps-25"
     date="20.12.2024"
   ></esa-card>
@@ -61,6 +62,7 @@ hero:
     title="Summary from 2024 IEEE symposium"
     image="https://placehold.co/600x400"
     tag="Summary"
+    tagColor="#003247"
     href="#"
     date="20.12.2024"
   ></esa-card>
@@ -69,6 +71,7 @@ hero:
     title="Summary from IGARSS2024"
     image="https://placehold.co/600x400"
     tag="Summary"
+    tagColor="#003247"
     href="#"
     date="20.12.2024"
   ></esa-card>
@@ -77,6 +80,33 @@ hero:
 <div class="bg-white">
 
 ## Popular Resources
+
+<esa-card-row>
+  <esa-card
+    type="showcase"
+    title="Open Science Catalog"
+    image="https://app-reverse-proxy.osc.earthcode.eox.at/open-science-catalog-metadata/themes/atmosphere/EO_Atmosphere.webp"
+    tag="Resource"
+    tagColor="#003247"
+    href="https://opensciencedata.esa.int"
+  ></esa-card>
+  <esa-card
+    type="showcase"
+    title="Beginners Guide"
+    image="https://placehold.co/600x400"
+    tag="Resource"
+    tagColor="#003247"
+    href="#"
+  ></esa-card>
+  <esa-card
+    type="showcase"
+    title="Community Forum"
+    image="https://placehold.co/600x400"
+    tag="Resource"
+    tagColor="#003247"
+    href="#"
+  ></esa-card>
+</esa-card-row>
 
 </div>
 <div class="bg-grey">
@@ -92,6 +122,8 @@ hero:
 
 ## Case Studies
 
+Coming soon
+
 </div>
 
-<esa-cta title="Stay updated with the Latest of EarthCODE" description="<b>Why should I sign up?</b><br /><small>• Receive regular updates to EarthCODE status and offerings<br/>• Access insights, research updates, event announcements, and more<br/>• Be the first to know about new resources and community opportunities</small>" cta-link="https://esacontact.esa.int/ESA_EO_OpenScience_Subscribe" cta-text="Subscribe" two-columns></esa-cta>
+<esa-cta title="Stay updated with the Latest News in Earth Science" description="<b>Why should I sign up?</b><br /><small>• Receive monthly updates in the latest news in Earth Observation<br/>• Access expert insights, research updates, event announcements, and more<br/>• Be the first to know about new resources and community opportunities</small>" cta-link="https://esacontact.esa.int/ESA_EO_OpenScience_Subscribe" cta-text="Subscribe" two-columns></esa-cta>
