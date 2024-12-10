@@ -19,7 +19,7 @@ hero:
   <esa-capability
     icon='<svg width="36" height="30" viewBox="0 0 36 30" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6.66732 15H29.334M6.66732 15C4.80048 15 3.86706 15 3.15402 14.6367C2.52681 14.3171 2.01687 13.8072 1.6973 13.18C1.33398 12.4669 1.33398 11.5335 1.33398 9.66669V7.00002C1.33398 5.13318 1.33398 4.19976 1.6973 3.48672C2.01687 2.85951 2.52681 2.34958 3.15402 2.03C3.86706 1.66669 4.80048 1.66669 6.66732 1.66669H29.334C31.2008 1.66669 32.1342 1.66669 32.8473 2.03C33.4745 2.34958 33.9844 2.85951 34.304 3.48672C34.6673 4.19976 34.6673 5.13318 34.6673 7.00002V9.66669C34.6673 11.5335 34.6673 12.4669 34.304 13.18C33.9844 13.8072 33.4745 14.3171 32.8473 14.6367C32.1342 15 31.2008 15 29.334 15M6.66732 15C4.80048 15 3.86706 15 3.15402 15.3633C2.52681 15.6829 2.01687 16.1928 1.6973 16.8201C1.33398 17.5331 1.33398 18.4665 1.33398 20.3334V23C1.33398 24.8669 1.33398 25.8003 1.6973 26.5133C2.01687 27.1405 2.52681 27.6505 3.15402 27.97C3.86706 28.3334 4.80048 28.3334 6.66732 28.3334H29.334C31.2008 28.3334 32.1342 28.3334 32.8473 27.97C33.4745 27.6505 33.9844 27.1405 34.304 26.5133C34.6673 25.8003 34.6673 24.8669 34.6673 23V20.3334C34.6673 18.4665 34.6673 17.5331 34.304 16.8201C33.9844 16.1928 33.4745 15.6829 32.8473 15.3633C32.1342 15 31.2008 15 29.334 15M18.0007 8.33335H28.0007M18.0007 21.6667H28.0007M11.334 8.33335C11.334 9.25383 10.5878 10 9.66732 10C8.74684 10 8.00065 9.25383 8.00065 8.33335C8.00065 7.41288 8.74684 6.66669 9.66732 6.66669C10.5878 6.66669 11.334 7.41288 11.334 8.33335ZM11.334 21.6667C11.334 22.5872 10.5878 23.3334 9.66732 23.3334C8.74684 23.3334 8.00065 22.5872 8.00065 21.6667C8.00065 20.7462 8.74684 20 9.66732 20C10.5878 20 11.334 20.7462 11.334 21.6667Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/></svg>'
     title="Computational Research"
-    description="Empowering Earth system science with advanced computational tools and collaborative research environments"
+    description="Use advanced computational tools for Earth system science, on collaborative research environments"
     link="/computational-research"
   ></esa-capability>
   <esa-capability
@@ -92,19 +92,11 @@ hero:
   ></esa-card>
   <esa-card
     type="showcase"
-    title="Beginners Guide"
-    image="https://placehold.co/600x400"
-    tag="Resource"
-    tagColor="#003247"
-    href="#"
-  ></esa-card>
-  <esa-card
-    type="showcase"
     title="Community Forum"
-    image="https://placehold.co/600x400"
+    image="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 10'></svg>"
     tag="Resource"
     tagColor="#003247"
-    href="#"
+    href="https://discourse-earthcode.eox.at/"
   ></esa-card>
 </esa-card-row>
 
@@ -118,12 +110,5 @@ hero:
   cta-text="register"
 ></esa-cta>
 </div>
-<div class="bg-light">
 
-## Case Studies
-
-Coming soon
-
-</div>
-
-<esa-cta title="Stay updated with the Latest News in Earth Science" description="<b>Why should I sign up?</b><br /><small>• Receive monthly updates in the latest news in Earth Observation<br/>• Access expert insights, research updates, event announcements, and more<br/>• Be the first to know about new resources and community opportunities</small>" cta-link="https://esacontact.esa.int/ESA_EO_OpenScience_Subscribe" cta-text="Subscribe" two-columns></esa-cta>
+<esa-cta title="Subscribe to the EO Open Science Newsletter" description="<b>Why should I sign up?</b><br /><small>• Get monthly updates from ESA EO Open Science<br/>• Access expert insights, research updates, event announcements, and more<br/>• Stay updated on new EarthCODE features, resources and collaboration opportunities</small>" cta-link="https://esacontact.esa.int/ESA_EO_OpenScience_Subscribe" cta-text="Subscribe" two-columns></esa-cta>

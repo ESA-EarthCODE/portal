@@ -81,7 +81,7 @@ export default {
       title: "Get in touch",
       description:
         "Join ESA's initiative to ensure long-term preservation and accessibility of research data, code, and documentation for a global scientific community.",
-      contactLink: "/contact",
+      contactLink: "mailto:earthcode@esa.int",
       links: [
         [
           {
