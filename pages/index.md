@@ -4,7 +4,7 @@ layout: home
 hero:
   text: Revolutionizing Earth System Science with Open Science Principles
   image:
-    src: https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/11/nourishing_commercial_earth_observation/25191087-1-eng-GB/Nourishing_commercial_Earth_observation_pillars.jpg
+    src: /assets/img/EarthCODE_Herobanner_1920x1080_nologo.jpg
   underline: Join ESA's initiative to ensure long-term preservation and accessibility of research data, code, and documentation for a global scientific community
   cta:
     text: Sign up for updates
