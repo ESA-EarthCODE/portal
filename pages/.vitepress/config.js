@@ -59,7 +59,7 @@ export default {
 
             {
               name: "Earth System Science Hub",
-              href: "https:sciencehub.esa.int",
+              href: "https://sciencehub.esa.int",
             },
         ],
       },
