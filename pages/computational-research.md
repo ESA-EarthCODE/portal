@@ -1,13 +1,13 @@
 ---
 layout: page
 ---
-<div class="bg-grey">
+<section class="grey">
 
 # Computational Research
 ## Unlock powerful cloud computing for Earth science research. With EarthCODE, access top cloud platforms to build and share FAIR, open scientific workflows effortlessly.
 
-</div>
-<div class="bg-light">
+</section>
+<section class="light-grey">
 
 ## Platforms
 
@@ -46,8 +46,8 @@ Easily create, find, publish and re-use data & workflows using AI-ready virtual 
     </div>
   </div>
 
-</div>
-<div class="bg-white">
+</section>
+<section class="white">
 
 ## Benefits of Computational Research at EarthCODE 
 Scalable cloud resources, efficient cross-platform data workflows, and a collaborative research community for impactful research and innovation.
@@ -70,10 +70,10 @@ Scalable cloud resources, efficient cross-platform data workflows, and a collabo
     </div>
   </div>
 
-</div>
+</section>
 
 
-<style>
+<style scoped>
   .grid-container {
     display: grid;
     gap: 20px;

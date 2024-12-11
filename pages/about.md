@@ -1,6 +1,15 @@
+---
+layout: page
+---
+
+<section class="grey">
+
 # About EarthCODE
 
 Coming soon
+
+</section>
+<section class="blue">
 
 ## Roadmap (WIP) - Missing content!
 
@@ -42,3 +51,5 @@ The EarthCODE platform is constantly evolving, with its roadmap regularly update
     outcome="Ensure the product meets the needs and expectations of EO scientists of ESA Science Clusters and Science Hub."
   ></esa-roadmap-step>
 </esa-roadmap>
+
+</section>

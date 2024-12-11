@@ -1,3 +1,8 @@
-# LPS 25
+---
+date: 01.12.2024
+title: EarthCODE at ESA LPS 2025
+---
 
-Coming soon
+# EarthCODE at ESA LPS 2025
+
+Lorem ipsum

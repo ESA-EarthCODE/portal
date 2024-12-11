@@ -1,20 +1,20 @@
 ---
 layout: page
 ---
-<div class="bg-grey">
+<section class="grey">
 
 # Datasets
 ## Explore a rich repository of novel open-access Earth System Science data, curated and shared by the community. Engage with contributing scientists, foster collaboration, and advance science by contributing and publishing your own findings.
 
-</div>
-<div class="bg-light">
+</section>
+<section class="light-grey">
 
 ## Publish your Datasets
 
 Contributing your datasets to EarthCODE is a straightforward way to make a significant impact on global research. By sharing your data, you help build a comprehensive resource for the scientific community, fostering collaboration and innovation. The Open Science Catalog makes it easy to publish your datasets, ensuring they adhere to FAIR and open science principles. Your contributions will be stored long-term, allowing researchers worldwide to access and build upon your work.
 
-</div>
-<div class="bg-white">
+</section>
+<section class="white">
 
 ## Benefits of Publishing 
 Maximise the wide use of new science data and methods by making them FAIR, Open long-term discoverable and reproducible.
@@ -46,8 +46,8 @@ Maximise the wide use of new science data and methods by making them FAIR, Open 
     </div>
   </div>
 
-</div>
-<div class="bg-light">
+</section>
+<section class="light-grey">
 
 ## Featured Datasets
 
@@ -95,8 +95,7 @@ Take time to discover a diverse array of datasets shared by researchers across a
       </div>
     </div>
   </div>
-
-</div>
+</section>
 
 
 <style>

@@ -1,13 +1,13 @@
 ---
 layout: page
 ---
-<div class="bg-grey">
+<section class="grey">
 
 # Workflows
 ## Publishing your code and algorithms shouldn’t be hard!​ EarthCODE makes it easy - you just have to submit basic information and the platform catalogues your workflow.
 
-</div>
-<div class="bg-white">
+</section>
+<section class="white">
 
 ## Benefits of sharing
 With EarthCODE, you can easily contribute scientific workflows that drive impact. Share your methods, secure a DOI, and promote reproducibility while embracing the Open Science approach. The platform allows you to create workflows for experiments, submit them for verification, and then publish them. This ensures that experiments can be effortlessly reused - making your research FAIR and Open.
@@ -34,7 +34,7 @@ With EarthCODE, you can easily contribute scientific workflows that drive impact
     </div>
   </div>
 
-</div>
+</section>
 
 
 <style>

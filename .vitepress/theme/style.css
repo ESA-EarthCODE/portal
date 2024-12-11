@@ -1,0 +1,238 @@
+@font-face {
+  font-family: "NotesESAbold";
+  src: url("./fonts/notesesabol.ttf") format("truetype");
+}
+@font-face {
+  font-family: "NotesESAregular";
+  src:
+    url("./fonts/notesesareg.woff2") format("woff2"),
+    url("./fonts/notesesareg.ttf") format("truetype");
+}
+@font-face {
+  font-family: "NotesStyle";
+  src: url("./fonts/notesstyle.woff") format("woff");
+}
+
+:root {
+  --vp-c-white: #ffffff;
+  --vp-c-black: #101213;
+  --vp-font-family-base: Arial, sans-serif;
+  --vp-c-brand-1: #00b19d;
+  --vp-c-brand-2: #00b19d;
+  --vp-c-brand-3: #00b19d;
+  --vp-layout-top-height: 104px;
+}
+
+.dark {
+  --vp-c-bg: #0b1d26;
+  --vp-c-bg-alt: #003247;
+  --vp-c-bg-elv: #0b1d26;
+  --vp-c-bg-soft: #003247;
+}
+
+html {
+  font-family: Arial, Helvetica;
+  font-size: 62.5%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.VPNavBarTitle,
+.VPHero .text,
+.VPButton,
+.VPLink {
+  font-family: "NotesESAbold", sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+.VPNav,
+.VPHomeHero {
+  display: none;
+}
+
+.VPContent.is-home {
+  padding-top: 0;
+  margin-top: 0;
+}
+
+.vp-doc.container {
+  padding: 0;
+  margin: 0;
+  max-width: unset;
+}
+
+section {
+  padding: 120px 24px;
+}
+@media (min-width: 640px) {
+  section {
+    padding: 120px 200px;
+  }
+}
+section > * {
+  max-width: 1280px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  display: block;
+}
+section.white {
+  background: #fff;
+  color: var(--vp-c-black);
+}
+section.light-grey {
+  background: #f7f8f8;
+  color: var(--vp-c-black);
+}
+section.grey {
+  background: #8a969e;
+  color: var(--vp-c-white);
+}
+section.blue {
+  background: #0b1d26;
+  color: var(--vp-c-white);
+}
+section.dark-grey {
+  background: #202427;
+  color: var(--vp-c-white);
+}
+
+section h1 {
+  font-size: 4.8rem !important;
+  margin-bottom: 0.8rem !important;
+  line-height: 5.7rem !important;
+}
+section h2 {
+  font-size: 4rem !important;
+  margin-bottom: 0.8rem !important;
+  line-height: 4.8rem !important;
+  border-top: none !important;
+}
+section > p {
+  font-size: 1.8rem !important;
+  margin-bottom: 4rem !important;
+}
+
+.two-column {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+.two-column h1,
+.two-column h2,
+.two-column h3,
+.two-column h4,
+.two-column h5,
+.two-column h6 {
+  margin-top: 0;
+}
+@media (min-width: 640px) {
+  .two-column {
+    flex-direction: row;
+  }
+}
+
+.VPHome {
+  margin-bottom: 0 !important;
+}
+
+/*
+* Hero
+*/
+@keyframes zoom-in-slow {
+  0% {
+    scale: 1;
+  }
+  100% {
+    scale: 1.25;
+  }
+}
+.VPHero {
+  position: relative;
+  overflow: hidden;
+}
+.VPHero:before,
+.VPHero:after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+.VPHero:before {
+  background: url("https://testing.earthcode.eox.at/assets/img/EarthCODE_Herobanner_1920x1080_nologo.jpg");
+  background-size: cover;
+  background-position: 50% calc(50% + 64px);
+  animation: zoom-in-slow 30s ease-out forwards;
+}
+.VPHero:after {
+  background: #0007;
+}
+.VPHero .text {
+  color: var(--vp-c-white);
+  font-size: 40px;
+  line-height: 57.6px;
+}
+.VPHero .tagline {
+  color: #e8e8e4;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+/*
+* CTA button
+*/
+@keyframes cta-arrow {
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(50%);
+  }
+}
+.VPButton.cta {
+  display: inline-block;
+  text-decoration: none;
+  background-color: #fff;
+  color: #335e6f;
+  padding: 5px 71px 5px 30px !important;
+  border-radius: 2px !important;
+  transition: all 0.25s ease;
+  font-weight: 700;
+  font-family: "NotesESAbold", sans-serif;
+  font-size: 16px !important;
+  line-height: 40px !important;
+  text-transform: uppercase;
+  letter-spacing: 1.6px;
+  cursor: pointer;
+  height: 50px;
+}
+.VPButton.cta:hover {
+  transform: translateY(-0.15rem);
+  color: #335e6f;
+}
+.VPButton.cta:after {
+  content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='21' height='10' viewBox='0 0 20 11.428'%3E%3Cdefs%3E%3Cstyle%3E.a%7Bfill:%23335e6f;%7D%3C/style%3E%3C/defs%3E%3Cg transform='translate(19380 17820)'%3E%3Cpath class='a' d='M13.885,128.157l-.316.316a.536.536,0,0,0,0,.758l3.747,3.725H.536a.536.536,0,0,0-.536.536v.446a.536.536,0,0,0,.536.536H17.316L13.57,138.2a.536.536,0,0,0,0,.758l.316.316a.536.536,0,0,0,.758,0l5.2-5.179a.536.536,0,0,0,0-.758l-5.2-5.179A.536.536,0,0,0,13.885,128.157Z' transform='translate(-19380 -17948)'/%3E%3C/g%3E%3C/svg%3E");
+  margin-left: 30px;
+  position: absolute;
+}
+@media (min-width: 640px) {
+  .VPButton.cta {
+    padding: 5px 121px 5px 30px !important;
+  }
+  .VPButton.cta:after {
+    margin-left: 70px;
+  }
+}
+.VPButton.cta:hover:after {
+  animation: cta-arrow 1s ease-in-out infinite;
+}

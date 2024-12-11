@@ -1,17 +1,18 @@
 ---
 layout: home
+title: Welcome to EarthCODE
 
 hero:
   text: Revolutionizing Earth System Science with Open Science Principles
-  image:
-    src: /assets/img/EarthCODE_Herobanner_1920x1080_nologo.jpg
-  underline: Join ESA's initiative to ensure long-term preservation and accessibility of research data, code, and documentation for a global scientific community
-  cta:
-    text: Sign up for updates
-    link: https://esacontact.esa.int/ESA_EO_OpenScience_Subscribe
+  tagline: Join ESA's initiative to ensure long-term preservation and accessibility of research data, code, and documentation for a global scientific community
+  image: /img/EarthCODE_Herobanner_1920x1080_nologo.jpg
+  actions:
+    - theme: cta
+      text: Sign up for updates
+      link: https://esacontact.esa.int/ESA_EO_OpenScience_Subscribe
 ---
 
-<div class="bg-white">
+<section class="white">
 
 ## Explore our Key Offerings 
 
@@ -41,9 +42,9 @@ hero:
     link="/community"
   ></esa-capability>
 </esa-capabilities>
-</div>
 
-<div class="bg-light">
+</section>
+<section class="blue">
 
 ## Latest News & Updates
 
@@ -76,39 +77,39 @@ hero:
     date="20.12.2024"
   ></esa-card>
 </esa-card-row>
-</div>
-<div class="bg-white">
+
+</section>
+<section class="white">
 
 ## Popular Resources
 
-<esa-card-row>
-  <esa-card
-    type="showcase"
+<esa-capabilities>
+  <esa-capability
     title="Open Science Catalog"
-    image="https://app-reverse-proxy.osc.earthcode.eox.at/open-science-catalog-metadata/themes/atmosphere/EO_Atmosphere.webp"
-    tag="Resource"
-    tagColor="#003247"
-    href="https://opensciencedata.esa.int"
-  ></esa-card>
-  <esa-card
-    type="showcase"
+    description="Explore a collection of publicly available geoscience products, datasets and resources developed in the frame of scientific research Projects funded by ESA EO (Earth Observation)"
+    link="https://opensciencedata.esa.int"
+  ></esa-capability>
+  <esa-capability
     title="Community Forum"
-    image="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 10'></svg>"
-    tag="Resource"
-    tagColor="#003247"
-    href="https://discourse-earthcode.eox.at/"
-  ></esa-card>
-</esa-card-row>
+    description=" "
+    link="https://discourse-earthcode.eox.at/"
+  ></esa-capability>
+</esa-capabilities>
 
-</div>
-<div class="bg-grey">
-<esa-cta
-  background="#8A969E"
-  title="Join the community"
-  description="Tortor tortor laoreet malesuada nulla.Molestie porttitor nunc pellentesque semper sapien tritique."
-  cta-link="/foo/bar"
-  cta-text="register"
-></esa-cta>
-</div>
+</section>
+<section class="blue">
+  <div class="two-column">
 
-<esa-cta title="Subscribe to the EO Open Science Newsletter" description="<b>Why should I sign up?</b><br /><small>• Get monthly updates from ESA EO Open Science<br/>• Access expert insights, research updates, event announcements, and more<br/>• Stay updated on new EarthCODE features, resources and collaboration opportunities</small>" cta-link="https://esacontact.esa.int/ESA_EO_OpenScience_Subscribe" cta-text="Subscribe" two-columns></esa-cta>
+  ## Subscribe to the EO Open Science Newsletter
+  <div>
+
+  #### Why should I sign up?
+
+  - Get monthly updates from ESA EO Open Science
+  - Access expert insights, research updates, event announcements, and more
+  - Stay updated on new EarthCODE features, resources and collaboration opportunities
+
+  <a class="VPButton cta no-icon" href="https://esacontact.esa.int/ESA_EO_OpenScience_Subscribe" target="_blank">Subscribe</a>
+  </div>
+  </div>
+</section>
