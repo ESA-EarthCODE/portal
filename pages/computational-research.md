@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-<section class="grey">
+<section class="blue hero">
 
 # Computational Research
 ## Unlock powerful cloud computing for Earth science research. With EarthCODE, access top cloud platforms to build and share FAIR, open scientific workflows effortlessly.

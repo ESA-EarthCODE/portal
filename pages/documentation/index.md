@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<section class="blue">
+<section class="blue hero">
 
 # User Documentation
 <br />

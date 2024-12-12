@@ -114,7 +114,7 @@ export default defineConfig({
     template: {
       compilerOptions: {
         isCustomElement: (tag) => {
-          return tag.toLowerCase().includes("esa-");
+          return tag.toLowerCase().includes("-");
         },
       },
     },

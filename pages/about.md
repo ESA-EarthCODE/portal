@@ -2,14 +2,14 @@
 layout: page
 ---
 
-<section class="grey">
+<section class="blue hero">
 
 # About EarthCODE
 
 Coming soon
 
 </section>
-<section class="blue">
+<section class="white">
 
 ## Roadmap (WIP) - Missing content!
 

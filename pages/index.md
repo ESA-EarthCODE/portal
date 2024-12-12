@@ -51,8 +51,8 @@ hero:
 <esa-card-row>
   <esa-card
     type="story"
-    title="LPS2025"
-    image="https://lps25.esa.int/wp-content/themes/lps25/images/venue_1.webp"
+    title="EarthCODE at ESA LPS 2025"
+    image="https://esa-earthcode.github.io/portal-assets/blog/Living_Planet_Symposium_2025_pillars-4170729331.jpg"
     tag="Announcements"
     tagColor="#00ae9d"
     href="/blog/lps-25"
@@ -60,11 +60,11 @@ hero:
   ></esa-card>
   <esa-card
     type="story"
-    title="Summary from 2024 IEEE symposium"
-    image="https://placehold.co/600x400"
+    title="New ESA EO Science Strategy"
+    image="https://esa-earthcode.github.io/portal-assets/blog/Earth_Observation_Science_Strategy_pillars.jpg"
     tag="Summary"
     tagColor="#003247"
-    href="#"
+    href="/blog/new-esa-eo-science-strategy"
     date="20.12.2024"
   ></esa-card>
   <esa-card

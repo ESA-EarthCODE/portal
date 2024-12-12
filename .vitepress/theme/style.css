@@ -20,7 +20,19 @@
   --vp-c-brand-1: #00b19d;
   --vp-c-brand-2: #00b19d;
   --vp-c-brand-3: #00b19d;
-  --vp-layout-top-height: 104px;
+  --vp-nav-height: 76px;
+  --vp-layout-top-height: 0px;
+}
+
+@media (min-width: 720px) {
+  :root {
+    --vp-nav-height: 92px;
+  }
+}
+@media (min-width: 1024px) {
+  :root {
+    --vp-nav-height: 104px;
+  }
 }
 
 .dark {
@@ -65,7 +77,9 @@ body {
   display: none;
 }
 
-.VPContent.is-home {
+.home .VPContent,
+.page .VPContent,
+.blog .VPContent {
   padding-top: 0;
   margin-top: 0;
 }
@@ -83,6 +97,9 @@ section {
   section {
     padding: 120px 200px;
   }
+}
+section.hero {
+  padding-top: calc(120px + var(--vp-nav-height));
 }
 section > * {
   max-width: 1280px;
@@ -123,7 +140,7 @@ section h2 {
   border-top: none !important;
 }
 section h3 {
-  font-size: 1,875rem !important;
+  font-size: 1, 875rem !important;
   margin-bottom: 0.3125rem !important;
   line-height: 2.5rem !important;
 }

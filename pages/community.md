@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<section class="grey">
+<section class="blue hero">
 
   # Join our Earth Science Community
   ## Connect with researchers, share insights, and collaborate on data and workflows. 

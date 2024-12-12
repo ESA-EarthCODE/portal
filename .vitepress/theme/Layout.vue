@@ -56,7 +56,6 @@ onMounted(async () => {
       if (href.startsWith("http") || target === "_blank") {
         window.open(href, target).focus();
       } else {
-        console.log("going");
         router.go(href);
       }
     };
@@ -82,7 +81,7 @@ onMounted(async () => {
 </script>
 
 <template>
-  <Layout>
+  <Layout :class="frontmatter.layout">
     <template #layout-top>
       <ClientOnly>
         <esa-menu
