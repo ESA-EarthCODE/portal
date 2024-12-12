@@ -7,7 +7,6 @@ export default {
   Layout,
   async enhanceApp({ app, router, siteData }) {
     if (!import.meta.env.SSR) {
-      app.config.compilerOptions.isCustomElement = (tag) => tag.includes("-");
       app.use(await import("@eox/esa-ui/components/menu.js"));
       app.use(await import("@eox/esa-ui/components/header.js"));
       app.use(await import("@eox/esa-ui/components/navbar.js"));

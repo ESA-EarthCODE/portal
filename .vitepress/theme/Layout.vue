@@ -54,30 +54,35 @@ onMounted(async () => {
 <template>
   <Layout>
     <template #layout-top>
-      <esa-menu
-        .menuItems="theme.nav.map(n => ({title: n.text, href: n.link}))"
-      ></esa-menu>
-      <esa-header></esa-header>
-      <esa-navbar
-        :brand-title="site.title"
-        enable-login="https://dashboard.earthcode-testing.earthcode.eox.at/"
-        .menuItems="theme.nav.map(n => ({title: n.text, href: n.link}))"
-      ></esa-navbar>
+      <ClientOnly>
+        <esa-menu
+          .menuItems="theme.nav.map(n => ({title: n.text, href: n.link}))"
+        ></esa-menu>
+        <esa-header></esa-header>
+        <esa-navbar
+          :brand-title="site.title"
+          enable-login="https://dashboard.earthcode-testing.earthcode.eox.at/"
+          .menuItems="theme.nav.map(n => ({title: n.text, href: n.link}))"
+        ></esa-navbar>
+      </ClientOnly>
     </template>
     <template #home-hero-before>
-      <esa-cover
-        :overline="frontmatter.title"
-        :title="frontmatter.hero.text"
-        :background-image="frontmatter.hero.image"
-        :underline="frontmatter.hero.tagline"
-        cta
-        :cta-link="frontmatter.hero.actions[0].link"
-        :cta-text="frontmatter.hero.actions[0].text"
-      ></esa-cover>
+      <ClientOnly>
+        <esa-cover
+          :overline="frontmatter.title"
+          :title="frontmatter.hero.text"
+          :background-image="frontmatter.hero.image"
+          :underline="frontmatter.hero.tagline"
+          cta
+          :cta-link="frontmatter.hero.actions[0].link"
+          :cta-text="frontmatter.hero.actions[0].text"
+        ></esa-cover>
+      </ClientOnly>
     </template>
     <template #layout-bottom>
-      <esa-gateway
-        .items='[
+      <ClientOnly>
+        <esa-gateway
+          .items='[
       {
         title: "ESA Vision",
         links: [
@@ -121,12 +126,12 @@ onMounted(async () => {
         ],
       },
     ]'
-      ></esa-gateway>
-      <esa-footer
-        title="Get in touch"
-        description="Join ESA's initiative to ensure long-term preservation and accessibility of research data, code, and documentation for a global scientific community."
-        contact-link="mailto:earthcode@esa.int"
-        .footerItems="[
+        ></esa-gateway>
+        <esa-footer
+          title="Get in touch"
+          description="Join ESA's initiative to ensure long-term preservation and accessibility of research data, code, and documentation for a global scientific community."
+          contact-link="mailto:earthcode@esa.int"
+          .footerItems="[
           [
             {
               href: 'https://www.esa.int/',
@@ -154,13 +159,12 @@ onMounted(async () => {
             },
           ],
         ]"
-      ></esa-footer>
-      <esa-cookies
-        link="https://www.esa.int/Services/Cookies_notice"
-        @accept="accepted"
-        @declined="declined"
-        style="display: none"
-      ></esa-cookies>
+        ></esa-footer>
+        <esa-cookies
+          link="https://www.esa.int/Services/Cookies_notice"
+          style="display: none"
+        ></esa-cookies>
+      </ClientOnly>
     </template>
   </Layout>
 </template>
