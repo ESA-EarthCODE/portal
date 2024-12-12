@@ -1,10 +1,12 @@
 <script setup>
 import { onMounted } from "vue";
-import { useData } from "vitepress";
+import { useData, useRouter } from "vitepress";
 import DefaultTheme from "vitepress/theme";
+import { applyShadowDomEventListener } from "./helpers";
 
 const { Layout } = DefaultTheme;
 const { site, theme, frontmatter } = useData();
+const router = useRouter();
 
 onMounted(async () => {
   setTimeout(() => {
@@ -47,6 +49,34 @@ onMounted(async () => {
     });
 
     document.body.classList.add("loaded");
+
+    const routerEventHandler = (event, anchor) => {
+      const href = anchor.getAttribute("href");
+      const target = anchor.getAttribute("target");
+      if (href.startsWith("http") || target === "_blank") {
+        window.open(href, target).focus();
+      } else {
+        console.log("going");
+        router.go(href);
+      }
+    };
+
+    applyShadowDomEventListener(
+      [
+        "esa-menu",
+        // "esa-header",
+        "esa-navbar",
+        "esa-cover",
+        "esa-capability",
+        "esa-card",
+        "esa-roadmap-step",
+        // "esa-gateway",
+        // "esa-footer",
+        // "esa-cookies",
+      ],
+      "click",
+      routerEventHandler,
+    );
   });
 });
 </script>
