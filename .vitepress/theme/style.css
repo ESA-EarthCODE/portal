@@ -35,6 +35,15 @@ html {
   font-size: 62.5%;
 }
 
+body {
+  transition: opacity 0.3s ease-in-out;
+  background: #0b1d26;
+}
+
+body:not(.loaded) {
+  opacity: 0;
+}
+
 h1,
 h2,
 h3,
