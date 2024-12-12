@@ -12,14 +12,16 @@ export default {
     app.component("blog", BlogPost);
     app.component("BlogGallery", BlogGallery);
     router.onBeforePageLoad = async (to) => {
-      if (to.includes("/blog/") && to !== "/blog/" && to !== "/blog/README") {
-        router.route.data = {
-          content: blogposts.find((n) => to.startsWith(n.url)).src,
-          frontmatter: {
-            layout: "blog",
-          },
-        };
-        return false;
+      if (!import.meta.env.SSR) {
+        if (to.includes("/blog/") && to !== "/blog/" && to !== "/blog/README") {
+          router.route.data = {
+            content: blogposts.find((n) => to.startsWith(n.url)).src,
+            frontmatter: {
+              layout: "blog",
+            },
+          };
+          return false;
+        }
       }
       return true;
     };

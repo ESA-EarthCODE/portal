@@ -1,14 +1,5 @@
 <script setup>
 import { data as blogposts } from "../../blogposts.data.js";
-
-const blogpostExcerpts = blogposts.map((n) => {
-  const el = document.createElement("html");
-  el.innerHTML = n.html;
-  return (
-    el.querySelector("h1")?.textContent ||
-    n.url.replace("/blog/", "").replace(".html", "")
-  );
-});
 </script>
 
 <template>
@@ -18,7 +9,7 @@ const blogpostExcerpts = blogposts.map((n) => {
       class="blogpost"
       :href="blogpost.url"
     >
-      <p>{{ blogpostExcerpts[index] }}</p>
+      <p>{{ blogpost.frontmatter.title }}</p>
     </a>
   </div>
 </template>

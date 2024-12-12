@@ -1,6 +1,6 @@
 ---
 date: 01.12.2024
-title: EarthCODE at ESA LPS 2025
+title: New ESA EO Science Strategy
 ---
 
 # New ESA EO Science Strategy <!--{ as="img" mode="hero" src="https://esa-earthcode.github.io/portal-assets/blog/Earth_Observation_Science_Strategy_pillars.jpg" }-->
