@@ -123,6 +123,11 @@ section h2 {
   line-height: 4.8rem !important;
   border-top: none !important;
 }
+section h3 {
+  font-size: 3rem !important;
+  margin-bottom: 0.5rem !important;
+  line-height: 4rem !important;
+}
 section > p {
   font-size: 1.8rem !important;
   margin-bottom: 4rem !important;
