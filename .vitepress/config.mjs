@@ -23,8 +23,8 @@ export default defineConfig({
         text: "Community",
       },
       {
-        link: "/get-involved",
-        text: "Get Involved",
+        link: "/documentation",
+        text: "Documentation",
       },
       {
         link: "/blog",
