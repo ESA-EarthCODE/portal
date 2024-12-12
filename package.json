@@ -15,6 +15,6 @@
     "format": "npx prettier --write ."
   },
   "dependencies": {
-    "@eox/esa-ui": "^1.8.1"
+    "@eox/esa-ui": "^1.9.0"
   }
 }
