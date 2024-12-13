@@ -95,7 +95,7 @@ hero:
     link="https://discourse-earthcode.eox.at/"
   ></esa-capability>
   <esa-capability
-    title="Documentation"
+    title="Getting Started with EarthCODE"
     description="Get familiar with the platform and use a step-by-step pathway to help you navigate EarthCODE, from basic understanding to more advanced features"
     link="https://testing.earthcode.eox.at/documentation/getting-started"
   ></esa-capability>  
