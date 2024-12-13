@@ -91,7 +91,7 @@ hero:
   ></esa-capability>
   <esa-capability
     title="Community Forum"
-    description=" "
+    description="Join EarthCODE's vibrant community to collaborate on Earth System Science!  Participate in engaging discussions, attend exciting events, and stay informed with the latest news."
     link="https://discourse-earthcode.eox.at/"
   ></esa-capability>
 </esa-capabilities>
