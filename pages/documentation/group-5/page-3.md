@@ -6,10 +6,10 @@ Finding content on the **EarthCODE Discourse forum** is key to making the most o
 
 ## 1. Use the EarthCODE Catalog
 
-Start by browsing the **EarthCODE Catalog**, where discussions are linked to specific items like datasets, workflows, or experiments. Look for the **"Discuss This"** option to:
+Start by browsing the **EarthCODE Catalog**, where discussions are linked to specific items like datasets, workflows, or experiments. Look for the **"Related EarthCODE Forum Topics** option to:
 
 - Join an existing discussion if one exists.
-- Create a new discussion tied to the catalog item.
+- Create a new discussion tied to the catalog item using the **"Start a new topic on the EarthCODE forum"** button
 
 This keeps discussions directly connected to resources and well-organized.
 
@@ -93,9 +93,11 @@ Whenever possible, **respond to an existing discussion** rather than starting a 
 If your discussion relates to an item in the **EarthCODE Catalog**, it’s best to:
 
 1. Navigate to the catalog and locate the item.
-2. Use the **"Discuss This"** option.
+2. Use the **"Start a new topic on the EarthCODE forum"** button.
 
-This will either direct you to an existing thread or automatically create a new, pre-tagged topic in Discourse. This ensures discussions are directly connected to catalog resources.
+![osc forum](./jointheconversation/OSC.png)
+
+This will automatically create a new, pre-tagged topic in Discourse. This ensures discussions are directly connected to catalog resources.
 
 ## Starting a New Topic
 When no relevant discussion exists, create a new topic. Follow these steps:
