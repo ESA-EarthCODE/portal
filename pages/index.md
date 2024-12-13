@@ -91,12 +91,12 @@ hero:
   ></esa-capability>
   <esa-capability
     title="Community Forum"
-    description="Join EarthCODE's vibrant community to collaborate on Earth System Science!  Participate in engaging discussions, attend exciting events, and stay informed with the latest news."
+    description="Join EarthCODE's vibrant community to collaborate on Earth System Science!  Participate in engaging discussions, attend exciting events, and stay informed with the latest news"
     link="https://discourse-earthcode.eox.at/"
   ></esa-capability>
   <esa-capability
     title="Documentation"
-    description="Get familiar with the platform and use a step-by-step pathway to help you navigate EarthCODE, from basic understanding to more advanced features."
+    description="Get familiar with the platform and use a step-by-step pathway to help you navigate EarthCODE, from basic understanding to more advanced features"
     link="https://testing.earthcode.eox.at/documentation/getting-started"
   ></esa-capability>  
 </esa-capabilities>
