@@ -1,3 +1,9 @@
-# Blog Posts
+---
+layout: page
+---
 
-<BlogGallery />
+<section class="blue hero">
+
+  # Blog Posts
+  <BlogGallery />
+</section>

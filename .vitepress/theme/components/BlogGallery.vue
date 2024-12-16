@@ -3,47 +3,16 @@ import { data as blogposts } from "../../blogposts.data.js";
 </script>
 
 <template>
-  <div class="gallery">
-    <a
+  <esa-cards>
+    <esa-card
       v-for="(blogpost, index) in blogposts"
-      class="blogpost"
-      :href="blogpost.url"
-    >
-      <p>{{ blogpost.frontmatter.title }}</p>
-    </a>
-  </div>
+      :feature="blogpost.frontmatter.feature"
+      overline="Story"
+      :image="blogpost.frontmatter.image"
+      :title="blogpost.frontmatter.title"
+      :date="blogpost.frontmatter.date"
+      :link="blogpost.url"
+      action="Read more"
+    ></esa-card>
+  </esa-cards>
 </template>
-
-<style scoped>
-.gallery {
-  --columns: 1;
-}
-@media screen and (min-width: 480px) {
-  .gallery {
-    --columns: 2;
-  }
-}
-@media screen and (min-width: 768px) {
-  .gallery {
-    --columns: 3;
-  }
-}
-.gallery {
-  display: grid;
-  grid-template-columns: repeat(var(--columns), 1fr);
-  gap: 8px;
-  margin: 64px 0;
-}
-.blogpost {
-  padding: 8px 16px;
-  border-radius: 8px;
-  border: 1px solid var(--vp-c-brand);
-  text-decoration: none;
-  text-align: center;
-  transition: all 0.3s ease-in-out;
-}
-.blogpost:hover {
-  background: var(--vp-c-brand);
-  color: white;
-}
-</style>
