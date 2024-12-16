@@ -39,11 +39,6 @@ Maximise the wide use of new science data and methods by making them FAIR, Open 
       <h3>Public Sharing</h3>
       <p>Make your research discoverable by others, increase visibility of your research by making them open to broad scientific community</p>
     </div>
-    <div class="benefit">
-      <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M19.9987 3.33337C10.7987 3.33337 3.33203 10.8 3.33203 20C3.33203 29.2 10.7987 36.6667 19.9987 36.6667C29.1987 36.6667 36.6654 29.2 36.6654 20C36.6654 10.8 29.1987 3.33337 19.9987 3.33337ZM19.9987 33.3334C12.6487 33.3334 6.66536 27.35 6.66536 20C6.66536 12.65 12.6487 6.66671 19.9987 6.66671C27.3487 6.66671 33.332 12.65 33.332 20C33.332 27.35 27.3487 33.3334 19.9987 33.3334ZM27.6487 12.6334L16.6654 23.6167L12.3487 19.3167L9.9987 21.6667L16.6654 28.3334L29.9987 15L27.6487 12.6334Z" fill="green"/></svg>
-      <h3>DOI Assignment – in Development</h3>
-      <p>Make your dataset easy to be identified, shares and citable with Digital Object Identifier (DOI), automatically generated (on request) directly from the EarthCODE</p>
-    </div>
   </div>
 
 </section>
@@ -81,16 +76,6 @@ Take time to discover a diverse array of datasets shared by researchers across a
       </div>
       <div>
         <a href="https://opensciencedata.esa.int/products/extraim-daily-precipitation/collection">Access <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M3.33398 8H12.0007M8.66732 4L12.1959 7.5286C12.4563 7.78894 12.4563 8.21106 12.1959 8.4714L8.66732 12" stroke="#2F2F2F" stroke-width="1.5" stroke-linecap="round"/></svg>
-        </a>
-      </div>
-    </div>
-    <div class="platform">
-      <div>
-        <h3>ASCAT</h3>
-        <p>Antarctic daily melt extent/stage maps from 2007</p>
-      </div>
-      <div>
-        <a href="https://opensciencedata.esa.int/external/s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/Catalogs/4DANTARCTICA/melt-extent-stage-maps-daily-antarctica/2007/catalog">Access <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M3.33398 8H12.0007M8.66732 4L12.1959 7.5286C12.4563 7.78894 12.4563 8.21106 12.1959 8.4714L8.66732 12" stroke="#2F2F2F" stroke-width="1.5" stroke-linecap="round"/></svg>
         </a>
       </div>
     </div>
