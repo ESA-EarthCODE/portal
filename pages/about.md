@@ -107,3 +107,13 @@ The EarthCODE platform is constantly evolving, with its roadmap regularly update
 </esa-roadmap>
 
 </section>
+
+## Meet the team
+
+Prepare cards with pictures and responsabilities within the team
+
+## Our Partners
+
+List of partners (cards) with the short description (logo) 
+
+</section>
