@@ -4,7 +4,7 @@ layout: page
 <section class="blue hero">
 
 # Datasets
-## Explore a rich repository of novel open-access Earth System Science data, curated and shared by the community. Engage with contributing scientists, foster collaboration, and advance science by contributing and publishing your own findings.
+Explore a rich repository of novel open-access Earth System Science data, curated and shared by the community. Engage with contributing scientists, foster collaboration, and advance science by contributing and publishing your own findings.
 
 </section>
 <section class="light-grey">
