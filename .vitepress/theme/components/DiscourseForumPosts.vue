@@ -65,29 +65,29 @@ li a:hover {
 }
 .title {
   font-family: NotesESAbold, sans-serif;
-  font-size: 1.8rem;
-  line-height: 2.7rem;
+  font-size: 1.125rem;
+  line-height: 1.6875rem;
   grid-area: title;
   margin-bottom: 8px;
 }
 .date {
   grid-area: date;
   color: #647078;
-  font-size: 1.6rem;
-  line-height: 2.5rem;
+  font-size: 1rem;
+  line-height: 1.5625rem;
 }
 .excerpt {
   grid-area: excerpt;
   color: #8a969e;
-  font-size: 1.6rem;
-  line-height: 2.5rem;
+  font-size: 1rem;
+  line-height: 1.5625rem;
 }
 .posts {
   grid-area: posts;
   display: flex;
   align-items: center;
-  font-size: 2rem;
-  line-height: 3.2rem;
+  font-size: 1.25rem;
+  line-height: 2rem;
 }
 .posts img {
   width: 28px;

@@ -90,7 +90,6 @@ onMounted(async () => {
         <esa-header></esa-header>
         <esa-navbar
           :brand-title="site.title"
-          enable-login="https://dashboard.earthcode-testing.earthcode.eox.at/"
           .menuItems="theme.nav.map(n => ({title: n.text, href: n.link}))"
         ></esa-navbar>
       </ClientOnly>
