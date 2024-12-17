@@ -16,7 +16,7 @@
     "format": "npx prettier --write ."
   },
   "dependencies": {
-    "@eox/esa-ui": "^1.10.2",
+    "@eox/esa-ui": "^1.10.3",
     "@eox/storytelling": "^1.4.1"
   }
 }
