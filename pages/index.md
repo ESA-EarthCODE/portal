@@ -52,41 +52,7 @@ hero:
 
 ## Latest News & Updates
 
-<esa-cards>
-  <esa-card
-    feature
-    overline="story"
-    title="EarthCODE at ESA LPS 2025"
-    image="https://esa-earthcode.github.io/portal-assets/blog/Living_Planet_Symposium_2025_pillars-4170729331.jpg"
-    tag="Announcements"
-    tagColor="#00ae9d"
-    action="Read more"
-    link="/blog/lps-25"
-    date="20.12.2024"
-  ></esa-card>
-  <esa-card
-    light
-    overline="story"
-    title="New ESA EO Science Strategy"
-    image="https://esa-earthcode.github.io/portal-assets/blog/Earth_Observation_Science_Strategy_pillars.jpg"
-    tag="Summary"
-    tagColor="#003247"
-    action="Read more"
-    link="/blog/new-esa-eo-science-strategy"
-    date="20.12.2024"
-  ></esa-card>
-  <esa-card
-    light
-    overline="story"
-    title="Summary from IGARSS2024"
-    image="https://placehold.co/600x400"
-    tag="Summary"
-    tagColor="#003247"
-    action="Read more"
-    link="#"
-    date="20.12.2024"
-  ></esa-card>
-</esa-cards>
+<BlogGallery />
 
 </section>
 <section class="white">

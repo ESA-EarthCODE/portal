@@ -1,5 +1,5 @@
 ---
-date: 01.12.2024
+date: 2024-12-02
 title: New ESA EO Science Strategy
 image: https://esa-earthcode.github.io/portal-assets/blog/Earth_Observation_Science_Strategy_pillars.jpg
 ---
