@@ -25,36 +25,6 @@ To accelerate scientific discovery and support Earth Action by making Earth scie
 ### Goals overview:
 EarthCODE is designed to deliver a user-centric, advanced open science environment tailored to the needs of EO scientists. By focusing on usability and engagement, EarthCODE ensures researchers can efficiently conduct FAIR, reproducible, and sustainable Earth Science research within the ESRIN Science Hub and ESA Science Clusters. 
 
-<esa-roadmap>
-  <esa-roadmap-step
-    step="#1"
-    title="Goal 1: User-centric, empowering scientists"
-    objective="Develop an advanced open science environment."
-    outcome="EARTH-CODE enables researchers and projects within the ESRIN Science Hub and ESA Science Clusters to efficiently conduct FAIR, reproducible, and sustainable Earth Science and EO research"
-  ></esa-roadmap-step>
-
-  <esa-roadmap-step
-    step="#2"
-    title="Goal 2: Functional and performant"
-    objective="Provide state-of-the-art tools and resources."
-    outcome="Scientists benefit from advanced tools for data, workflow, and code management, including long-term storage, metadata support, and open-source resources, enabling seamless and efficient research."
-  ></esa-roadmap-step>
-
-  <esa-roadmap-step
-    step="#3"
-    title="Goal 3: Scalable to evolve with science needs"
-    objective="Enable reproducible and scalable workflows."
-    outcome="EarthCODE integrates scalable cloud computing and flexible architecture, supporting complex workflows and adapting to evolving scientific requirements."
-  ></esa-roadmap-step>
-
-  <esa-roadmap-step
-    step="04"
-    title="Goal 4: Building a collaborative community"
-    objective="Promote open access and community collaboration."
-    outcome="By providing open, discoverable, and citable scientific outputs, EarthCODE builds a trusted community that advances global collaboration and transparency in Earth Observation research."
-  ></esa-roadmap-step>
-</esa-roadmap>
-
 
 ## Roadmap 
 
@@ -110,10 +80,10 @@ The EarthCODE platform is constantly evolving, with its roadmap regularly update
 
 ## Meet the team
 
-Prepare cards with pictures and responsabilities within the team
+List with tema members with pictures
 
 ## Our Partners
 
-List of partners (cards) with the short description (logo) 
+List of partners with the short description
 
 </section>
