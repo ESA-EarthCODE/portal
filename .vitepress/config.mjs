@@ -59,7 +59,7 @@ export default defineConfig({
       "meta",
       {
         property: "og:image",
-        content: "https://earthcode.esa.int/assets/img/earthcode.png",
+        content: "https://earthcode.esa.int/img/EarthCODE_Herobanner_1920x1080.jpg",
       },
     ],
     // Twitter
@@ -83,7 +83,7 @@ export default defineConfig({
       "meta",
       {
         property: "twitter:image",
-        content: "https://earthcode.esa.int/assets/img/earthcode.png",
+        content: "https://earthcode.esa.int/img/EarthCODE_Herobanner_1920x1080.jpg",
       },
     ],
     [
