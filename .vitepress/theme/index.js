@@ -37,7 +37,6 @@ export default {
       app.use(await import("@eox/esa-ui/components/navbar.js"));
       app.use(await import("@eox/esa-ui/components/cover.js"));
       app.use(await import("@eox/esa-ui/components/card.js"));
-      app.use(await import("@eox/esa-ui/components/roadmap.js"));
       app.use(await import("@eox/esa-ui/components/gateway.js"));
       app.use(await import("@eox/esa-ui/components/footer.js"));
       app.use(await import("@eox/esa-ui/components/cookies.js"));

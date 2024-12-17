@@ -17,66 +17,97 @@ ESA's EarthCODE is a dynamic Collaborative Open Development Environment created 
  
 Our mission is to develop an open-source solution that empowers scientists to adopt FAIR and Open Science principles, whether conducting research on cloud environments accessible via the EarthCODE Portal or their own infrastructure. To maximise the discovery and reuse of FAIR scientific data, workflows, and documentation, we develop EarthCODE as a hub for research management, dissemination, community engagement, and learning. 
 
-
 ### Vision statement: 
 To accelerate scientific discovery and support Earth Action by making Earth science data and methods FAIR, Open, and reproducible. Leveraging cutting-edge cloud computing technologies, AI, and open-source solutions, we empower collaboration and innovation for a sustainable future. 
-
 
 ### Goals overview:
 EarthCODE is designed to deliver a user-centric, advanced open science environment tailored to the needs of EO scientists. By focusing on usability and engagement, EarthCODE ensures researchers can efficiently conduct FAIR, reproducible, and sustainable Earth Science research within the ESRIN Science Hub and ESA Science Clusters. 
 
+</section>
+<section class="light-grey">
+
+## Upcoming Events
+
+<esa-cards carousel>
+  <esa-card
+    icon='<svg width="36" height="40" viewBox="0 0 36 40" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M31.75 5H28V0.9375C28 0.419766 27.5802 0 27.0625 0H26.4375C25.9198 0 25.5 0.419766 25.5 0.9375V5H10.5V0.9375C10.5 0.419766 10.0802 0 9.5625 0H8.9375C8.41977 0 8 0.419766 8 0.9375V5H4.25C2.17891 5 0.5 6.67891 0.5 8.75V36.25C0.5 38.3211 2.17891 40 4.25 40H31.75C33.8211 40 35.5 38.3211 35.5 36.25V8.75C35.5 6.67891 33.8211 5 31.75 5ZM4.25 7.5H31.75C32.4392 7.5 33 8.06078 33 8.75V12.5H3V8.75C3 8.06078 3.56078 7.5 4.25 7.5ZM4.25 37.5H31.75C32.4392 37.5 33 36.9392 33 36.25V15H3V36.25C3 36.9392 3.56078 37.5 4.25 37.5Z" fill="#003247"/></svg>'
+    title="Event Name"
+    description="Registration open"
+    date="01.01.2025 | 10:30-14:00"
+  ></esa-card>
+  <esa-card
+    icon='<svg width="36" height="40" viewBox="0 0 36 40" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M31.75 5H28V0.9375C28 0.419766 27.5802 0 27.0625 0H26.4375C25.9198 0 25.5 0.419766 25.5 0.9375V5H10.5V0.9375C10.5 0.419766 10.0802 0 9.5625 0H8.9375C8.41977 0 8 0.419766 8 0.9375V5H4.25C2.17891 5 0.5 6.67891 0.5 8.75V36.25C0.5 38.3211 2.17891 40 4.25 40H31.75C33.8211 40 35.5 38.3211 35.5 36.25V8.75C35.5 6.67891 33.8211 5 31.75 5ZM4.25 7.5H31.75C32.4392 7.5 33 8.06078 33 8.75V12.5H3V8.75C3 8.06078 3.56078 7.5 4.25 7.5ZM4.25 37.5H31.75C32.4392 37.5 33 36.9392 33 36.25V15H3V36.25C3 36.9392 3.56078 37.5 4.25 37.5Z" fill="#003247"/></svg>'
+    title="Event Name"
+    description="Registration open"
+    date="01.01.2025 | 10:30-14:00"
+  ></esa-card>
+</esa-cards>
+</section>
+<section class="white">
+
+# Our Partners
+</section>
+<section class="dark">
 
 ## Roadmap 
 
 The EarthCODE platform is constantly evolving, with its roadmap regularly updated to include new enhancements. Stay tuned for more data offerings and upcoming services soon. 
 
-<esa-roadmap>
-  <esa-roadmap-step
-    step="01"
-    status="Year 1"
+<esa-cards carousel>
+  <esa-card
+    compact
+    overline="Year 1"
+    image="data:image/svg+xml,%3Csvg width='800' height='600' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='800' height='600' fill='%230b1d26' /%3E%3C/svg%3E"
+    tag="Ongoing"
+    tag-color="#0091C6"
     title="Foundational Development"
-    objective="Establish core architecture and user-centric design"
-    outcome="Develop the EarthCODE architecture catering to the needs of the ESA Earth System Science activities; identify and procure services and technologies; pursue synergies with open-source communities and and coordination with other initiaitves (EOEPCA+, APEx)"
-  ></esa-roadmap-step>
-
-  <esa-roadmap-step
-    step="02"
-    status="Year 2"
-    color="#0091C6"
+    description='<h4 style="display: flex;align-items:center;gap:12px"><svg width="18" height="18" viewBox="0 0 20 23" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9.81333 2.83341L10.3467 5.50008H17.3333V13.5001H12.8533L12.32 10.8334H2.66667V2.83341H9.81333ZM12 0.166748H0V22.8334H2.66667V13.5001H10.1333L10.6667 16.1667H20V2.83341H12.5333L12 0.166748Z" fill="#434C51"/></svg> OBJECTIVE:</h4><p>Establish core architecture and user-centric design</p>
+    <h4 style="display: flex;align-items:center;gap:12px"><svg width="18" height="18" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M21.3333 3.16667H18.6667V0.5H5.33333V3.16667H2.66667C1.2 3.16667 0 4.36667 0 5.83333V7.16667C0 10.5667 2.56 13.34 5.85333 13.7533C6.69333 15.7533 8.49333 17.26 10.6667 17.7V21.8333H5.33333V24.5H18.6667V21.8333H13.3333V17.7C15.5067 17.26 17.3067 15.7533 18.1467 13.7533C21.44 13.34 24 10.5667 24 7.16667V5.83333C24 4.36667 22.8 3.16667 21.3333 3.16667ZM2.66667 7.16667V5.83333H5.33333V10.9267C3.78667 10.3667 2.66667 8.9 2.66667 7.16667ZM12 15.1667C9.8 15.1667 8 13.3667 8 11.1667V3.16667H16V11.1667C16 13.3667 14.2 15.1667 12 15.1667ZM21.3333 7.16667C21.3333 8.9 20.2133 10.3667 18.6667 10.9267V5.83333H21.3333V7.16667Z" fill="#434C51"/></svg> OUTCOME:</h4><p>    outcome="Develop the EarthCODE architecture catering to the needs of the ESA Earth System Science activities; identify and procure services and technologies; pursue synergies with open-source communities and and coordination with other initiaitves (EOEPCA+, APEx)</p>'
+  ></esa-card>
+    <esa-card
+    compact
+    overline="Year 2"
+    image="data:image/svg+xml,%3Csvg width='800' height='600' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='800' height='600' fill='%230b1d26' /%3E%3C/svg%3E"
+    tag="Coming Up"
+    tag-color="#55869E"
     title="Initial Platform Deployment"
-    objective="Deploy an MVP (minimum viable product) to selected users"
-    outcome="Launch the Portal with core features such as data discovery, workflow management, and integration with cloud computing services; provide tutorials, documentation, and training to ensure efficient onboarding; begin community-building initiatives to engage early adopters and collect feedback; first reproducibility demonstrations"
-  ></esa-roadmap-step>
-
-  <esa-roadmap-step
-    step="03"
-    status="Year 3+"
-    color="#55869E"
-    title="Enhance scalability and functionality"
-    objective="Expand features and refine scalability"
-    outcome="Incorporate additional platform services and applications to meet diverse project needs; integrate more advanced tools for automation, complex analyses, and machine learning workflows; enhance reproducibility capabilities; demonstrate reproducible workflows across multiple platforms"
-  ></esa-roadmap-step>
-
-  <esa-roadmap-step
-    step="04"
-    status="Year 2+"
-    color="#55869E"
+    description='<h4 style="display: flex;align-items:center;gap:12px"><svg width="18" height="18" viewBox="0 0 20 23" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9.81333 2.83341L10.3467 5.50008H17.3333V13.5001H12.8533L12.32 10.8334H2.66667V2.83341H9.81333ZM12 0.166748H0V22.8334H2.66667V13.5001H10.1333L10.6667 16.1667H20V2.83341H12.5333L12 0.166748Z" fill="#434C51"/></svg> OBJECTIVE:</h4><p>Deploy an MVP (minimum viable product) to selected users</p>
+    <h4 style="display: flex;align-items:center;gap:12px"><svg width="18" height="18" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M21.3333 3.16667H18.6667V0.5H5.33333V3.16667H2.66667C1.2 3.16667 0 4.36667 0 5.83333V7.16667C0 10.5667 2.56 13.34 5.85333 13.7533C6.69333 15.7533 8.49333 17.26 10.6667 17.7V21.8333H5.33333V24.5H18.6667V21.8333H13.3333V17.7C15.5067 17.26 17.3067 15.7533 18.1467 13.7533C21.44 13.34 24 10.5667 24 7.16667V5.83333C24 4.36667 22.8 3.16667 21.3333 3.16667ZM2.66667 7.16667V5.83333H5.33333V10.9267C3.78667 10.3667 2.66667 8.9 2.66667 7.16667ZM12 15.1667C9.8 15.1667 8 13.3667 8 11.1667V3.16667H16V11.1667C16 13.3667 14.2 15.1667 12 15.1667ZM21.3333 7.16667C21.3333 8.9 20.2133 10.3667 18.6667 10.9267V5.83333H21.3333V7.16667Z" fill="#434C51"/></svg> OUTCOME:</h4><p>Launch the Portal with core features such as data discovery, workflow management, and integration with cloud computing services; provide tutorials, documentation, and training to ensure efficient onboarding; begin community-building initiatives to engage early adopters and collect feedback; first reproducibility demonstrations</p>'
+  ></esa-card>
+    <esa-card
+    compact
+    overline="Year 2+"
+    image="data:image/svg+xml,%3Csvg width='800' height='600' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='800' height='600' fill='%230b1d26' /%3E%3C/svg%3E"
+    tag="Coming Up"
+    tag-color="#55869E"
     title="Community Expansion and Open Access"
-    objective="Foster collaboration and broaden community access."
-    outcome="Open the platform to the wider scientific community with features for open access, publishing, and citation of scientific outputs; build a library of open-source resources, including reusable code and example workflows; strengthen community engagement through events, forums, and collaboration tools"
-  ></esa-roadmap-step>
-
-    <esa-roadmap-step
-    step="05"
-    status="Year 4+"
-    color="#55869E"
+    description='<h4 style="display: flex;align-items:center;gap:12px"><svg width="18" height="18" viewBox="0 0 20 23" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9.81333 2.83341L10.3467 5.50008H17.3333V13.5001H12.8533L12.32 10.8334H2.66667V2.83341H9.81333ZM12 0.166748H0V22.8334H2.66667V13.5001H10.1333L10.6667 16.1667H20V2.83341H12.5333L12 0.166748Z" fill="#434C51"/></svg> OBJECTIVE:</h4><p>Foster collaboration and broaden community access</p>
+    <h4 style="display: flex;align-items:center;gap:12px"><svg width="18" height="18" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M21.3333 3.16667H18.6667V0.5H5.33333V3.16667H2.66667C1.2 3.16667 0 4.36667 0 5.83333V7.16667C0 10.5667 2.56 13.34 5.85333 13.7533C6.69333 15.7533 8.49333 17.26 10.6667 17.7V21.8333H5.33333V24.5H18.6667V21.8333H13.3333V17.7C15.5067 17.26 17.3067 15.7533 18.1467 13.7533C21.44 13.34 24 10.5667 24 7.16667V5.83333C24 4.36667 22.8 3.16667 21.3333 3.16667ZM2.66667 7.16667V5.83333H5.33333V10.9267C3.78667 10.3667 2.66667 8.9 2.66667 7.16667ZM12 15.1667C9.8 15.1667 8 13.3667 8 11.1667V3.16667H16V11.1667C16 13.3667 14.2 15.1667 12 15.1667ZM21.3333 7.16667C21.3333 8.9 20.2133 10.3667 18.6667 10.9267V5.83333H21.3333V7.16667Z" fill="#434C51"/></svg> OUTCOME:</h4><p>Open the platform to the wider scientific community with features for open access, publishing, and citation of scientific outputs; build a library of open-source resources, including reusable code and example workflows; strengthen community engagement through events, forums, and collaboration tools</p>'
+  ></esa-card>
+    <esa-card
+    compact
+    overline="Year 3+"
+    image="data:image/svg+xml,%3Csvg width='800' height='600' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='800' height='600' fill='%230b1d26' /%3E%3C/svg%3E"
+    tag="Coming Up"
+    tag-color="#55869E"
+    title="Enhance scalability and functionality"
+    description='<h4 style="display: flex;align-items:center;gap:12px"><svg width="18" height="18" viewBox="0 0 20 23" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9.81333 2.83341L10.3467 5.50008H17.3333V13.5001H12.8533L12.32 10.8334H2.66667V2.83341H9.81333ZM12 0.166748H0V22.8334H2.66667V13.5001H10.1333L10.6667 16.1667H20V2.83341H12.5333L12 0.166748Z" fill="#434C51"/></svg> OBJECTIVE:</h4><p>Expand features and refine scalability</p>
+    <h4 style="display: flex;align-items:center;gap:12px"><svg width="18" height="18" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M21.3333 3.16667H18.6667V0.5H5.33333V3.16667H2.66667C1.2 3.16667 0 4.36667 0 5.83333V7.16667C0 10.5667 2.56 13.34 5.85333 13.7533C6.69333 15.7533 8.49333 17.26 10.6667 17.7V21.8333H5.33333V24.5H18.6667V21.8333H13.3333V17.7C15.5067 17.26 17.3067 15.7533 18.1467 13.7533C21.44 13.34 24 10.5667 24 7.16667V5.83333C24 4.36667 22.8 3.16667 21.3333 3.16667ZM2.66667 7.16667V5.83333H5.33333V10.9267C3.78667 10.3667 2.66667 8.9 2.66667 7.16667ZM12 15.1667C9.8 15.1667 8 13.3667 8 11.1667V3.16667H16V11.1667C16 13.3667 14.2 15.1667 12 15.1667ZM21.3333 7.16667C21.3333 8.9 20.2133 10.3667 18.6667 10.9267V5.83333H21.3333V7.16667Z" fill="#434C51"/></svg> OUTCOME:</h4><p>Incorporate additional platform services and applications to meet diverse project needs; integrate more advanced tools for automation, complex analyses, and machine learning workflows; enhance reproducibility capabilities; demonstrate reproducible workflows across multiple platforms</p>'
+  ></esa-card>
+    <esa-card
+    compact
+    overline="Year 4+"
+    image="data:image/svg+xml,%3Csvg width='800' height='600' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='800' height='600' fill='%230b1d26' /%3E%3C/svg%3E"
+    tag="Coming Up"
+    tag-color="#55869E"
     title="Long-Term Sustainability and Growth"
-    objective="Ensure sustainability and adaptability for future needs."
-    outcome="Establish a governance model for long-term maintenance and evolution; continuously add new platform services and refine existing tools based on user feedback and evolving scientific challenges; integrate advanced technologies such as AI and advanced visualisation, enhance scalability and capabilities."
-  ></esa-roadmap-step>
-</esa-roadmap>
+    description='<h4 style="display: flex;align-items:center;gap:12px"><svg width="18" height="18" viewBox="0 0 20 23" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9.81333 2.83341L10.3467 5.50008H17.3333V13.5001H12.8533L12.32 10.8334H2.66667V2.83341H9.81333ZM12 0.166748H0V22.8334H2.66667V13.5001H10.1333L10.6667 16.1667H20V2.83341H12.5333L12 0.166748Z" fill="#434C51"/></svg> OBJECTIVE:</h4><p>Ensure sustainability and adaptability for future needs</p>
+    <h4 style="display: flex;align-items:center;gap:12px"><svg width="18" height="18" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M21.3333 3.16667H18.6667V0.5H5.33333V3.16667H2.66667C1.2 3.16667 0 4.36667 0 5.83333V7.16667C0 10.5667 2.56 13.34 5.85333 13.7533C6.69333 15.7533 8.49333 17.26 10.6667 17.7V21.8333H5.33333V24.5H18.6667V21.8333H13.3333V17.7C15.5067 17.26 17.3067 15.7533 18.1467 13.7533C21.44 13.34 24 10.5667 24 7.16667V5.83333C24 4.36667 22.8 3.16667 21.3333 3.16667ZM2.66667 7.16667V5.83333H5.33333V10.9267C3.78667 10.3667 2.66667 8.9 2.66667 7.16667ZM12 15.1667C9.8 15.1667 8 13.3667 8 11.1667V3.16667H16V11.1667C16 13.3667 14.2 15.1667 12 15.1667ZM21.3333 7.16667C21.3333 8.9 20.2133 10.3667 18.6667 10.9267V5.83333H21.3333V7.16667Z" fill="#434C51"/></svg> OUTCOME:</h4><p>Establish a governance model for long-term maintenance and evolution; continuously add new platform services and refine existing tools based on user feedback and evolving scientific challenges; integrate advanced technologies such as AI and advanced visualisation, enhance scalability and capabilities</p>'
+  ></esa-card>
+</esa-cards>
 
 </section>
+<section class="white">
 
 ## Meet the team
 
