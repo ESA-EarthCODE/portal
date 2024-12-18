@@ -1,13 +1,13 @@
 ---
-date: 2024-07-01
+date: 2024-12-01
 title: User Survey
-image: "https://esa-earthcode.github.io/portal-assets/blog/EarthCODE-UserSurvey.jpg"
+image: "/img/EarthCODE_Herobanner_1920x1080_nologo.jpg"
 ---
 
-# User Survey <!--{ as="img" mode="hero" src="https://esa-earthcode.github.io/portal-assets/blog/EarthCODE-UserSurvey.jpg" }-->
+# User Survey <!--{ as="img" mode="hero" src="/img/EarthCODE_Herobanner_1920x1080_nologo.jpg" }-->
 
 ## User Survey
-*Published: 01/07/2025*
+*Published: 01/12/2025*
 
 EarthCODE is conducting a user consultation with the ESA-funded Earth System Science science activities to collect feedback on the current features and requirements for further service enhancement. 
 

@@ -1,10 +1,10 @@
 ---
 date: 2024-07-12
 title: EarthCODE at IGARSS 2024
-image: data:image/svg+xml,%3Csvg width='800' height='600' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='800' height='600' fill='%230b1d26' /%3E%3C/svg%3E
+image: /img/EarthCODE_Herobanner_1920x1080_nologo.jpg
 ---
 
-# EarthCODE at IGARSS 2024 <!--{ as="img" mode="hero" src="data:image/svg+xml,%3Csvg width='800' height='600' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='800' height='600' fill='%230b1d26' /%3E%3C/svg%3E" }-->
+# EarthCODE at IGARSS 2024 <!--{ as="img" mode="hero" src="EarthCODE_Herobanner_1920x1080_nologo.jpg" }-->
 ### EarthCODE participated at the International Geoscience and Remote Sensing Symposium 2024
 
 ## EarthCODE at IGARSS 2024
