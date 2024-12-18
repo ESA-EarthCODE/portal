@@ -1,15 +1,14 @@
-
-
 ---
-date: 2024-12-17
+date: 2024-07-12
 title: EarthCODE at IGARSS 2024
-
+image: data:image/svg+xml,%3Csvg width='800' height='600' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='800' height='600' fill='%230b1d26' /%3E%3C/svg%3E
 ---
 
-# EarthCODE at IGARSS 2024 
+# EarthCODE at IGARSS 2024 <!--{ as="img" mode="hero" src="data:image/svg+xml,%3Csvg width='800' height='600' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='800' height='600' fill='%230b1d26' /%3E%3C/svg%3E" }-->
+### EarthCODE participated at the International Geoscience and Remote Sensing Symposium 2024
 
 ## EarthCODE at IGARSS 2024
-*Published: 17.12.2024*
+*Published: 12/07/2024*
 
 EarthCODE participated at the [International Geoscience and Remote Sensing Symposium 2024](https://www.2024.ieeeigarss.org/). The conference,  attended by almost 4000 participants, was hosted by the National Observatory of Athens, with the support of the National Technical University of Athens and the Foundation for Research and Technology – Hellas.  
 

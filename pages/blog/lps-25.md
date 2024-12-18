@@ -1,5 +1,5 @@
 ---
-date: 2024-12-01
+date: 2024-12-20
 title: EarthCODE at ESA LPS 2025
 image: https://esa-earthcode.github.io/portal-assets/blog/Living_Planet_Symposium_2025_pillars-4170729331.jpg
 feature: true

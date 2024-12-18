@@ -6,7 +6,7 @@ import { data as blogposts } from "../../blogposts.data.js";
   <esa-cards>
     <esa-card
       v-for="(blogpost, index) in blogposts.sort((a, b) =>
-        new Date(a.frontmatter.title) < new Date(b.frontmatter.title) ? 1 : -1,
+        new Date(a.frontmatter.date) < new Date(b.frontmatter.date) ? 1 : -1,
       )"
       :feature="blogpost.frontmatter.feature"
       overline="Story"

@@ -1,15 +1,13 @@
-
 ---
-date: 2024-12-18
+date: 2024-11-27
 title: Hydrology science cluster meeting  25-27 November 2024
 image: https://esa-earthcode.github.io/portal-assets/blog/Hydrology-Science-cluster-KV.jpg
-
 ---
 
 # EarthCODE at ESA Hydrology Science Cluster meeting  25-27 November 2024 <!--{ as="img" mode="hero" src="https://esa-earthcode.github.io/portal-assets/blog/Hydrology-Science-cluster-KV.jpg" }-->
 
 ## Hydrology science cluster meeting  25-27 November 2024
-*Published: 18.12.2024*
+*Published: 27/11/2024*
 
 EarthCODE team has started engagement with key project's stakeholders. Recent **Hydrology Science Cluster Meeting** held at ESA/ESRIN in Frascati, created an opportunity to introduce ESA Open Science Initiatives to several ESA and EC-funded projects participated in the workshop. This meeting provided a unique opportunity to present, project's latest research, discuss challenges, and explore synergies.  
 

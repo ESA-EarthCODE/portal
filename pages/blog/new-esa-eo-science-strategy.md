@@ -1,5 +1,5 @@
 ---
-date: 2024-12-02
+date: 2024-11-01
 title: New ESA EO Science Strategy
 image: https://esa-earthcode.github.io/portal-assets/blog/Earth_Observation_Science_Strategy_pillars.jpg
 ---
@@ -7,7 +7,7 @@ image: https://esa-earthcode.github.io/portal-assets/blog/Earth_Observation_Scie
 # New ESA EO Science Strategy <!--{ as="img" mode="hero" src="https://esa-earthcode.github.io/portal-assets/blog/Earth_Observation_Science_Strategy_pillars.jpg" }-->
 
 ## New ESA EO Science Strategy
-*Published: 20/12/2024*
+*Published: 01/11/2024*
 
 In October 2024 ESA EO published its renewed “Earth Science in Action for Tomorrow’s World” Science Strategy. The document outlines a vision for ESA Earth science through 2040, presenting priorities and accompanying approaches that both reflect the need for discovery science, as well as the ability to respond to specific scientific and societal challenges. It identifies the areas of science that ESA needs to respond to, along the full value chain – from the development of innovative Earth Observation missions through to excellent Earth science and uptake of new observations by the user and applications community. 
 

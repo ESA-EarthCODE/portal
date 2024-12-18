@@ -28,7 +28,6 @@ eox-storytelling {
   --header-font-family: NotesESAbold, sans-serif;
   --body-font-family: Arial, sans-serif;
   margin: calc(var(--vp-nav-height) * -1) 0 var(--vp-nav-height) 0;
-  transform: translateY(var(--vp-nav-height));
   background: white;
   --eox-color: var(--vp-c-black);
   position: relative;
