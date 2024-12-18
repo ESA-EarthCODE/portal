@@ -31,15 +31,21 @@ EarthCODE is designed to deliver a user-centric, advanced open science environme
 <esa-cards carousel>
   <esa-card
     icon='<svg width="36" height="40" viewBox="0 0 36 40" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M31.75 5H28V0.9375C28 0.419766 27.5802 0 27.0625 0H26.4375C25.9198 0 25.5 0.419766 25.5 0.9375V5H10.5V0.9375C10.5 0.419766 10.0802 0 9.5625 0H8.9375C8.41977 0 8 0.419766 8 0.9375V5H4.25C2.17891 5 0.5 6.67891 0.5 8.75V36.25C0.5 38.3211 2.17891 40 4.25 40H31.75C33.8211 40 35.5 38.3211 35.5 36.25V8.75C35.5 6.67891 33.8211 5 31.75 5ZM4.25 7.5H31.75C32.4392 7.5 33 8.06078 33 8.75V12.5H3V8.75C3 8.06078 3.56078 7.5 4.25 7.5ZM4.25 37.5H31.75C32.4392 37.5 33 36.9392 33 36.25V15H3V36.25C3 36.9392 3.56078 37.5 4.25 37.5Z" fill="#003247"/></svg>'
-    title="Event Name"
-    description="Registration open"
-    date="01.01.2025 | 10:30-14:00"
+    title="3rd ESA Carbon Science Cluster Meeting"
+    description="Meeting dedicated to researchers and scientists involved in ESA Carbon Science Cluster, creating opportunity for projects to present their activities and share common opportunities and challenges related to open science and reasearch data sharing and collaboration."
+    date="28-29.01.2025 | Online Meeting"
+ ></esa-card>
+ <esa-card
+    icon='<svg width="36" height="40" viewBox="0 0 36 40" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M31.75 5H28V0.9375C28 0.419766 27.5802 0 27.0625 0H26.4375C25.9198 0 25.5 0.419766 25.5 0.9375V5H10.5V0.9375C10.5 0.419766 10.0802 0 9.5625 0H8.9375C8.41977 0 8 0.419766 8 0.9375V5H4.25C2.17891 5 0.5 6.67891 0.5 8.75V36.25C0.5 38.3211 2.17891 40 4.25 40H31.75C33.8211 40 35.5 38.3211 35.5 36.25V8.75C35.5 6.67891 33.8211 5 31.75 5ZM4.25 7.5H31.75C32.4392 7.5 33 8.06078 33 8.75V12.5H3V8.75C3 8.06078 3.56078 7.5 4.25 7.5ZM4.25 37.5H31.75C32.4392 37.5 33 36.9392 33 36.25V15H3V36.25C3 36.9392 3.56078 37.5 4.25 37.5Z" fill="#003247"/></svg>'
+    title="EGU General Assembly 2025"
+    description="Meet EarthCODE team at the a forum addressed to scientists from all over the world, discover their work and discuss the ideas with experts in all fields of geoscience."
+    date="27.04-02.05.2025 | Vienna, Austria"
   ></esa-card>
   <esa-card
     icon='<svg width="36" height="40" viewBox="0 0 36 40" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M31.75 5H28V0.9375C28 0.419766 27.5802 0 27.0625 0H26.4375C25.9198 0 25.5 0.419766 25.5 0.9375V5H10.5V0.9375C10.5 0.419766 10.0802 0 9.5625 0H8.9375C8.41977 0 8 0.419766 8 0.9375V5H4.25C2.17891 5 0.5 6.67891 0.5 8.75V36.25C0.5 38.3211 2.17891 40 4.25 40H31.75C33.8211 40 35.5 38.3211 35.5 36.25V8.75C35.5 6.67891 33.8211 5 31.75 5ZM4.25 7.5H31.75C32.4392 7.5 33 8.06078 33 8.75V12.5H3V8.75C3 8.06078 3.56078 7.5 4.25 7.5ZM4.25 37.5H31.75C32.4392 37.5 33 36.9392 33 36.25V15H3V36.25C3 36.9392 3.56078 37.5 4.25 37.5Z" fill="#003247"/></svg>'
-    title="Event Name"
-    description="Registration open"
-    date="01.01.2025 | 10:30-14:00"
+    title="Living Planet Symposium 2025"
+    description="Held every three years, ESA’s Living Planet Symposia are among the world’s premier events on Earth observation."
+    date="23—27.07.2025 | Vienna, Austria"
   ></esa-card>
 </esa-cards>
 </section>
@@ -105,16 +111,5 @@ The EarthCODE platform is constantly evolving, with its roadmap regularly update
     <h4 style="display: flex;align-items:center;gap:12px"><svg width="18" height="18" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M21.3333 3.16667H18.6667V0.5H5.33333V3.16667H2.66667C1.2 3.16667 0 4.36667 0 5.83333V7.16667C0 10.5667 2.56 13.34 5.85333 13.7533C6.69333 15.7533 8.49333 17.26 10.6667 17.7V21.8333H5.33333V24.5H18.6667V21.8333H13.3333V17.7C15.5067 17.26 17.3067 15.7533 18.1467 13.7533C21.44 13.34 24 10.5667 24 7.16667V5.83333C24 4.36667 22.8 3.16667 21.3333 3.16667ZM2.66667 7.16667V5.83333H5.33333V10.9267C3.78667 10.3667 2.66667 8.9 2.66667 7.16667ZM12 15.1667C9.8 15.1667 8 13.3667 8 11.1667V3.16667H16V11.1667C16 13.3667 14.2 15.1667 12 15.1667ZM21.3333 7.16667C21.3333 8.9 20.2133 10.3667 18.6667 10.9267V5.83333H21.3333V7.16667Z" fill="#434C51"/></svg> OUTCOME:</h4><p>Establish a governance model for long-term maintenance and evolution; continuously add new platform services and refine existing tools based on user feedback and evolving scientific challenges; integrate advanced technologies such as AI and advanced visualisation, enhance scalability and capabilities</p>'
   ></esa-card>
 </esa-cards>
-
-</section>
-<section class="white">
-
-## Meet the team
-
-List with tema members with pictures
-
-## Our Partners
-
-List of partners with the short description
 
 </section>
