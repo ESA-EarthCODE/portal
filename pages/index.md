@@ -75,7 +75,7 @@ hero:
   <esa-card
     title="Getting Started with EarthCODE"
     description="Get familiar with the platform and use a step-by-step pathway to help you navigate EarthCODE, from basic understanding to more advanced features"
-    link="/documentation/getting-started"
+    link="https://esa-earthcode.github.io/documentation/getting-started"
     action="Open"
   ></esa-card>  
 </esa-cards>

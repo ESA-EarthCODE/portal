@@ -23,7 +23,7 @@ export default defineConfig({
         text: "Community",
       },
       {
-        link: "/documentation",
+        link: "https://esa-earthcode.github.io/documentation/",
         text: "Documentation",
       },
       {
@@ -59,7 +59,8 @@ export default defineConfig({
       "meta",
       {
         property: "og:image",
-        content: "https://earthcode.esa.int/img/EarthCODE_Herobanner_1920x1080.jpg",
+        content:
+          "https://earthcode.esa.int/img/EarthCODE_Herobanner_1920x1080.jpg",
       },
     ],
     // Twitter
@@ -83,7 +84,8 @@ export default defineConfig({
       "meta",
       {
         property: "twitter:image",
-        content: "https://earthcode.esa.int/img/EarthCODE_Herobanner_1920x1080.jpg",
+        content:
+          "https://earthcode.esa.int/img/EarthCODE_Herobanner_1920x1080.jpg",
       },
     ],
     [
