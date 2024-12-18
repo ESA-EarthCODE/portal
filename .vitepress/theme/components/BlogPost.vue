@@ -18,7 +18,6 @@ onMounted(async () => {
 <template>
   <ClientOnly>
     <eox-storytelling
-      show-nav
       .markdown="fetchedContent || page.content"
     ></eox-storytelling>
   </ClientOnly>
