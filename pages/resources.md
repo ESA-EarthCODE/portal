@@ -6,7 +6,7 @@ layout: page
 
 # Resources
 
-Lorem Ipsum - MISSING DESCRIPTION
+Find out more about solutions for easy publication, sharing your data and workflows to align with FAIR and open science principles. Leverage growing list of platforms to streamline your research with flexible tools and active collaboration the with the vibrant scientific community. 
 </section>
 <section class="dark-grey">
 
