@@ -58,6 +58,38 @@ EarthCODE is designed to deliver a user-centric, advanced open science environme
 <section class="white">
 
 # Our Partners
+  <esa-cards>
+    <esa-card
+      icon="<img src='https://esa-earthcode.github.io/portal-assets/partners/BC_cropped.png' height='40' />"
+      title="Brockmann Consult"
+      action="Visit website"
+      link="https://www.brockmann-consult.de/"
+    ></esa-card>
+    <esa-card
+      icon="<img src='https://esa-earthcode.github.io/portal-assets/partners/EOX_cropped.png' height='40' />"
+      title="EOX"
+      action="Visit website"
+      link="https://eox.at/"
+    ></esa-card>
+    <esa-card
+      icon="<img src='https://esa-earthcode.github.io/portal-assets/partners/Lampata_cropped.png' height='40' />"
+      title="Lampata"
+      action="Visit website"
+      link="https://www.lampata.eu/"
+    ></esa-card>
+    <esa-card
+      icon="<img src='https://esa-earthcode.github.io/portal-assets/partners/PANGEO_cropped.png' height='40' />"
+      title="Pangeo"
+      action="Visit website"
+      link="https://www.pangeo.io/"
+    ></esa-card>
+    <esa-card
+      icon="<img src='https://esa-earthcode.github.io/portal-assets/partners/VITO_cropped.png' height='40' />"
+      title="Vito"
+      action="Visit website"
+      link="https://vito.be/en"
+    ></esa-card>
+  </esa-cards>
 </section>
 <section class="dark">
 
