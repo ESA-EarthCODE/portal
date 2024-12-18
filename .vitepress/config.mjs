@@ -22,10 +22,10 @@ export default defineConfig({
         link: "/community",
         text: "Community",
       },
-      {
-        link: "https://esa-earthcode.github.io/documentation/",
-        text: "Documentation",
-      },
+      // {
+      //   link: "https://esa-earthcode.github.io/documentation/",
+      //   text: "Documentation",
+      // },
       {
         link: "/blog",
         text: "Blog",
