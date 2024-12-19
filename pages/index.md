@@ -5,7 +5,7 @@ title: Welcome to EarthCODE
 hero:
   text: Revolutionizing Earth System Science with Open Science Principles
   tagline: Join ESA's initiative to ensure long-term preservation and accessibility of research data, code, and documentation for a global scientific community
-  image: /img/EarthCODE_Herobanner_1920x1080_nologo.jpg
+  image: /img/EarthCODE_Background-Pattern_1.jpg
   actions:
     - theme: cta
       text: Sign up for updates
