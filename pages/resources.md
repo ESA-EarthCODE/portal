@@ -6,12 +6,12 @@ layout: page
 
 # Resources
 
-Find out more about solutions for easy publication, sharing your data and workflows to align with FAIR and open science principles. Leverage growing list of platforms to streamline your research with flexible tools and active collaboration the with the vibrant scientific community. 
+Find out more about solutions for easy publication, sharing your data and workflows to align with FAIR and open science principles. Leverage a growing list of platforms to streamline your research with flexible tools and active collaboration with a vibrant scientific community. 
 </section>
 <section class="dark-grey">
 
-## Explore the Open Science Catalog
-Explore a collection of publicly available geoscience products, datasets and resources developed in the frame of scientific research Projects funded by ESA EO (Earth Observation)
+## Explore the Open Science Catalogue
+Explore a rich collection of publicly available geoscience products, datasets and resources developed in the frame of scientific research Projects funded by ESA EO (Earth Observation)
 
 <a class="VPButton cta" href="https://opensciencedata.esa.int" target="_blank">Explore Catalog</a>
 </section>
