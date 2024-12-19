@@ -3,6 +3,7 @@ import { onMounted } from "vue";
 import { useData, useRouter } from "vitepress";
 import DefaultTheme from "vitepress/theme";
 import { applyShadowDomEventListener } from "./helpers";
+import Disclaimer from "./components/Disclaimer.vue";
 
 const { Layout } = DefaultTheme;
 const { site, theme, frontmatter } = useData();
@@ -84,6 +85,7 @@ onMounted(async () => {
   <Layout :class="frontmatter.layout">
     <template #layout-top>
       <ClientOnly>
+        <Disclaimer></Disclaimer>
         <esa-menu
           .menuItems="theme.nav.map(n => ({title: n.text, href: n.link}))"
         ></esa-menu>
