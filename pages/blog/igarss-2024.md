@@ -4,7 +4,7 @@ title: EarthCODE at IGARSS 2024
 image: /img/EarthCODE_Herobanner_1920x1080_nologo.jpg
 ---
 
-# EarthCODE at IGARSS 2024 <!--{ as="img" mode="hero" src="EarthCODE_Herobanner_1920x1080_nologo.jpg" }-->
+# EarthCODE at IGARSS 2024 <!--{ as="img" mode="hero" src="/img/EarthCODE_Herobanner_1920x1080_nologo.jpg" }-->
 ### EarthCODE participated at the International Geoscience and Remote Sensing Symposium 2024
 
 ## EarthCODE at IGARSS 2024
@@ -16,11 +16,11 @@ EarthCODE participated at the [International Geoscience and Remote Sensing Sympo
 The event  theme was “Acting for Sustainability and Resilience”. EarthCODE was presented at the ESA Booth by Anca Anghelea from ESA EO, as well as in a poster session by the Garin Smith from Telespazio UK. The presentations raised the interest of the community, and we had a great time exchanging on ways to approach reproducibility of research, discovery of research outcomes openly via catalogues, and access to computational platforms via the ESA sponsoring mechanism - [Network of Resources](https://nor-discover.org/) 
 
 
-<img src="https://esa-earthcode.github.io/portal-assets/blog/IGARSS24-3.jpg" alt="Image" width="300" style="display:inline-block; margin-right:10px;">
+<img src="https://esa-earthcode.github.io/portal-assets/blog/IGARSS24-3.jpg" alt="Image" width="300" style="display:inline-block; margin-right:10px;" />
 
-<img src="https://esa-earthcode.github.io/portal-assets/blog/IGARSS24-2.jpg" alt="Image" height="300" style="display:inline-block; margin-right:10px;">
+<img src="https://esa-earthcode.github.io/portal-assets/blog/IGARSS24-2.jpg" alt="Image" height="300" style="display:inline-block; margin-right:10px;" />
 
-<img src="https://esa-earthcode.github.io/portal-assets/blog/IGARSS24-5.jpg" alt="Image" height="300" style="display:inline-block; margin-right:10px;">
+<img src="https://esa-earthcode.github.io/portal-assets/blog/IGARSS24-5.jpg" alt="Image" height="300" style="display:inline-block; margin-right:10px;" />
 
 
 **Poster Session**: [https://2024.ieeeigarss.org/view_session.php?SessionID=1389 ](https://)
