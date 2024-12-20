@@ -1,13 +1,8 @@
-# Simple workflow for deploying static content to GitHub Pages
-# Copies the main branch to the root of the deployment, and the staging branch into the /staging/ subfolder
 name: Deploy
 
 on:
-  # Runs on pushes targeting the default branch and tags
+  # Runs on pushes targeting tags
   push:
-    branches:
-      - main
-      - staging
     tags:
       - "*"
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
@@ -18,7 +13,7 @@ permissions:
   packages: write
 
 env:
-  IMAGE_NAME: ghcr.io/esa-earthcode/portal:${{ github.head_ref || github.ref_name }}-${{ github.run_number }}
+  IMAGE_NAME: ghcr.io/esa-earthcode/portal:${{ github.head_ref || github.ref_name }}
 
 jobs:
   build:
