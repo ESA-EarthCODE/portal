@@ -1,71 +1,41 @@
-import config from "../../brand-config/config.json";
+import baseConfig from "@eox/pages-theme-esa/config";
 
+// https://vitepress.dev/reference/site-config
 export default {
-  appearance: false,
-  cleanUrls: true,
+  extends: baseConfig,
+  title: "EarthCODE",
+  titleTemplate: " EarthCODE",
+  description: "Earth Science Collaborative Open Development Environment",
   themeConfig: {
     nav: [
       {
-        href: "/#faq",
-        title: "FAQ",
+        link: "/about",
+        text: "About",
       },
       {
-        href: "/#community",
-        title: "Community",
+        link: "/resources",
+        text: "Resources",
       },
       {
-        href: "/#team",
-        title: "Team",
+        link: "/community",
+        text: "Community",
+      },
+      // {
+      //   link: "https://esa-earthcode.github.io/documentation/",
+      //   text: "Documentation",
+      // },
+      {
+        link: "/blog",
+        text: "Blog",
       },
       {
-        href: "/#contact-us",
-        title: "Contact",
-      },
-      {
-        href: "https://opensciencedata.esa.int/",
-        title: "Science Catalog",
+        link: "/contact",
+        text: "Contact",
       },
     ],
-    // login: config.dashboard,
-    footer: {
-      title: "Want to get notified?",
-      description:
-        "EarthCODE is coming soon. If you want to get notified about the public launch, do not hesitate to contact us about our newsletter.",
-      contactLink: "mailto:chandra.taposeea@telespazio.com",
-      links: [
-        [
-          {
-            href: "https://www.esa.int/",
-            title: "ESA Portal",
-          },
-          {
-            href: "https://www.esa.int/About_Us/Corporate_news",
-            title: "About ESA",
-          },
-        ],
-        [
-          {
-            href: "https://www.esa.int/Services/Terms_and_conditions",
-            title: "Terms and Conditions",
-          },
-          {
-            href: "https://www.esa.int/Services/Cookies_notice",
-            title: "Cookies Notice",
-          },
-        ],
-        [
-          {
-            href: "https://www.esa.int/Services/Privacy_notice",
-            title: "Privacy Notice",
-          },
-        ],
-      ],
-    },
   },
-  title: config.meta.title,
-  description: config.meta.description,
   head: [
-    ["link", { rel: "icon", href: config.meta.favicon }],
+    ["link", { rel: "icon", href: "/img/EarthCODE_Favicon_32x32px.png" }],
     // Open Graph / Facebook
     ["meta", { property: "og:type", content: "website" }],
     [
@@ -87,7 +57,8 @@ export default {
       "meta",
       {
         property: "og:image",
-        content: "https://earthcode.esa.int/assets/img/earthcode.png",
+        content:
+          "https://earthcode.esa.int/img/EarthCODE_Herobanner_1920x1080.jpg",
       },
     ],
     // Twitter
@@ -111,7 +82,8 @@ export default {
       "meta",
       {
         property: "twitter:image",
-        content: "https://earthcode.esa.int/assets/img/earthcode.png",
+        content:
+          "https://earthcode.esa.int/img/EarthCODE_Herobanner_1920x1080.jpg",
       },
     ],
     [
@@ -139,18 +111,8 @@ export default {
     ],
   ],
   vite: {
-    publicDir: "../brand-config",
     ssr: {
       noExternal: ["@eox/pages-theme-esa"],
-    },
-  },
-  vue: {
-    template: {
-      compilerOptions: {
-        isCustomElement: (tag) => {
-          return tag.toLowerCase().includes("-");
-        },
-      },
     },
   },
 };

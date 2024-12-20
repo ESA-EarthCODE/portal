@@ -1,138 +1,99 @@
 ---
 layout: home
+title: Welcome to EarthCODE
 
 hero:
-  name: Welcome to EarthCODE
-  text: A FAIR Open Science environment for reproducible Earth System research
-  image:
-    src: https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/11/nourishing_commercial_earth_observation/25191087-1-eng-GB/Nourishing_commercial_Earth_observation_pillars.jpg
+  text: Revolutionizing Earth System Science with Open Science Principles
+  tagline: Join ESA's initiative to ensure long-term preservation and accessibility of research data, code, and documentation for a global scientific community
+  image: /img/EarthCODE_Background-Pattern_1.jpg
+  actions:
+    - theme: cta
+      text: Sign up for updates
+      link: https://esacontact.esa.int/ESA_EO_OpenScience_Subscribe
 ---
 
-<div class="highlight">
+<section class="white">
 
-### 2024 IEEE International Geoscience and Remote Sensing Symposium
+## Explore our Key Offerings 
 
-We are pleased to announce that EarthCODE will participate in the 2024 IEEE International Geoscience and Remote Sensing Symposium.
+<esa-cards>
+  <esa-card
+    icon='<svg width="36" height="30" viewBox="0 0 36 30" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6.66732 15H29.334M6.66732 15C4.80048 15 3.86706 15 3.15402 14.6367C2.52681 14.3171 2.01687 13.8072 1.6973 13.18C1.33398 12.4669 1.33398 11.5335 1.33398 9.66669V7.00002C1.33398 5.13318 1.33398 4.19976 1.6973 3.48672C2.01687 2.85951 2.52681 2.34958 3.15402 2.03C3.86706 1.66669 4.80048 1.66669 6.66732 1.66669H29.334C31.2008 1.66669 32.1342 1.66669 32.8473 2.03C33.4745 2.34958 33.9844 2.85951 34.304 3.48672C34.6673 4.19976 34.6673 5.13318 34.6673 7.00002V9.66669C34.6673 11.5335 34.6673 12.4669 34.304 13.18C33.9844 13.8072 33.4745 14.3171 32.8473 14.6367C32.1342 15 31.2008 15 29.334 15M6.66732 15C4.80048 15 3.86706 15 3.15402 15.3633C2.52681 15.6829 2.01687 16.1928 1.6973 16.8201C1.33398 17.5331 1.33398 18.4665 1.33398 20.3334V23C1.33398 24.8669 1.33398 25.8003 1.6973 26.5133C2.01687 27.1405 2.52681 27.6505 3.15402 27.97C3.86706 28.3334 4.80048 28.3334 6.66732 28.3334H29.334C31.2008 28.3334 32.1342 28.3334 32.8473 27.97C33.4745 27.6505 33.9844 27.1405 34.304 26.5133C34.6673 25.8003 34.6673 24.8669 34.6673 23V20.3334C34.6673 18.4665 34.6673 17.5331 34.304 16.8201C33.9844 16.1928 33.4745 15.6829 32.8473 15.3633C32.1342 15 31.2008 15 29.334 15M18.0007 8.33335H28.0007M18.0007 21.6667H28.0007M11.334 8.33335C11.334 9.25383 10.5878 10 9.66732 10C8.74684 10 8.00065 9.25383 8.00065 8.33335C8.00065 7.41288 8.74684 6.66669 9.66732 6.66669C10.5878 6.66669 11.334 7.41288 11.334 8.33335ZM11.334 21.6667C11.334 22.5872 10.5878 23.3334 9.66732 23.3334C8.74684 23.3334 8.00065 22.5872 8.00065 21.6667C8.00065 20.7462 8.74684 20 9.66732 20C10.5878 20 11.334 20.7462 11.334 21.6667Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/></svg>'
+    title="Computational Research"
+    description="Use advanced computational tools for Earth system science, on collaborative research environments"
+    link="/computational-research"
+    action="Explore"
+  ></esa-card>
+  <esa-card
+    icon='<svg width="30" height="36" viewBox="0 0 30 36" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M28.3327 6.33331C28.3327 9.09474 22.3631 11.3333 14.9993 11.3333C7.63555 11.3333 1.66602 9.09474 1.66602 6.33331M28.3327 6.33331C28.3327 3.57189 22.3631 1.33331 14.9993 1.33331C7.63555 1.33331 1.66602 3.57189 1.66602 6.33331M28.3327 6.33331V29.6666C28.3327 32.4281 22.3631 34.6666 14.9993 34.6666C7.63555 34.6666 1.66602 32.4281 1.66602 29.6666V6.33331M28.3327 18C28.3327 20.7614 22.3631 23 14.9993 23C7.63555 23 1.66602 20.7614 1.66602 18" stroke="black" stroke-width="1.5"/></svg>'
+    title="Datasets"
+    description="Access diverse, high-quality Earth observation datasets for comprehensive scientific analysis and discovery"
+    link="/datasets"
+    action="Explore"
+  ></esa-card>
+  <esa-card
+    icon='<svg width="30" height="32" viewBox="0 0 30 32" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6.66602 21C3.90459 21 1.66602 23.2386 1.66602 26C1.66602 28.7614 3.90459 31 6.66602 31C9.42744 31 11.666 28.7614 11.666 26C11.666 23.2386 9.42744 21 6.66602 21ZM6.66602 21V19.3333C6.66602 17.4924 8.1584 16 9.99935 16H19.9993C21.8403 16 23.3327 17.4924 23.3327 19.3333V21M14.9993 11C17.7608 11 19.9993 8.76142 19.9993 6C19.9993 3.23858 17.7608 1 14.9993 1C12.2379 1 9.99935 3.23858 9.99935 6C9.99935 8.76142 12.2379 11 14.9993 11ZM14.9993 11V16M23.3327 21C20.5713 21 18.3327 23.2386 18.3327 26C18.3327 28.7614 20.5713 31 23.3327 31C26.0941 31 28.3327 28.7614 28.3327 26C28.3327 23.2386 26.0941 21 23.3327 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/></svg>'
+    title="Workflows"
+    description="Easily find, publish and re-use FAIR workflows to enhance reproducibility and collaboration in research"
+    link="/workflows"
+    action="Explore"
+  ></esa-card>
+  <esa-card
+    icon='<svg width="33" height="28" viewBox="0 0 33 28" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M2.69901 18.5065L3.04477 17.8409H3.04477L2.69901 18.5065ZM1.60647 17.3925L0.935574 17.7278L0.935575 17.7278L1.60647 17.3925ZM26.0615 17.3925L26.7324 17.7278V17.7278L26.0615 17.3925ZM24.969 18.5065L24.6232 17.8409L24.969 18.5065ZM24.969 1.21899L25.3147 0.553445V0.553444L24.969 1.21899ZM26.0615 2.33295L26.7324 1.99769V1.99769L26.0615 2.33295ZM2.69901 1.21899L2.35325 0.553444L2.35325 0.553444L2.69901 1.21899ZM1.60647 2.33295L2.27736 2.66821L2.27736 2.66821L1.60647 2.33295ZM7.35433 21.8276L7.80992 22.4233L7.80992 22.4233L7.35433 21.8276ZM9.89976 19.8811L9.44417 19.2853L9.44417 19.2853L9.89976 19.8811ZM11.8137 18.848L11.6678 18.1124H11.6678L11.8137 18.848ZM10.9916 19.1264L11.3225 19.7994H11.3225L10.9916 19.1264ZM32.084 6.33332C32.084 5.91911 31.7482 5.58332 31.334 5.58332C30.9198 5.58332 30.584 5.91911 30.584 6.33332H32.084ZM29.969 23.5063L29.6232 22.8408L29.6232 22.8408L29.969 23.5063ZM31.0615 22.3924L31.7324 22.7276V22.7276L31.0615 22.3924ZM13.0007 23.0341C12.5864 23.0341 12.2507 23.3699 12.2507 23.7841C12.2507 24.1984 12.5864 24.5341 13.0007 24.5341V23.0341ZM25.3137 26.8274L24.8581 27.4232H24.8581L25.3137 26.8274ZM22.7682 24.8809L22.3127 25.4767L22.7682 24.8809ZM20.8543 23.8479L21.0002 23.1122L21.0002 23.1122L20.8543 23.8479ZM21.6764 24.1262L21.3455 24.7992L21.3455 24.7992L21.6764 24.1262ZM18.9173 18.8333C18.9173 19.2475 19.2531 19.5833 19.6673 19.5833C20.0815 19.5833 20.4173 19.2475 20.4173 18.8333H18.9173ZM7.88456 21.6551C8.0623 22.0293 8.50969 22.1885 8.88383 22.0108C9.25797 21.833 9.41719 21.3856 9.23945 21.0115L7.88456 21.6551ZM5.33398 1.69116H22.334V0.191162H5.33398V1.69116ZM25.584 5.01959V14.7059H27.084V5.01959H25.584ZM2.08398 14.7059V5.01959H0.583984V14.7059H2.08398ZM5.33398 18.0343C4.6213 18.0343 4.13278 18.0337 3.75425 18.0022C3.38492 17.9714 3.18753 17.9151 3.04477 17.8409L2.35325 19.172C2.74526 19.3757 3.1653 19.4583 3.62973 19.497C4.08496 19.5349 4.64653 19.5343 5.33398 19.5343V18.0343ZM0.583984 14.7059C0.583984 15.4075 0.583423 15.978 0.620441 16.44C0.658127 16.9103 0.738339 17.3331 0.935574 17.7278L2.27736 17.0573C2.20211 16.9067 2.14608 16.7 2.11565 16.3202C2.08455 15.932 2.08398 15.4318 2.08398 14.7059H0.583984ZM3.04477 17.8409C2.71662 17.6705 2.44713 17.397 2.27736 17.0572L0.935575 17.7278C1.24517 18.3473 1.74059 18.8537 2.35325 19.172L3.04477 17.8409ZM25.584 14.7059C25.584 15.4318 25.5834 15.932 25.5523 16.3202C25.5219 16.7 25.4659 16.9067 25.3906 17.0573L26.7324 17.7278C26.9296 17.3331 27.0098 16.9103 27.0475 16.44C27.0845 15.978 27.084 15.4075 27.084 14.7059H25.584ZM22.334 19.5343C23.0214 19.5343 23.583 19.5349 24.0382 19.497C24.5027 19.4583 24.9227 19.3757 25.3147 19.172L24.6232 17.8409C24.4804 17.9151 24.283 17.9714 23.9137 18.0022C23.5352 18.0337 23.0467 18.0343 22.334 18.0343V19.5343ZM25.3906 17.0572C25.2208 17.397 24.9513 17.6705 24.6232 17.8409L25.3147 19.172C25.9274 18.8537 26.4228 18.3473 26.7324 17.7278L25.3906 17.0572ZM22.334 1.69116C23.0467 1.69116 23.5352 1.69177 23.9137 1.7233C24.283 1.75407 24.4804 1.81036 24.6232 1.88453L25.3147 0.553444C24.9227 0.349786 24.5027 0.267169 24.0382 0.228479C23.583 0.190556 23.0214 0.191162 22.334 0.191162V1.69116ZM27.084 5.01959C27.084 4.31794 27.0845 3.74746 27.0475 3.2855C27.0098 2.8152 26.9296 2.39237 26.7324 1.99769L25.3906 2.66821C25.4659 2.81879 25.5219 3.0255 25.5523 3.40531C25.5834 3.79346 25.584 4.29366 25.584 5.01959H27.084ZM24.6232 1.88453C24.9513 2.05501 25.2208 2.32849 25.3906 2.66822L26.7324 1.99769C26.4228 1.37815 25.9274 0.871731 25.3147 0.553445L24.6232 1.88453ZM5.33398 0.191162C4.64653 0.191162 4.08496 0.190556 3.62973 0.228479C3.1653 0.267169 2.74526 0.349786 2.35325 0.553444L3.04477 1.88453C3.18753 1.81036 3.38492 1.75407 3.75425 1.7233C4.13278 1.69177 4.6213 1.69116 5.33398 1.69116V0.191162ZM2.08398 5.01959C2.08398 4.29366 2.08455 3.79345 2.11565 3.40531C2.14608 3.0255 2.20211 2.81879 2.27736 2.66821L0.935574 1.99769C0.738339 2.39237 0.658127 2.8152 0.620441 3.2855C0.583423 3.74746 0.583984 4.31794 0.583984 5.01959H2.08398ZM2.35325 0.553444C1.74059 0.871731 1.24517 1.37815 0.935574 1.99769L2.27736 2.66821C2.44713 2.3285 2.71662 2.05501 3.04477 1.88453L2.35325 0.553444ZM5.58398 19.7843V21.3233H7.08398V19.7843H5.58398ZM22.334 18.0343H13.1395V19.5343H22.334V18.0343ZM7.80992 22.4233L10.3553 20.4768L9.44417 19.2853L6.89874 21.2318L7.80992 22.4233ZM13.1395 18.0343C12.4988 18.0343 12.078 18.031 11.6678 18.1124L11.9597 19.5837C12.192 19.5376 12.4408 19.5343 13.1395 19.5343V18.0343ZM10.3553 20.4768C10.9103 20.0524 11.11 19.9039 11.3225 19.7994L10.6607 18.4533C10.2854 18.6378 9.95313 18.8961 9.44417 19.2853L10.3553 20.4768ZM11.6678 18.1124C11.3187 18.1816 10.9801 18.2963 10.6607 18.4533L11.3225 19.7994C11.5246 19.7 11.7388 19.6275 11.9597 19.5837L11.6678 18.1124ZM5.58398 21.3233C5.58398 22.4704 6.89873 23.1201 7.80992 22.4233L6.89874 21.2318C6.91144 21.2221 6.9344 21.2117 6.96172 21.2096C6.98594 21.2078 7.00545 21.2129 7.0198 21.22C7.03414 21.2271 7.05008 21.2395 7.06333 21.2599C7.07827 21.2828 7.08398 21.3074 7.08398 21.3233H5.58398ZM5.33398 19.5343C5.47206 19.5343 5.58398 19.6462 5.58398 19.7843H7.08398C7.08398 18.8178 6.30048 18.0343 5.33398 18.0343V19.5343ZM32.084 19.7057V6.33332H30.584V19.7057H32.084ZM27.334 24.5341C28.0215 24.5341 28.583 24.5348 29.0383 24.4968C29.5027 24.4581 29.9227 24.3755 30.3148 24.1719L29.6232 22.8408C29.4805 22.9149 29.2831 22.9712 28.9138 23.002C28.5352 23.0335 28.0467 23.0341 27.334 23.0341V24.5341ZM30.584 19.7057C30.584 20.4316 30.5835 20.9319 30.5524 21.32C30.5219 21.6998 30.4659 21.9065 30.3906 22.0571L31.7324 22.7276C31.9297 22.3329 32.0099 21.9101 32.0476 21.4398C32.0846 20.9778 32.084 20.4074 32.084 19.7057H30.584ZM30.3148 24.1719C30.9274 23.8536 31.4228 23.3472 31.7324 22.7276L30.3906 22.0571C30.2209 22.3968 29.9514 22.6703 29.6232 22.8408L30.3148 24.1719ZM25.584 24.7841V26.3232H27.084V24.7841H25.584ZM13.0007 24.5341H19.5285V23.0341H13.0007V24.5341ZM25.7693 26.2316L23.2238 24.2851L22.3127 25.4767L24.8581 27.4232L25.7693 26.2316ZM19.5285 24.5341C20.2272 24.5341 20.476 24.5375 20.7083 24.5835L21.0002 23.1122C20.5901 23.0308 20.1692 23.0341 19.5285 23.0341V24.5341ZM23.2238 24.2851C22.7149 23.896 22.3826 23.6377 22.0074 23.4532L21.3455 24.7992C21.558 24.9037 21.7577 25.0523 22.3127 25.4767L23.2238 24.2851ZM20.7083 24.5835C20.9292 24.6274 21.1434 24.6999 21.3455 24.7992L22.0074 23.4532C21.6879 23.2961 21.3493 23.1815 21.0002 23.1122L20.7083 24.5835ZM25.584 26.3232C25.584 26.3072 25.5897 26.2827 25.6047 26.2597C25.6179 26.2393 25.6339 26.227 25.6482 26.2199C25.6626 26.2128 25.6821 26.2076 25.7063 26.2095C25.7336 26.2116 25.7566 26.2219 25.7693 26.2316L24.8581 27.4232C25.7693 28.12 27.084 27.4703 27.084 26.3232H25.584ZM27.334 23.0341C26.3675 23.0341 25.584 23.8176 25.584 24.7841H27.084C27.084 24.6461 27.1959 24.5341 27.334 24.5341V23.0341ZM17.2506 8.83332C17.2506 10.7203 15.721 12.25 13.834 12.25V13.75C16.5494 13.75 18.7506 11.5487 18.7506 8.83332H17.2506ZM13.834 12.25C11.947 12.25 10.4173 10.7203 10.4173 8.83332H8.91732C8.91732 11.5487 11.1186 13.75 13.834 13.75V12.25ZM10.4173 8.83332C10.4173 6.94635 11.947 5.41665 13.834 5.41665V3.91665C11.1186 3.91665 8.91732 6.11792 8.91732 8.83332H10.4173ZM13.834 5.41665C15.721 5.41665 17.2506 6.94635 17.2506 8.83332H18.7506C18.7506 6.11792 16.5494 3.91665 13.834 3.91665V5.41665ZM8.75065 18.8333C8.75065 16.0259 11.0265 13.75 13.834 13.75V12.25C10.1981 12.25 7.25065 15.1974 7.25065 18.8333H8.75065ZM13.834 13.75C16.6414 13.75 18.9173 16.0259 18.9173 18.8333H20.4173C20.4173 15.1974 17.4699 12.25 13.834 12.25V13.75ZM9.23945 21.0115C8.92626 20.3522 8.75065 19.6143 8.75065 18.8333H7.25065C7.25065 19.8416 7.47785 20.799 7.88456 21.6551L9.23945 21.0115Z" fill="black"/></svg>'
+    title="Community"
+    description="Fostering a collaborative community dedicated to FAIR Open Science and sustainable innovation"
+    link="/community"
+    action="Explore"
+  ></esa-card>
+</esa-cards>
 
-This will be held from 7th - 12th July, 2024 in Athens, Greece.
+</section>
+<section class="blue">
 
-Please join us at our [poster session on Thursday, 11 Jul, 16:20 - 17:20](https://2024.ieeeigarss.org/view_session.php?SessionID=1389).
+## Latest News & Updates
 
-Alternatively, please visit the ESA stand for more information.
+<BlogGallery />
 
----
+</section>
+<section class="white">
 
+## Popular Resources
 
-### EarthCODE Tender is open
+<esa-cards>
+  <esa-card
+    title="Open Science Catalog"
+    description="Explore a collection of publicly available geoscience products, datasets and resources developed in the frame of scientific research Projects funded by ESA EO (Earth Observation)"
+    link="https://opensciencedata.esa.int"
+    action="Open"
+  ></esa-card>
+  <esa-card
+    title="Community Forum"
+    description="Join EarthCODE's vibrant community to collaborate on Earth System Science!  Participate in engaging discussions, attend exciting events, and stay informed with the latest news"
+    link="https://discourse-earthcode.eox.at/"
+    action="Open"
+  ></esa-card>
+  <!--<esa-card
+    title="Getting Started with EarthCODE"
+    description="Get familiar with the platform and use a step-by-step pathway to help you navigate EarthCODE, from basic understanding to more advanced features"
+    link="https://esa-earthcode.github.io/documentation/getting-started"
+    action="Open"
+  ></esa-card>-->
+</esa-cards>
 
-The [tender for EarthCODE is open](https://esastar-publication-ext.sso.esa.int/nonEsaTenderActions/details/13691) and the full tender documentation is available as a non-ESA Tender Action on ESA-STAR.
-With this tender EarthCODE is looking for subcontractors. The project team hosted a supplier webinar at 1.30pm CEST on 17 April, to get information on developing the three main works streams (WS): WS1 - Infrastructure, WS2 - FAIR Open Science & WS3 – Community.
-See recording and slides of the information day below.
+</section>
+<section class="blue">
+  <div class="two-column">
 
-</div>
+  ## Subscribe to the EO Open Science Newsletter
+  <div>
 
-<iframe width="100%" height="500" src="https://www.youtube-nocookie.com/embed/98eDMaVmY3k?si=A0pMdeNiVEAcelGp" frameborder="0" allowfullscreen></iframe>
+  #### Why should I sign up?
 
-<iframe width="100%" height="500" src="/assets/infoday.pdf"></iframe>
+  - Get monthly updates from ESA EO Open Science
+  - Access expert insights, research updates, event announcements, and more
+  - Stay updated on new EarthCODE features, resources and collaboration opportunities
 
-[View EarthCODE Information Day Presentation](/assets/infoday.pdf)
-
-<esa-main-section title="EarthCODE Portal">
-
-EarthCODE envisions leveraging technology to empower FAIR and Open Earth System Science,
-fostering innovation and collaboration for a sustainable future.
-
-This portal shall provide an entry point to the collaborative
-development tools and resources, as well as access to community
-guidelines and open documentation to help researchers adopt FAIR
-principles in their scientific practice.
-
-Through community and capacity building focused on Open Science, the
-activity shall promote a trusted collaborative experience of
-conducting Earth system science.
-</esa-main-section>
-
-<div style="display: flex; justify-content: center">
-  <img alt="Landing page image" src="/assets/img/EO-Open-Science_Badge_DEF.jpg" style="width: 100%; max-width: 600px;" />
-</div>
-
-<esa-main-section>
-
-EarthCODE is being developed on top of exisiting platform services and will
-leverage the latest tools for managing open data and open source software.
-It aims to grow a community of users that contribute open data and methods,
-discover scientific datasets and workflows, access advanced computing resources
-and collaborate to advance earth science.
-
-EarthCODE will incrementally develop by integrating readily available Earth Observation
-cloud services and open-source building blocks provided by European industry.
-It also serves as a platform for Open Science capacity building, scientific communication,
-and international cooperation.
-</esa-main-section>
-
-<div class="highlight">
-
-### Co-develop EarthCODE
-
-Be part of our mission by sharing your insights.
-Participate in our survey to help shape EarthCODE according to your needs and preferences: [https://forms.office.com/e/3UbPiq0c0d](https://forms.office.com/e/3UbPiq0c0d)
-
-</div>
-
-<esa-main-section id="faq" title="I want to publish my scientific findings, how can EarthCODE help?">
-
-After signup, you will be able to access your workspace and create
-your first experiment. If your input data, workflow file and resulting
-product(s) are located on supported platforms, you can combine them
-and add some additional project metadata. After publishing your
-experiment, EarhCODE will copy and securly store the data for you and
-generate an unique DOI.
-</esa-main-section>
-
-<esa-main-section title="I would like to check if somebody did similar research to the one I am conducting, can I use EarthCODE for that?">
-
-EarthCODE will let you browse projects, experiments and resulting
-products created by the entire community. You will be able to search
-by title, keywords, publication date and other
-metadata.
-</esa-main-section>
-
-<esa-main-section title="I found an interesting experiment, how can I re-run it with my own parameters?">
-
-Each experiment published on EarthCODE will be reproducible (to
-varying degrees). If you choose to reproduce a previous experiment,
-all the available information (e.g. input data, source code, required
-environment) will be pre-loaded, allowing you to either re-run the
-experiment with the same parameters, or changing them to build your
-own experiment upon it.
-</esa-main-section>
-
-## Community
-
-EarthCODE aims to foster a community based on FAIR Open Science Principles throughout ESA-funded Earth System Science activities. Several recent and ongoing initiatives within the EO sector are focussed on the creation of common standards, common architecture, and open-source platforms. EarthCODE aims to deliver long-term persistence of data, code, and documentation, aiding reproducibility, reuse and consumption of research outputs by a wider community. Additionally, the Portal aims to provide access to community information resources and Open Science tools enabling collaboration and adherence to FAIR/open research practices.
-
-If you would like to be a part of this community, please sign up to our newsletter (once it is established) to get more information. We will also hold regular sessions with end-users, so they can contribute understanding the needs of end-users and stakeholders.
-
-<div class="light">
-
-## Team
-
-Earth Science Collaborative Open Development Environment - EarthCODE - is a project sponsored by the European Space Agency (ESA) as a collaborative project under leadership of Telespazio UK as prime contractor. The contracted partners in the consortium are below.
-
-### Prime Team
-
-- <img style="width: 50px; border-radius: 50%" src="/assets/img/tpz.jpg" /> <a href="https://telespazio.co.uk" target="blank" style="display: inline-flex; transform: translateX(5px) translateY(-25px)">Telespazio UK (Prime Contractor)</a>
-- <img style="width: 50px; border-radius: 50%" src="/assets/img/eox.png" /> <a href="https://eox.at" target="blank" style="display: inline-flex; transform: translateX(5px) translateY(-25px)">EOX (Portal)</a>
-
-### Work Stream Consortium
-
-TBD
-
-</div>
-
-## Contact us!
-
-Does the information provided seem insufficient? Please feel free to get in touch with our team!  
-**Dr Chandra Taposeea-Fisher**  
-Senior Project Manager  
-[chandra.taposeea@telespazio.com](mailto:chandra.taposeea@telespazio.com)
+  <a class="VPButton cta no-icon" href="https://esacontact.esa.int/ESA_EO_OpenScience_Subscribe" target="_blank">Subscribe</a>
+  </div>
+  </div>
+</section>
