@@ -1,10 +1,8 @@
-import { defineConfig } from "vitepress";
+import baseConfig from "@eox/pages-theme-esa/config";
 
 // https://vitepress.dev/reference/site-config
-export default defineConfig({
-  srcDir: "./pages",
-  appearance: "force-dark",
-  cleanUrls: true,
+export default {
+  extends: baseConfig,
   title: "EarthCODE",
   titleTemplate: " EarthCODE",
   description: "Earth Science Collaborative Open Development Environment",
@@ -112,13 +110,9 @@ export default defineConfig({
     `,
     ],
   ],
-  vue: {
-    template: {
-      compilerOptions: {
-        isCustomElement: (tag) => {
-          return tag.toLowerCase().includes("-");
-        },
-      },
+  vite: {
+    ssr: {
+      noExternal: ["@eox/pages-theme-esa"],
     },
   },
-});
+};
