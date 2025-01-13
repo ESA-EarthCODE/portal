@@ -25,7 +25,7 @@ Easily create, find, publish and re-use data & workflows using AI-ready virtual 
       tag="Platform"
       title="Deep ESDL"
       description="Virtual laboratory providing data, tools, and computational resources to efficiently implement comprehensive processing workflows for Earth System data"
-      link="https://www.earthsystemdatalab.net/"
+      link="https://deep.earthsystemdatalab.net/"
       action="Access"
     ></esa-card>
     <esa-card
