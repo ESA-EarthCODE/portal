@@ -18,14 +18,21 @@ Easily create, find, publish and re-use data & workflows using AI-ready virtual 
       tag="Platform"
       title="Euro Data Cube"
       description="One-stop-shop for browsing, analysis and processing of EO data, from source up to the final product. A combination of several services: harness the power of the data cube, access and analyse all the most important Earth Observation data in one application"
-      link="https://eurodatacube.com"
+      link="https://eurodatacube.hub.eox.at"
+      action="Access"
+    ></esa-card>
+    <esa-card
+      tag="Platform"
+      title="Polar TEP"
+      description="The Polar Thematic Exploitation Platform (Polar TEP) provides a complete working environment where users can access algorithms and data remotely, obtain computing resources and tools that they might not otherwise have, and avoid the need to download and manage large volumes of data."
+      link="https://polartep.hub.eox.at"
       action="Access"
     ></esa-card>
     <esa-card
       tag="Platform"
       title="Deep ESDL"
       description="Virtual laboratory providing data, tools, and computational resources to efficiently implement comprehensive processing workflows for Earth System data"
-      link="https://www.earthsystemdatalab.net/"
+      link="https://deep.earthsystemdatalab.net/"
       action="Access"
     ></esa-card>
     <esa-card
