@@ -33,6 +33,7 @@ export default {
         text: "Contact",
       },
     ],
+    login: "https://dashboard.earthcode-testing.earthcode.eox.at/"
   },
   head: [
     ["link", { rel: "icon", href: "/img/EarthCODE_Favicon_32x32px.png" }],
