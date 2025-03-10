@@ -16,4 +16,4 @@ During this hands-on session, attendees will explore EarthCODE’s capabilities,
 
 The workshop will conclude with an open discussion, inviting participants to provide feedback on EarthCODE’s development and explore ways to enhance community-driven collaboration. As Open Science continues to shape the future of Earth Observation, EarthCODE is fostering a more transparent, accessible, and innovative research landscape. Join us at FOSS4G 2025! 
 
-https://www.spaceagenda.com/wp-content/uploads/2024/12/FOSS4G-Europe-2025.webp 
+![](https://www.spaceagenda.com/wp-content/uploads/2024/12/FOSS4G-Europe-2025.webp)
