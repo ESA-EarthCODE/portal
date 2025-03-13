@@ -1,6 +1,6 @@
 ---
 date: 2025-01-01
-title: Invitation to Tender: Join EarthCODE as a Subcontractor
+title: Invitation to Tender - Join EarthCODE as a Subcontractor
 image: https://github.com/ESA-EarthCODE/portal/blob/staging/pages/public/img/EarthCODE_Herobanner_1920x1080.jpg
 ---
 
