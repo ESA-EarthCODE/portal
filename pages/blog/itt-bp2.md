@@ -4,7 +4,7 @@ title: Invitation to Tender - Join EarthCODE as a Subcontractor
 image: https://github.com/ESA-EarthCODE/portal/blob/staging/pages/public/img/EarthCODE_Herobanner_1920x1080.jpg
 ---
 
-# Invitation to Tender: Join EarthCODE as a Subcontractor <!--{ as="img" mode="hero" src="https://esa-earthcode.github.io/portal-assets/blog/Living_Planet_Symposium_2025_pillars-4170729331.jpg" }-->
+# Invitation to Tender: Join EarthCODE as a Subcontractor <!--{ as="img" mode="hero" src="https://earthcode.esa.int/img/EarthCODE_Herobanner_1920x1080.jpg" }-->
 
 ## Invitation to Tender: Join EarthCODE as a Subcontractor
 *Published: 01.01.2025*
