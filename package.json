@@ -1,6 +1,6 @@
 {
   "name": "earthcode-portal",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "type": "module",
   "author": "EOX",
   "license": "ISC",
@@ -17,7 +17,7 @@
     "format": "npx prettier --write ."
   },
   "dependencies": {
-    "@eox/esa-ui": "^1.11.1",
+    "@eox/esa-ui": "^1.11.2",
     "@eox/storytelling": "^1.4.1"
   }
 }
