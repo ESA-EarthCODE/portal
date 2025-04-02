@@ -72,12 +72,18 @@ hero:
     link="https://discourse-earthcode.eox.at/"
     action="Open"
   ></esa-card>
-  <!--<esa-card
+  <esa-card
     title="Getting Started with EarthCODE"
     description="Get familiar with the platform and use a step-by-step pathway to help you navigate EarthCODE, from basic understanding to more advanced features"
-    link="https://esa-earthcode.github.io/documentation/getting-started"
+    link="https://esa-earthcode.github.io/documentation/documentation/Getting%20started%20with%20EarthCODE/"
     action="Open"
-  ></esa-card>-->
+  ></esa-card>
+    <esa-card
+    title="EarthCODE Examples"
+    description="Guides and examples on how to use the various EarthCODE resources"
+    link="https://esa-earthcode.github.io/documentation/examples/"
+    action="Open"
+  ></esa-card>
 </esa-cards>
 
 </section>

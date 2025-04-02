@@ -20,10 +20,14 @@ export default {
         link: "/community",
         text: "Community",
       },
-      // {
-      //   link: "https://esa-earthcode.github.io/documentation/",
-      //   text: "Documentation",
-      // },
+      {
+        link: "https://esa-earthcode.github.io/documentation/documentation/",
+        text: "Documentation",
+      },
+      {
+        link: "https://esa-earthcode.github.io/documentation/examples/",
+        text: "Examples",
+      },
       {
         link: "/blog",
         text: "Blog",
