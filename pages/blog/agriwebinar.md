@@ -1,13 +1,10 @@
-
 ---
 date: 2025-04-17
 title: April Agriculture Science Cluster Webinar
 image: https://esa-earthcode.github.io/portal-assets/blog/Living_Planet_Symposium_2025_pillars-4170729331.jpg
-
 ---
 
-# Recap: EarthCODE for Agriculture Science Webinar – 10th April 2025
- <!--{ as="img" mode="hero" src="https://esa-earthcode.github.io/portal-assets/blog/Living_Planet_Symposium_2025_pillars-4170729331.jpg" }-->
+# Recap: EarthCODE for Agriculture Science Webinar – 10th April 2025 <!--{ as="img" mode="hero" src="https://esa-earthcode.github.io/portal-assets/blog/Living_Planet_Symposium_2025_pillars-4170729331.jpg" }-->
 
 ## April Agriculture Science Cluster Webinar
 *Published: 17.04.2025*
