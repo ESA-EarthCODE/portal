@@ -21,11 +21,11 @@ export default {
         text: "Community",
       },
       {
-        link: "https://esa-earthcode.github.io/documentation/documentation/",
+        link: "https://esa-earthcode.github.io/documentation/",
         text: "Documentation",
       },
       {
-        link: "https://esa-earthcode.github.io/documentation/examples/",
+        link: "https://esa-earthcode.github.io/examples/",
         text: "Examples",
       },
       {
