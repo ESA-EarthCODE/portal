@@ -1,25 +1,89 @@
 ---
-date: 2024-12-20
-title: EarthCODE at ESA LPS 2025
+date: 2025-05-14
+title: Open Science at the Living Planet Symposium 2025
 image: https://esa-earthcode.github.io/portal-assets/blog/Living_Planet_Symposium_2025_pillars-4170729331.jpg
 feature: true
 ---
 
-# EarthCODE at ESA LPS 2025 <!--{ as="img" mode="hero" src="https://esa-earthcode.github.io/portal-assets/blog/Living_Planet_Symposium_2025_pillars-4170729331.jpg" }-->
+# Open Science at the Living Planet Symposium 2025 <!--{ as="img" mode="hero" src="https://esa-earthcode.github.io/portal-assets/blog/Living_Planet_Symposium_2025_pillars-4170729331.jpg" }-->
 
-## EarthCODE at ESA LPS 2025
-*Published: 20/12/2024*
+## Open Science at the Living Planet Symposium 2025
+*Published: 14/05/2025*
 
-Held every three years, ESA’s Living Planet Symposia are among the world’s premier events on Earth observation, attracting a wide community of international scientists and innovators in EO. The 2025 edition is set to be the largest and most innovative one yet.  
+**Dates:** 23–27 June 2025  
+**Location:** Vienna, Austria  
+**LPS 2025 Website:** [lps25.esa.int](https://lps25.esa.int/)
 
-With the climate crisis intensifying, the Living Planet Symposium 2025 (LPS25) emphasises transitioning from ‘observation to climate action and sustainability for Earth’. FAIR Open Science and Open Innovation will be at the heart of the event, being key enablers for Earth Action, accelerating discovery and facilitating the transition from Science to Innovation.  
+The Living Planet Symposium 2025, hosted by the European Space Agency in Vienna, brings together the global Earth observation community to explore how satellite data can support science, policy, and innovation. **Open Science and Digital Innovation** is one of the key thematics of the event. Under this theme, the programme offers Agoras, Tehcnical Sessions, Side Events and conversations suitable for both Earth scientists and technology enthusiasts. 
 
-As an implementation of ESA’s vision for Open Science and Innovation in EO, EarthCODE will have a strong presence at LPS 2025, with demos, presentations and community engagement.
+Here are the most relevant sessions to follow:
+---
+## 🌐 3-27 June | 📍 Foyer | **OPEN SCIENCE IN THE MAKING**
 
-## Updates
-Stay tuned for updates, as the LPS 2025 Programme evolves.
+ An innovative format where developers and scientists meet to work together on making data and workflows FAIR.
+  **Book your 1:1 session with a developer, bring your dataset and publish it on-the-spot to EarthCODE! Cool prizes for the champions of reproducbility!**
 
-## Further Resources
-To learn more about the ESA Living Planet Symposium 2025 visit: [https://lps25.esa.int/ ](https://lps25.esa.int/)
+  Stay tuned here for the registration link! 
+  
+## Technical Sessions
 
-Also see the [LPS 2025 Digital Flyer](https://indd.adobe.com/view/a7210b01-b88a-49b5-a500-b5d63ea9aaf2).
+ 📆 **Monday - 23.06.2025**
+
+- 14:00 - 15:30 | 📍 Hall N1/N2 | **Free Open Source Software for the Geospatial Domain: current status & evolution - PART 1** –  This session showcases the status of OSS tools and applications in the EO domain, and their foreseen evolution, with a focus on innovation and support to open science challenges.
+
+- 16:15 - 17:45 | 📍 Hall N1/N2 | **Free Open Source Software for the Geospatial Domain: current status & evolution - PART 2** –  This session showcases the status of OSS tools and applications in the EO domain, and their foreseen evolution, with a focus on innovation and support to open science challenges.
+
+📆 **Tuesday - 24.06.2025**
+
+- 08:30 - 10:05 | 📍 Hall M1/M2 | **Innovative technologies, tools and strategies for scientific visualisation and outreach** –  This session features contributions from innovative web-based solutions, dashboards, advanced visualisation tools and other new and innovative technologies and use cases for scientific communication, dissemination and education.
+
+📆 **Wednesday - 25.06.2025**
+
+- 08:30 - 10:05 | 📍 Hall M1/M2 | **Harnessing Open and Community-Driven Innovation in Times of Emergencies** –  This session explores how open and community-driven innovation can provide timely and impactful solutions by leveraging the collective intelligence and collaborative efforts of diverse stakeholders.
+
+- 11:30 - 13:00 | 📍 Room 0.94/0.95 | **Impact through Reproducibility in Earth Observation Science and Applications** –  This session looks at the most relevant approaches today that enable reproducibility in EO, lessons learned from the most adopted solutions and how technologies can be used to increase impact of research data
+
+---
+
+## Hands-On Training & Tutorials
+
+ 📆 **Sunday - 22.06.2025**
+
+- 14:00 - 15:20 |📍 Room 0.49/0.50 | **Deep dive into vector data cubes for Python and R** - learn about and create vector data cubes with Python using `Xarray` and `Xvec` and in R using `stars` and `post`
+
+- 14:00 - 15:20 |📍 Room 0.94/0.95 | **From Earth Science to Storytelling with EO Dashboard** - learn to use `eodash` open-source ecosystem to build powerful interactive web stories with EO data from ESA, NASA and JAXA
+
+- 15:30 - 16:50 | 📍 Hall L3 | **Cloud-Native Earth Observation Processing with SNAP and Copernicus Data Space Ecosystem CDSE**: learn to deploy ESA’s SNAP in cloud environments, leveraging containerization, Python integration, and the Copernicus Data Space Ecosystem (CDSE)
+  
+- 15:30 - 16:50 |📍 Room 1.34 | **The CoMet toolkit – Uncertainties made easy** - learn to use the Community Metrology Toolkit
+
+- 15:30 - 16:50 |📍 Room 1.85/1.86 | **Code Once, Reuse and Scale Seamlessly: Build EO Workflows using openEO in the Copernicus Data Space Ecosystem** - learn to convert algorithms into a process graph to create a reusable service known as user-defined processes (UDPs)
+
+- 17:00 - 18:20 |📍 Room 0.11/0.12 | **FAIR and Open Science with EarthCODE Integrated Platforms** – learn to create FAIR datasets and workflows with ESA's EarthCODE tools and how to publish to the ESA Open Science Catalogue
+
+- 17:00 - 18:20 |📍 Room 1.85/1.86 | **Satellite Image Time Series Analysis on Earth Observation Data Cubes** - learn to implement methods for big EO data analysis in R using satellite image time series and the CDSE
+
+ 📆 **Monday - 23.06.2025**
+
+- 09:00 - 10:20 |📍 Room 0.96/0.97 | **EarthCODE 101 Hands-On Workshop** - learn to use the EarthCODE tools to do reproducible science, hands-on with Pangeo and Euro Data Cube
+- 09:00 - 10:20 |📍 Room 0.49/0.50 | **ESA WorldCereal: Cloud-based, Custom Crop Mapping Made Easy** - learn to select, review and prepare in-situ reference data, upload it to the WorldCereal reference data module (RDM), access data inthe RDM and share with the community 
+---
+
+## Agoras & Community Discussions
+
+📆 **Monday - 23.06.2025**
+
+-   12:30 - 13:15 | 📍 Nexus Agora | **Empowering Collective Action Through Earth Observation: Informing and Engaging Society** – This Agora will explore how Earth Observation, combined with cutting-edge technologies like AI, can empower collective action on global challenges such as environmental degradation, public health, extreme climate, etc. The discussion  will focus on how to make EO more accessible, and how it can be used to inspire and enable people to participate in solutions.
+
+- 15:30 - 16:15 | D.03.07 📍 Nexus Agora | **Implementing FAIR Open Science: Advancing ESA’s EO Science Strategy** - ESA’s new EO Science Strategy “Earth Science in Action for Tomorrow’s World” puts forth Open Science and Digital Innovation as key enablers for Earth Action. To realise this vision, national agencies, international organizations, and research institutions must work together to create frameworks that support open science, facilitate data sharing, and enable interoperability. The session will explore practical pathways to Open Science in EO and Earth System Science. 
+
+📆 **Tuesday - 24.06.2025**
+
+-   10:45 - 11:30 | 📍 Frontiers Agora | **Open Science in the Making** – Open Science is made live, at LPS, at the “Open Science in the Making” booth! Here scientists and open source software developers will meet to discuss best practices in Open Science, and collaborate to build user-driven expansions to open source tools and algorithms, integrate and share their applications and data, discuss on the most popular Open Source projects. This Agora will present the projects from the “Open Science in the Making” booth and the opportunities for engaging with strategic initiatives like EarthCODE and APEx or EOEPCA.
+---
+
+
+## Explore the full LPS Programme
+
+- [Living Planet Symposium Programme](https://lps25.esa.int/programme/)  
+
