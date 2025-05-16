@@ -17,11 +17,11 @@ feature: true
 The Living Planet Symposium 2025, hosted by the European Space Agency in Vienna, brings together the global Earth observation community to explore how satellite data can support science, policy, and innovation. **Open Science and Digital Innovation** is one of the key thematics of the event. Under this theme, the programme offers Agoras, Tehcnical Sessions, Side Events and conversations suitable for both Earth scientists and technology enthusiasts. 
 
 Here are the most relevant sessions to follow:
----
-## 🌐 3-27 June | 📍 Foyer | **OPEN SCIENCE IN THE MAKING**
+
+## 🌐 23-27 June | 📍 Foyer | OPEN SCIENCE IN THE MAKING
 
  An innovative format where developers and scientists meet to work together on making data and workflows FAIR.
-  **Book your 1:1 session with a developer, bring your dataset and publish it on-the-spot to EarthCODE! Cool prizes for the champions of reproducbility!**
+  **Book your 1:1 session with a developer, bring your dataset and publish it on-the-spot to EarthCODE! Cool prizes for the champions of reproducibility!**
 
   Stay tuned here for the registration link! 
   
@@ -42,8 +42,6 @@ Here are the most relevant sessions to follow:
 - 08:30 - 10:05 | 📍 Hall M1/M2 | **Harnessing Open and Community-Driven Innovation in Times of Emergencies** –  This session explores how open and community-driven innovation can provide timely and impactful solutions by leveraging the collective intelligence and collaborative efforts of diverse stakeholders.
 
 - 11:30 - 13:00 | 📍 Room 0.94/0.95 | **Impact through Reproducibility in Earth Observation Science and Applications** –  This session looks at the most relevant approaches today that enable reproducibility in EO, lessons learned from the most adopted solutions and how technologies can be used to increase impact of research data
-
----
 
 ## Hands-On Training & Tutorials
 
