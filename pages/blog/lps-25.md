@@ -23,7 +23,9 @@ Here are the most relevant sessions to follow:
  An innovative format where developers and scientists meet to work together on making data and workflows FAIR.
   **Book your 1:1 session with a developer, bring your dataset and publish it on-the-spot to EarthCODE! Cool prizes for the champions of reproducibility!**
 
-  Stay tuned here for the registration link! 
+[Register your project and book a session.](https://forms.office.com/e/Rzh5TTU1uh)
+
+Spots are limited and will be allocated on a first-come, first-served basis. We recommend booking early to secure your slot. If you have questions or need any clarifications, leave a comment on the EarthCODE Discourse Forum [topic for the event](https://discourse-earthcode.eox.at/t/publish-your-project-s-data-at-lps-2025/80)
   
 ## Technical Sessions
 
@@ -63,7 +65,7 @@ Here are the most relevant sessions to follow:
 
  📆 **Monday - 23.06.2025**
 
-- 09:00 - 10:20 |📍 Room 0.96/0.97 | **EarthCODE 101 Hands-On Workshop** - learn to use the EarthCODE tools to do reproducible science, hands-on with Pangeo and Euro Data Cube
+- 09:00 - 10:20 |📍 Room 0.96/0.97 | **EarthCODE 101 Hands-On Workshop** - learn to use the EarthCODE tools to do reproducible science, hands-on with Pangeo and Euro Data Cube. Register your interest [here](https://forms.office.com/e/jAB9YLjgY0)
 - 09:00 - 10:20 |📍 Room 0.49/0.50 | **ESA WorldCereal: Cloud-based, Custom Crop Mapping Made Easy** - learn to select, review and prepare in-situ reference data, upload it to the WorldCereal reference data module (RDM), access data inthe RDM and share with the community 
 ---
 
