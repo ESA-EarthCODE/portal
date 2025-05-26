@@ -21,11 +21,12 @@ Here are the most relevant sessions to follow:
 ## 🌐 23-27 June | 📍 Foyer | OPEN SCIENCE IN THE MAKING
 
  An innovative format where developers and scientists meet to work together on making data and workflows FAIR.
-  **Book your 1:1 session with a developer, bring your dataset and publish it on-the-spot to EarthCODE! Cool prizes for the champions of reproducibility!**
-
-[Register your project and book a session.](https://forms.office.com/e/Rzh5TTU1uh)
+ 
+ **Book your 1:1 session with a developer, bring your dataset and publish it on-the-spot to EarthCODE! Cool prizes for the champions of reproducibility! [Register your project and book a session.](https://forms.office.com/e/Rzh5TTU1uh)**
 
 Spots are limited and will be allocated on a first-come, first-served basis. We recommend booking early to secure your slot. If you have questions or need any clarifications, leave a comment on the EarthCODE Discourse Forum [topic for the event](https://discourse-earthcode.eox.at/t/publish-your-project-s-data-at-lps-2025/80)
+
+The Open Science in the Making [Programme is available here](https://earthcode.esa.int/blog/open-science-in-the-making).
   
 ## Technical Sessions
 
