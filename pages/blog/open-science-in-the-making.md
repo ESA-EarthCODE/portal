@@ -35,7 +35,7 @@ Enjoy hands-on engagement, meet the people behind the code, share your needs, an
 
 Each day features focused activities and live engagement opportunities. Find your moment to connect!
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3g0T_1Cv8IEz9XTEYmK41gJr7wgDnX-2iKQNakuNRH9EbH3qCYUjHqnsjdoj9Az3HIgb6T46TqGh8/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3g0T_1Cv8IEz9XTEYmK41gJr7wgDnX-2iKQNakuNRH9EbH3qCYUjHqnsjdoj9Az3HIgb6T46TqGh8/pubhtml?widget=true&amp;headers=false" style="width: 100%; height: 400px"></iframe>
 
 ## 🤝 Participating Initiatives
 
