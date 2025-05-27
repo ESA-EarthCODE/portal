@@ -21,9 +21,9 @@ Here, scientists and Free Open Source Software developers will come together to:
 **📍 Location:** Foyer L2 (Level 1)
 
 ### Meet the Experts:
-- **ESA’s EarthCODE**: Open Science and FAIR practitioners. *Limited spots available* for 1:1 publishing sessions – [register here](#) to secure yours.
+- **ESA’s EarthCODE**: Open Science and FAIR practitioners. [Register for 1:1 session to bring your data to EarthCODE. Limited Spots available](https://forms.office.com/e/Rzh5TTU1uh).
 - **OGC Open Science Persistent Demonstrator**: Experts in reproducibility and Earth Science tech.
-- **ESA APEx project**: Specialists in scaling scientific algorithms into products and services.
+- **ESA APEx project**: Specialists in scaling scientific algorithms into products and services. [“Register for APEx / OpenEO / STAC one-to-one session”](mailto:apex@esa.int?subject=Register%20to%201-to-1%20session%20at%20LPS)
 - **OSGeo & EOEPCA developers**: Free and Open Source Software contributors.
 - **Communities**: Pangeo, FORGE, SEN4CAP, EO-TDL and more.
 
@@ -35,34 +35,9 @@ Enjoy hands-on engagement, meet the people behind the code, share your needs, an
 
 Each day features focused activities and live engagement opportunities. Find your moment to connect!
 
-### **Monday 23 June**
-<p align="center">
-  <img src="https://github.com/ESA-EarthCODE/portal/blob/staging/pages/blog/Monday.jpeg?raw=true" width="600">
-</p>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3g0T_1Cv8IEz9XTEYmK41gJr7wgDnX-2iKQNakuNRH9EbH3qCYUjHqnsjdoj9Az3HIgb6T46TqGh8/pubhtml?widget=true&amp;headers=false"></iframe>
 
-### **Tuesday 24 June**
-<p align="center">
-  <img src="https://github.com/ESA-EarthCODE/portal/blob/staging/pages/blog/Tuesday.jpeg?raw=true" width="600">
-</p>
-
-### **Wednesday 25 June**
-<p align="center">
-  <img src="https://github.com/ESA-EarthCODE/portal/blob/staging/pages/blog/Wednesday.jpeg?raw=true" width="600">
-</p>
-
-### **Thursday 26 June**
-<p align="center">
-  <img src="https://github.com/ESA-EarthCODE/portal/blob/staging/pages/blog/Thursday.jpeg?raw=true" width="600">
-</p>
-
-### **Friday 27 June**
-<p align="center">
-  <img src="https://github.com/ESA-EarthCODE/portal/blob/staging/pages/blog/Friday.jpeg?raw=true" width="600">
-</p>
-
----
-
-## 🤝 Partners
+## 🤝 Participating Initiatives
 
 <p align="center">
   <img src="https://github.com/ESA-EarthCODE/portal/blob/staging/pages/blog/Visual-logos.jpg?raw=true" width="600">
