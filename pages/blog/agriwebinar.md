@@ -31,6 +31,6 @@ Feel free to reach out via this channel!
 
 ## Links
 
--  **Webinar Recording**: *Coming soon*  
+-  **Webinar Recording**: [Cick here to Access the recording](https://youtu.be/qvW8ecLDXNc?si=VuVmpzwMfDFnS0HI)  
 - **Presentation Slides**: [`EarthCODE Agriculture Webinar Slides`](https://doi.org/10.5281/zenodo.15235252)  
 - **Discourse Discussion**: [Agriculture Cluster Webinar Q&A and Discussion](https://discourse-earthcode.eox.at/t/agriculture-cluster-webinar-discussion-and-q-a/65)          
