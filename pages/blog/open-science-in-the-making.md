@@ -18,7 +18,7 @@ Here, scientists and Free Open Source Software developers will come together to:
 - FAIRify, integrate, and share applications and data  
 - Brainstorm on the most impactful Open Source projects supporting EO research  
 
-**📍 Location:** Foyer L2 (Level 1)
+**📍 Location:** [Foyer L3 (Level 1)](https://lps25.esa.int/wp-content/uploads/2025/05/open-science-02.jpg)
 
 ### Meet the Experts:
 - **ESA’s EarthCODE**: Open Science and FAIR practitioners. [Register for 1:1 session to bring your data to EarthCODE. Limited Spots available](https://forms.office.com/e/Rzh5TTU1uh).
