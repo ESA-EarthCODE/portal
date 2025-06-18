@@ -6,7 +6,7 @@ layout: page
 
 # About EarthCODE
 
-ESA's EarthCODE is a dynamic Collaborative Open Development Environment created to transform Earth System Science by embedding FAIR and Open Science Principles into the scientific development process. By providing tools, expertise, and opportunities, EarthCODE enables science teams to seamlessly adopt open science practices as part of their workflows. EarthCODE integrates the Open Science Catalogue, making it effortless to discover novel research outcomes from ESA Science Clusters activities and beyond. With seamless access to commercial platform services and a wealth of community resources and tools, EarthCODE empowers scientists to collaborate, innovate, and adhere to open research practices, driving the next wave of discovery In Earth Science. 
+ESA's EarthCODE is a dynamic Collaborative Open Development Environment created to transform Earth System Science by embedding FAIR and Open Science Principles into the scientific development process. By providing tools, expertise, and opportunities, EarthCODE enables science teams to seamlessly adopt open science practices as part of their workflows. EarthCODE integrates the Open Science Catalogue, making it effortless to discover novel research outcomes from ESA Science Clusters activities and beyond. With seamless access to commercial platform services and a wealth of community resources and tools, EarthCODE empowers scientists to collaborate, innovate, and adhere to open research practices, driving the next wave of discovery In Earth Science!
 
 </section>
 <section class="white">
