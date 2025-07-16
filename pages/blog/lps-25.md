@@ -2,7 +2,6 @@
 date: 2025-05-14
 title: Open Science at the Living Planet Symposium 2025
 image: https://esa-earthcode.github.io/portal-assets/blog/Living_Planet_Symposium_2025_pillars-4170729331.jpg
-feature: true
 ---
 
 # Open Science at the Living Planet Symposium 2025 <!--{ as="img" mode="hero" src="https://esa-earthcode.github.io/portal-assets/blog/Living_Planet_Symposium_2025_pillars-4170729331.jpg" }-->
