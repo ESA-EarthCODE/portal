@@ -4,7 +4,10 @@ on:
   # Runs on pushes to all branches except main
   push:
     branches:
-      - "!main"
+      - '*'         # matches every branch that doesn't contain a '/'
+      - '*/*'       # matches every branch containing a single '/'
+      - '**'        # matches every branch
+      - '!main'     # excludes main
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
