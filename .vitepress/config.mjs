@@ -9,8 +9,8 @@ export default {
   themeConfig: {
     nav: [
       {
-        link: "/about",
-        text: "About",
+        link: "/ecosystem",
+        text: "Ecosystem",
       },
       {
         link: "/resources",
@@ -21,20 +21,12 @@ export default {
         text: "Community",
       },
       {
-        link: "https://esa-earthcode.github.io/documentation/",
-        text: "Documentation",
-      },
-      {
-        link: "https://esa-earthcode.github.io/examples/",
-        text: "Examples",
-      },
-      {
         link: "/blog",
         text: "Blog",
       },
       {
-        link: "/contact",
-        text: "Contact",
+        link: "/about",
+        text: "About",
       },
     ],
     login: "https://dashboard.earthcode-testing.earthcode.eox.at/"
