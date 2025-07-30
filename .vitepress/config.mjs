@@ -29,7 +29,7 @@ export default {
         text: "About",
       },
     ],
-    login: "https://dashboard.earthcode-testing.earthcode.eox.at/"
+    login: "https://workspace.earthcode.eox.at/"
   },
   head: [
     ["link", { rel: "icon", href: "/img/EarthCODE_Favicon_32x32px.png" }],

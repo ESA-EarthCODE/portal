@@ -8,8 +8,8 @@ hero:
   image: /img/EarthCODE_Background-Pattern_1.jpg
   actions:
     - theme: cta
-      text: Sign up for updates
-      link: https://esacontact.esa.int/ESA_EO_OpenScience_Subscribe
+      text: Get started
+      link: /
 ---
 
 <section class="white" style="padding-top: 3rem">
