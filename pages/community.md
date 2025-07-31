@@ -11,6 +11,20 @@ layout: page
 </section>
 <section class="light-grey">
 
+# Forum
+Join the EarthCode Discourse forum for discussions about FAIR and open-science and exploring the diverse tools, published research and solutions offered by the EarthCODE platform.
+
+### Latest topics
+
+<DiscourseForumPosts
+  endpoint="https://discourse-earthcode.eox.at"
+></DiscourseForumPosts>
+<div>
+  <a class="VPButton cta no-icon" href="https://discourse-earthcode.eox.at/">Visit Forum</a>
+</div>
+</section>
+<section class="light-grey">
+
 ## Upcoming Events
 
 <esa-cards>
@@ -47,20 +61,6 @@ layout: page
     link="https://lps25.esa.int/"
   ></esa-card>
 </esa-cards>
-</section>
-<section class="light-grey">
-
-# Forum
-Join the EarthCode Discourse forum for discussions about FAIR and open-science and exploring the diverse tools, published research and solutions offered by the EarthCODE platform.
-
-### Latest topics
-
-<DiscourseForumPosts
-  endpoint="https://discourse-earthcode.eox.at"
-></DiscourseForumPosts>
-<div>
-  <a class="VPButton cta no-icon" href="https://discourse-earthcode.eox.at/">Visit Forum</a>
-</div>
 </section>
 
 <script setup>
