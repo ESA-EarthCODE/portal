@@ -21,15 +21,15 @@ export default {
         text: "Community",
       },
       {
-        link: "/blog",
-        text: "Blog",
+        link: "/news-events",
+        text: "News & Events",
       },
       {
         link: "/about",
         text: "About",
       },
     ],
-    login: "https://workspace.earthcode.eox.at/"
+    login: "https://workspace.earthcode.eox.at/",
   },
   head: [
     ["link", { rel: "icon", href: "/img/EarthCODE_Favicon_32x32px.png" }],

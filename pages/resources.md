@@ -6,7 +6,7 @@ layout: page
 
 # Resources
 
-Get started with EarthCODE
+Get started with EarthCODE training, examples, documentation or ask a question on the forum.
 </section>
 
 <section class="white">
@@ -29,7 +29,14 @@ Get started with EarthCODE
   </esa-cards>
 </section>
 
-<section class="grey">
+<section class="light-grey">
+
+## Ask  a question
+
+Get support from the EarthCODE community.
+</section>
+
+<section class="white">
 
 ## Training
 
@@ -41,4 +48,15 @@ Get started with EarthCODE
       action="Explore"
     ></esa-card> -->
   </esa-cards>
+</section>
+
+<section class="grey">
+
+## Get in touch
+
+Join ESA's initiative to ensure long-term preservation and accessibility of research data, code, and documentation for a global scientific community.
+
+<div>
+  <a class="VPButton cta no-icon" href="earth-code@esa.int">Contact us</a>
+</div>
 </section>

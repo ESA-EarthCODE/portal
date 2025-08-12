@@ -6,10 +6,43 @@ layout: page
 
 # About EarthCODE
 
-ESA's EarthCODE is a dynamic Collaborative Open Development Environment created to transform Earth System Science by embedding FAIR and Open Science Principles into the scientific development process. By providing tools, expertise, and opportunities, EarthCODE enables science teams to seamlessly adopt open science practices as part of their workflows. EarthCODE integrates the Open Science Catalogue, making it effortless to discover novel research outcomes from ESA Science Clusters activities and beyond. With seamless access to commercial platform services and a wealth of community resources and tools, EarthCODE empowers scientists to collaborate, innovate, and adhere to open research practices, driving the next wave of discovery In Earth Science. 
+EarthCODE is ESA’s strategic initiative to bring its vision of openness in EO science, applications and industry, and of a sustainable open innovation ecosystem. It integrates 1) the Open Science Catalogue, making it effortless to discover novel research outcomes from ESA Science Clusters activities; 2) access to commercial platform services; and 3) a wealth of community resources and tools that help maintain data and research quality. 
+
+EarthCODE is closely related to its sister initiative APEx which aims to operationalize scientific algorithms. Where EarthCODE focuses on open data and workflows - APEx focuses on taking some of these to the next level as scalable services.
+
+Together these initiatives drive ESA’s efforts on Earth Action - the actionable use of Earth Observation data for the benefit of society - from research to policy.
+
 
 </section>
 <section class="white">
+
+# EarthCODE's Vision
+
+Modern Earth system science faces complex challenges that demand collaborative, transparent, and reproducible approaches. At the heart of this transformation is the convergence of **FAIR principles** (Findability, Accessibility, Interoperability, and Reusability), **Open Science**, and Open Innovation—all of which create unprecedented opportunities for scalable, cross-sector research and decision-making.
+
+![Open Science](https://esa-earthcode.github.io/documentation/img/terms/open-science-esa.png)
+
+To effectively address pressing societal challenges, researchers must be able to work across the entire science lifecycle. This requires modern, powerful, and interoperable infrastructure that can support diverse Earth Observation (EO) data types, facilitate data-intensive workflows, and enable trusted knowledge generation. This infrastructure for open science empower scientists to (1) Access and process satellite and in-situ data in collaborative cloud environments, (2) Develop and publish reusable code and workflows, (3) Validate outputs and share reproducible results, and (4) Collaborate across institutional, disciplinary, and national boundaries.
+
+The **Open Science and Innovation Vision** outlined in ESA’s Earth Observation Science Strategy (2024) defines eight foundational pillars to achieve this:  
+1) open research data,  
+2) open-source scientific code,  
+3) open access to scientific publications with data and code,  
+4) standards-based discovery of scientific experiments,  
+5) reproducible workflows across platforms,  
+6) accessible education and training on open science,  
+7) collaborative community practices, and  
+8) EO business models based on open technologies.
+
+ESA's strategic objective is to **foster the development of a culture and practice of openness in EO science, applications and industry, and of a sustainable open innovation ecosystem.**
+
+EarthCODE is ESA’s strategic initiative to bring this vision to life. Originally starting as a simple repository for datasets from ESA-funded projects, it has since grown into a comprehensive environment that supports the full open science lifecycle—from data and workflow development to publication and community engagement.
+
+<div style="border: 1px solid darkgrey; border-radius: .5rem; padding: 1rem;">What is Open Science? Open Science is just science done right.
+Open Science is a movement to make the entire research process more accessible and reproducible, including input data, analysis methods, results, and the dissemination and reception of those results.</div>
+
+</section>
+<section class="light-grey">
 
 ## Our Mission, Vision and Goals
 
@@ -83,52 +116,4 @@ The EarthCODE platform is constantly evolving, with its roadmap regularly update
   ></esa-card>
 </esa-cards>
 
-</section>
-<section class="white">
-
-## Our Partners
-  <esa-cards>
-    <esa-card
-      icon="<img src='https://esa-earthcode.github.io/portal-assets/partners/Telespazio_cropped.png' height='40' style='max-width: 100%; object-fit: contain' />"
-      title="Telespazio"
-      description="Leading project management and technical innovation, driving EarthCODE’s success with cutting-edge EO expertise"
-      action="Visit website"
-      link="https://www.telespazio.com"
-    ></esa-card>
-    <esa-card
-      icon="<img src='https://esa-earthcode.github.io/portal-assets/partners/EOX_cropped.png' height='40' style='max-width: 100%; object-fit: contain' />"
-      title="EOX"
-      description="Championing FAIR and Open-Science principles and bringing Euro Data Cube and the Open-Science Catalog to EarthCODE as well as developing the EarthCODE portal"
-      action="Visit website"
-      link="https://eox.at/"
-    ></esa-card>
-    <esa-card
-      icon="<img src='https://esa-earthcode.github.io/portal-assets/partners/BC_cropped.png' height='40' style='max-width: 100%; object-fit: contain' />"
-      title="Brockmann Consult"
-      description="Integrating DeepESDL Platform into EarthCODE enabling machine-learning and artificial intelligence workflows"
-      action="Visit website"
-      link="https://www.brockmann-consult.de/"
-    ></esa-card>
-    <esa-card
-      icon="<img src='https://esa-earthcode.github.io/portal-assets/partners/Lampata_cropped.png' height='40' style='max-width: 100%; object-fit: contain' />"
-      title="Lampata"
-      description="Leading science community communication and deploying Pangeo for EarthCODE collaboration"
-      action="Visit website"
-      link="https://www.lampata.eu/"
-    ></esa-card>
-    <esa-card
-      icon="<img src='https://esa-earthcode.github.io/portal-assets/partners/PANGEO_cropped.png' height='40' style='max-width: 100%; object-fit: contain' />"
-      title="Pangeo"
-      description="Building community, guides, and bringing the Pangeo Ecosystem to power EarthCODE"
-      action="Visit website"
-      link="https://www.pangeo.io/"
-    ></esa-card>
-    <esa-card
-      icon="<img src='https://esa-earthcode.github.io/portal-assets/partners/VITO_cropped.png' height='40' style='max-width: 100%; object-fit: contain' />"
-      title="Vito"
-      description="Powering EarthCODE by deploying the OpenEO Platform for standardzied Earth Observation workflows"
-      action="Visit website"
-      link="https://vito.be/en"
-    ></esa-card>
-  </esa-cards>
 </section>

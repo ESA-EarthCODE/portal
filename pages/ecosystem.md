@@ -4,21 +4,29 @@ layout: page
 
 <section class="blue hero">
 
-# Ecosystem
+# EarthCODE's Ecosystem
 
-Find out more about solutions for easy publication, sharing your data and workflows to align with FAIR and open science principles. Leverage a growing list of platforms to streamline your research with flexible tools and active collaboration with a vibrant scientific community. 
+<p><img src="/img/EarthCODE_Ecosystem.png" style="float: right; margin: 0 0 2rem 2rem"/>The EarthCode ecosystem integrates tools, platforms and communities to support FAIR science for EarthAction. The four pillars of EarthCode are the Open Science Catalog, the ESA project Results repository, the EarthCODE integrated platforms and the EarthCode Community.
+<br />
+<br />
+EarthCODE is closely linked with its sister initiative, APEx, which focuses on taking scientific results to a higher Technology Readiness Level.
+</p>
 </section>
 <section class="dark-grey">
 
 ## Explore the Open Science Catalogue
 Explore a rich collection of publicly available geoscience products, datasets and resources developed in the frame of scientific research Projects funded by ESA EO (Earth Observation)
 
+![](/img/OSC.png)
+
 <a class="VPButton cta" href="https://opensciencedata.esa.int" target="_blank">Explore Catalog</a>
 </section>
 <section class="white">
 
-# Computational Research ​
+## Computational Research ​
 Unlock powerful cloud computing for Earth science research. With EarthCODE, access top cloud platforms to build and share FAIR, open scientific workflows effortlessly.
+
+When using these platforms you may qualify for Network of Resources sponsorship.
 
 <esa-cards>
     <esa-card
@@ -57,7 +65,7 @@ Unlock powerful cloud computing for Earth science research. With EarthCODE, acce
 </section>
 <section class="light-grey">
 
-# Featured Datasets ​
+## Featured Datasets ​
 Take time to discover a diverse array of datasets shared by researchers across all Earth System Science domains. See how your data can become easily discoverable, citable, and fully compliant with open science requirements, ensuring that your research is both impactful and accessible. Dive into the first complete examples and see how these valuable resources can enhance your studies and contribute to the global scientific community.
 
 <esa-cards>
@@ -86,4 +94,31 @@ Take time to discover a diverse array of datasets shared by researchers across a
 <br />
 
 <a class="VPButton cta primary" href="/datasets">Read more</a>
+</section>
+<section class="white">
+
+## ESA Project Results Repository (PRR)
+
+The ESA Project Results Repository (PRR) provides long term storage for research outcomes. It provides access to data, workflows, experiments and documentation from ESA Projects organised across Collections, accessible via the STAC API.
+
+<a class="VPButton cta primary" href="https://esa-earthcode.github.io/examples/index-1/">Examples</a>
+
+</section>
+<section>
+
+## Join our Earth Science Community
+
+Connect with researchers, share insights, and collaborate on data and workflows. EarthCODE is building a collaborative community for Earth System Science, driven by FAIR and Open Science principles. We discuss open-source tools, research, data and to enable re-use and collaboration, advancing research for a sustainable future. Participate in discussions, attend events, and stay informed about the latest news.
+
+<a class="VPButton cta primary" href="https://discourse-earthcode.eox.at/">Visit Forum</a>
+</section>
+<section class="white">
+
+## Streamlining from EO innovation to operations
+
+![](/img/APEx_KeyVisual_notext-1010x568.png)
+
+APEx provides easy access to ESA's Earth observation application outcomes for the EO community. With a range of services and tools APEx simplifies the transition of algorithms into operational services and encourage the incorporation of current cloud-based EO services and technologies.
+
+<a class="VPButton cta primary" href="https://apex.esa.int/">Go to APEx</a>
 </section>

@@ -3,18 +3,18 @@ layout: home
 title: Welcome to EarthCODE
 
 hero:
-  text: Revolutionizing Earth System Science with Open Science Principles
-  tagline: Join ESA's initiative to ensure long-term preservation and accessibility of research data, code, and documentation for a global scientific community
+  text: FAIR Science for Earth Action
+  tagline: Create, find, and collaborate on data science experiments, unlocking the full potential of Earth Observation for the benefit of society - from research to policy
   image: /img/EarthCODE_Background-Pattern_1.jpg
   actions:
     - theme: cta
       text: Get started
-      link: /
+      link: '#start-working-with-earthcode'
 ---
 
 <section class="white" style="padding-top: 3rem">
 
-## What can you do with EarthCODE? 
+## Start Working With EarthCODE 
 
 <esa-cards>
   <esa-card
@@ -60,12 +60,16 @@ hero:
 
 ## Latest News & Updates
 
-<BlogGallery />
+<BlogGallery
+  max-posts="3"
+/>
+<br />
+<a class="VPButton cta" href="/blog">More blog posts</a>
 
 </section>
 <section class="white">
 
-## Popular Resources
+## Featured Data and Workflows
 
 <esa-cards>
   <esa-card
