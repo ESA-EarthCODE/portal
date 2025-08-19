@@ -5,7 +5,9 @@ title: Welcome to EarthCODE
 hero:
   text: FAIR Science for Earth Action
   tagline: Create, find, and collaborate on data science experiments, unlocking the full potential of Earth Observation for the benefit of society - from research to policy
-  image: /img/EarthCODE_Background-Pattern_1.jpg
+  background: /img/EarthCODE_Background-Pattern_1.jpg
+  # image: <img src="https://placehold.co/800x600" />
+  image: "/img/EarthCODE_Herobanner_1920x1080.jpg"
   actions:
     - theme: cta
       text: Get started
@@ -115,3 +117,50 @@ hero:
   </div>
   </div>
 </section>
+
+<ClientOnly>
+  <esa-gateway
+    .items="[
+      {
+        title: 'ESA Vision',
+        links: [
+          {
+            name: 'EO Science Strategy',
+            href: 'https://doi.org/10.5281/zenodo.13819557',
+          },
+        ],
+      },
+      {
+        title: 'ESA EO Programme',
+        links: [
+          {
+            name: 'Observing the Earth',
+            href: 'https://www.esa.int/Applications/Observing_the_Earth',
+          },
+          {
+            name: 'Science for Society',
+            href: 'https://eo4society.esa.int',
+          },
+        ],
+      },
+      {
+        title: 'Research at ESA',
+        links: [
+          {
+            name: 'Earth System Science Hub',
+            href: 'https://sciencehub.esa.int',
+          },
+        ],
+      },
+      {
+        title: 'Opportunities',
+        links: [
+          {
+            name: 'Network of Resources',
+            href: 'https://nor-discover.org',
+          },
+        ],
+      },
+    ]"
+  ></esa-gateway>
+</ClientOnly>

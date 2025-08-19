@@ -30,6 +30,11 @@ export default {
       },
     ],
     login: "https://workspace.earthcode.eox.at/",
+    footer: {
+      title: "Get in touch",
+      description: "Join ESA's initiative to ensure long-term preservation and accessibility of research data, code, and documentation for a global scientific community.",
+      contact: "mailto:earth-code@esa.int",
+    }
   },
   head: [
     ["link", { rel: "icon", href: "/img/EarthCODE_Favicon_32x32px.png" }],
