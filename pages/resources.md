@@ -49,6 +49,20 @@ Unlock powerful cloud computing for Earth science research. With EarthCODE, acce
     link="https://dataspace.copernicus.eu/analyse/openeo"
     action="Access"
   ></esa-card>
+  <esa-card
+    tag="Platform"
+    title="Pangeo"
+    description="Pangeo is first and foremost a community promoting open, reproducible, and scalable science. This community provides documentation, develops and maintains software, and deploys computing infrastructure to make scientific research and programming easier"
+    link="https://pangeo.io/"
+    action="Access"
+  ></esa-card>
+  <esa-card
+    tag="Platform"
+    title="CoCalc"
+    description="Real-time collaboration for Jupyter Notebooks, Linux Terminals, LaTeX, VS Code, R IDE, and more, all in one place. Commercial Alternative to JupyterHub"
+    link="https://cocalc.com/"
+    action="Access"
+  ></esa-card>
 </esa-cards>
 
 <br />
