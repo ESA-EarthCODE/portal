@@ -60,6 +60,25 @@ hero:
 </section>
 <section class="blue">
 
+## Partnerships
+  <esa-cards>
+    <esa-card
+      image="/img/APEx_KeyVisual_notext-1010x568.png"
+      title="APEx"
+      description="Streamlining from EO innovation to operations - APEx provides easy access to ESA's Earth observation application outcomes for the EO community. With a range of services and tools APEx simplifies the transition of algorithms into operational services and encourage the incorporation of current cloud-based EO services and technologies."
+      action="Go to APEx"
+      link="https://apex.esa.int/"
+    ></esa-card>
+  </esa-cards>
+
+<!--
+      :feature="blogpost.frontmatter.feature"
+      overline="Story"
+-->
+
+</section>
+<section class="white">
+
 ## Latest News & Updates
 
 <BlogGallery
@@ -69,7 +88,7 @@ hero:
 <a class="VPButton cta" href="/blog">More blog posts</a>
 
 </section>
-<section class="white">
+<section class="blue">
 
 ## Featured Data and Workflows
 
@@ -101,7 +120,7 @@ hero:
 </esa-cards>
 
 </section>
-<section class="blue">
+<section class="white">
   <div class="two-column">
 
   ## Subscribe to the EO Open Science Newsletter

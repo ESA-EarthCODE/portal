@@ -27,8 +27,9 @@ Get started with EarthCODE training, examples, documentation or ask a question o
       action="Explore"
     ></esa-card>
     <esa-card
+      icon="<img src='/img/story-map.svg' height='40' style='max-width: 100%; object-fit: contain' />"
       title="Visualisation tools"
-      description=""
+      description="Built-in tools and dashboards to plot, compare, and share geospatial outputs."
       link="/visualisation-tools"
       action="Explore"
     ></esa-card>

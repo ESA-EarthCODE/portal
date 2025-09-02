@@ -112,13 +112,3 @@ Connect with researchers, share insights, and collaborate on data and workflows.
 
 <a class="VPButton cta primary" href="https://discourse-earthcode.eox.at/">Visit Forum</a>
 </section>
-<section class="white">
-
-## Streamlining from EO innovation to operations
-
-![](/img/APEx_KeyVisual_notext-1010x568.png)
-
-APEx provides easy access to ESA's Earth observation application outcomes for the EO community. With a range of services and tools APEx simplifies the transition of algorithms into operational services and encourage the incorporation of current cloud-based EO services and technologies.
-
-<a class="VPButton cta primary" href="https://apex.esa.int/">Go to APEx</a>
-</section>
