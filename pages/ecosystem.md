@@ -6,7 +6,7 @@ layout: page
 
 # EarthCODE's Ecosystem
 
-<p><img src="/img/EarthCODE_Ecosystem.png" style="float: right; margin: 0 0 2rem 2rem"/>The EarthCode ecosystem integrates tools, platforms and communities to support FAIR science for EarthAction. The four pillars of EarthCode are the Open Science Catalog, the ESA project Results repository, the EarthCODE integrated platforms and the EarthCode Community.
+<p><img src="/img/EarthCODE_Ecosystem.png" style="float: right; margin: 0 0 2rem 2rem"/>The EarthCODE ecosystem integrates tools, platforms, and communities to support FAIR Science for EarthAction. The four pillars of EarthCODE are the Open Science Catalog, the ESA Project Results Repository, the EarthCODE integrated platforms and the EarthCODE Community.
 <br />
 <br />
 EarthCODE is closely linked with its sister initiative, APEx, which focuses on taking scientific results to a higher Technology Readiness Level.
@@ -26,7 +26,7 @@ Explore a rich collection of publicly available geoscience products, datasets, a
 <section class="white">
 
 ## Computational Research
-Unlock powerful cloud computing for Earth science research. With EarthCODE, access top cloud platforms to build and share FAIR, open scientific workflows effortlessly.
+Unlock powerful cloud computing for Earth science research. With EarthCODE, top cloud computing platforms are seamlessly accessible by users. Explore the development tools, EO Data selection and compute capabilities each platform provides. Integration with EarthCODE, ensures that the platform supports FAIR tooling, development, and sharing of interoperable workflows and automates data publication process.
 
 <esa-cards>
   <esa-card
@@ -64,7 +64,7 @@ Unlock powerful cloud computing for Earth science research. With EarthCODE, acce
   <esa-card
     tag="Sponsorship"
     title="Network of Resources"
-    description="When using these platforms you may qualify for Network of Resources sponsorship."
+    description="To cover the costs specific to each EarthCODE integrated platform, you can apply for Network of Resources (NoR) sponsorship. To learn more about eligibility criteria and requirements associated with NoR Sponsorship, please visit the NoR Sponsorship page."
     link="https://nor-discover.org/"
     action="Request"
   ></esa-card>
@@ -78,8 +78,10 @@ Unlock powerful cloud computing for Earth science research. With EarthCODE, acce
 
 ## ESA Project Results Repository (PRR)
 
-The ESA Project Results Repository (PRR) provides long term storage for research outcomes. It provides access to data, workflows, experiments, and documentation from ESA Projects organised across Collections, accessible via the STAC API.
+The ESA Project Results Repository (PRR) provides long term storage of research outcomes from ESA-funded EO Projects and activities. It provides a harmonised and structured way to store research outcomes (including data, workflows, experiment, and associated documentation). Research outcomes are organised in STAC Objects (Collections), accessible via the STAC API and the Open Science Catalog Browser.
 
-<a class="VPButton cta primary" href="https://esa-earthcode.github.io/tutorials/index-1/">Tutorials</a>
+<a href="https://esa-earthcode.github.io/tutorials/index-1/">Publication of results to the PRR</a> is highly encouraged for projects aiming to ensure long-term research outcomes preservation, accessibility and amplified the scientific impact of the project.
+
+<a class="VPButton cta primary" href="https://eoresults.esa.int/browser/#/external/eoresults.esa.int/stac">Explore PRR Collections</a>
 
 </section>

@@ -20,7 +20,7 @@ layout: page
 </section>
 <section class="light-grey">
 
-## Upcoming Events
+## Events
 
 <esa-cards>
  <esa-card
@@ -60,15 +60,18 @@ layout: page
 <section class="grey">
 
 # Forum
-Join the EarthCode Discourse forum for discussions about FAIR and open-science and exploring the diverse tools, published research and solutions offered by the EarthCODE platform.
+Join the EarthCode Discourse forum to read the latest news, to join discussions about FAIR and open-science, and to explore the diverse tools, published research, and solutions offered by the EarthCODE platform.
 
+<!--
 ### Latest topics
 
 <DiscourseForumPosts
   endpoint="https://discourse-earthcode.eox.at"
+  per_page=5
 ></DiscourseForumPosts>
+-->
 <div>
-  <a class="VPButton cta no-icon" href="https://discourse-earthcode.eox.at/">Visit Forum</a>
+  <a class="VPButton cta primary" href="https://discourse-earthcode.eox.at/">Visit Forum</a>
 </div>
 </section>
 
