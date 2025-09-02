@@ -64,7 +64,7 @@ Take time to discover a diverse array of datasets shared by researchers across a
     <esa-card
       tag="Dataset"
       title="The extrAIM dataset"
-      description="A merged satellite-based daily precipitation dataset for the Mediterranean region"
+      description="A merged satellite-based daily precipitation dataset for the Mediterranean region <br /><br /><img src='https://extraim.eu/images/extraimlogo.png' />"
       link="https://opensciencedata.esa.int/products/extraim-daily-precipitation/collection"
       action="Access"
     ></esa-card>

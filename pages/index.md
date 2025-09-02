@@ -90,9 +90,31 @@ hero:
 </section>
 <section class="blue">
 
-## Featured Data and Workflows
+## Featured Data Products and Workflows
+Take time to discover a diverse array of datasets shared by researchers across all Earth System Science domains. See how your data can become easily discoverable, citable, and fully compliant with open science requirements, ensuring that your research is both impactful and accessible. Dive into the first complete examples and see how these valuable resources can enhance your studies and contribute to the global scientific community.
 
 <esa-cards>
+  <esa-card
+    tag="Dataset"
+    title="HYDROCOASTAL Final Product"
+    description="L2 along-track re-tracked product"
+    link="https://opensciencedata.esa.int/products/l2-along-track-re-tracked-s3-c2-final-hydrocoastal/collection"
+    action="Access"
+  ></esa-card>
+  <esa-card
+    tag="Dataset"
+    title="SeasFire Cube"
+    description="A Global Dataset for Seasonal Fire Modeling in the Earth System"
+    link="https://opensciencedata.esa.int/products/seasfire-cube/collection"
+    action="Access"
+  ></esa-card>
+  <esa-card
+    tag="Dataset"
+    title="The extrAIM dataset"
+    description="A merged satellite-based daily precipitation dataset for the Mediterranean region <br /><br /><img src='https://extraim.eu/images/extraimlogo.png' />"
+    link="https://opensciencedata.esa.int/products/extraim-daily-precipitation/collection"
+    action="Access"
+  ></esa-card>
   <esa-card
     title="Dataset 1"
     description="Dataset + Python workflow + results <br /><br /><img src='https://placehold.co/100x100' />"
@@ -118,6 +140,11 @@ hero:
     action="Try visualization with the xcube viewer"
   ></esa-card>
 </esa-cards>
+<br />
+
+<a class="VPButton cta primary" href="/datasets">Read more</a>
+
+
 
 </section>
 <section class="white">

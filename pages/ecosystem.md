@@ -65,52 +65,12 @@ When using these platforms you may qualify for Network of Resources sponsorship.
 
 <a class="VPButton cta primary" href="/computational-research">Read more</a>
 </section>
-<section class="light-grey">
-
-## Featured Datasets
-Take time to discover a diverse array of datasets shared by researchers across all Earth System Science domains. See how your data can become easily discoverable, citable, and fully compliant with open science requirements, ensuring that your research is both impactful and accessible. Dive into the first complete examples and see how these valuable resources can enhance your studies and contribute to the global scientific community.
-
-<esa-cards>
-  <esa-card
-    tag="Dataset"
-    title="HYDROCOASTAL Final Product"
-    description="L2 along-track re-tracked product"
-    link="https://opensciencedata.esa.int/products/l2-along-track-re-tracked-s3-c2-final-hydrocoastal/collection"
-    action="Access"
-  ></esa-card>
-  <esa-card
-    tag="Dataset"
-    title="SeasFire Cube"
-    description="A Global Dataset for Seasonal Fire Modeling in the Earth System"
-    link="https://opensciencedata.esa.int/products/seasfire-cube/collection"
-    action="Access"
-  ></esa-card>
-  <esa-card
-    tag="Dataset"
-    title="The extrAIM dataset"
-    description="A merged satellite-based daily precipitation dataset for the Mediterranean region"
-    link="https://opensciencedata.esa.int/products/extraim-daily-precipitation/collection"
-    action="Access"
-  ></esa-card>
-</esa-cards>
-<br />
-
-<a class="VPButton cta primary" href="/datasets">Read more</a>
-</section>
-<section class="white">
+<section class="dark-grey">
 
 ## ESA Project Results Repository (PRR)
 
-The ESA Project Results Repository (PRR) provides long term storage for research outcomes. It provides access to data, workflows, experiments and documentation from ESA Projects organised across Collections, accessible via the STAC API.
+The ESA Project Results Repository (PRR) provides long term storage for research outcomes. It provides access to data, workflows, experiments, and documentation from ESA Projects organised across Collections, accessible via the STAC API.
 
-<a class="VPButton cta primary" href="https://esa-earthcode.github.io/examples/index-1/">Examples</a>
+<a class="VPButton cta primary" href="https://esa-earthcode.github.io/tutorials/index-1/">Tutorials</a>
 
-</section>
-<section>
-
-## Join our Earth Science Community
-
-Connect with researchers, share insights, and collaborate on data and workflows. EarthCODE is building a collaborative community for Earth System Science, driven by FAIR and Open Science principles. We discuss open-source tools, research, data and to enable re-use and collaboration, advancing research for a sustainable future. Participate in discussions, attend events, and stay informed about the latest news.
-
-<a class="VPButton cta primary" href="https://discourse-earthcode.eox.at/">Visit Forum</a>
 </section>
