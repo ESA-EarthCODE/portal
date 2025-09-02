@@ -11,6 +11,7 @@ layout: page
 <br />
 EarthCODE is closely linked with its sister initiative, APEx, which focuses on taking scientific results to a higher Technology Readiness Level.
 </p>
+
 </section>
 <section class="dark-grey">
 
