@@ -27,7 +27,7 @@ Use comprehensive visualisation tools like xcube viewer, Lexcube, or eodash inst
       action="Explore"
     ></esa-card>
     <esa-card
-      icon="<img src='/img/story-map.svg' height='40' style='max-width: 100%; object-fit: contain' />"
+      icon="<img src='https://eodash.org/eodash_logo.png' height='40' style='max-width: 100%; object-fit: contain' />"
       title="eodash"
       description="eodash Earth Observation Ecosystem for flexible and customizable publishing and integrating EO data in dashboard applications. eodash provides advanced, Markdown-based storytelling capabilities to support the creation of guided, interactive narratives that explain the scientific context and societal relevance of the findings, transforming raw data into compelling insights."
       link="https://eodash.org/"

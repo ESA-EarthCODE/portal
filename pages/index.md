@@ -22,7 +22,7 @@ hero:
   <esa-card
     title="Publish your experiment"
     description="Upload data, workflows, and results. Make them reproducible and citable."
-    link="https://esa-earthcode.github.io/examples/index-2/"
+    link="https://esa-earthcode.github.io/tutorials/index-2/"
     action="Start now"
   ></esa-card>
   <esa-card
