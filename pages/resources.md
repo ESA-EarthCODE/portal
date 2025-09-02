@@ -21,9 +21,15 @@ Get started with EarthCODE training, examples, documentation or ask a question o
       action="Explore"
     ></esa-card>
     <esa-card
-      title="Examples"
+      title="Tutorials"
       description=""
-      link="https://esa-earthcode.github.io/examples/"
+      link="https://esa-earthcode.github.io/tutorials/"
+      action="Explore"
+    ></esa-card>
+    <esa-card
+      title="Visualisation tools"
+      description=""
+      link="/visualisation-tools"
       action="Explore"
     ></esa-card>
   </esa-cards>
