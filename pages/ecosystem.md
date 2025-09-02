@@ -15,15 +15,17 @@ EarthCODE is closely linked with its sister initiative, APEx, which focuses on t
 <section class="dark-grey">
 
 ## Explore the Open Science Catalog
-Explore a rich collection of publicly available geoscience products, datasets and resources developed in the frame of scientific research Projects funded by ESA EO (Earth Observation)
 
-![](/img/OSC.png)
+Explore a rich collection of publicly available geoscience products, datasets, and resources developed in the frame of scientific research Projects funded by ESA EO (Earth Observation).
+
+<p><iframe src="https://opensciencedata.esa.int/stac-browser/#/" style="width: 100%; height: 400px"></iframe></p>
 
 <a class="VPButton cta" href="https://opensciencedata.esa.int" target="_blank">Explore Catalog</a>
+
 </section>
 <section class="white">
 
-## Computational Research ​
+## Computational Research
 Unlock powerful cloud computing for Earth science research. With EarthCODE, access top cloud platforms to build and share FAIR, open scientific workflows effortlessly.
 
 When using these platforms you may qualify for Network of Resources sponsorship.
