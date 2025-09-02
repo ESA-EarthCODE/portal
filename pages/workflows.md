@@ -4,7 +4,7 @@ layout: page
 <section class="blue hero">
 
 # Workflows
-Publishing your code and algorithms shouldn’t be hard!​ EarthCODE makes it easy - you just have to submit basic information and the platform catalogues your workflow.
+Publishing your code and algorithms shouldn’t be hard! EarthCODE makes it easy - you just have to submit basic information and the platform catalogues your workflow.
 
 </section>
 <section class="white">

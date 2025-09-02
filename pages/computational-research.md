@@ -17,7 +17,7 @@ Easily create, find, publish and re-use data & workflows using AI-ready virtual 
     <esa-card
       tag="Platform"
       title="Euro Data Cube"
-      description="One-stop-shop for browsing, analysis and processing of EO data, from source up to the final product. A combination of several services: harness the power of the data cube, access and analyse all the most important Earth Observation data in one application"
+      description="One-stop-shop for browsing, analysis, and processing of EO data, from source up to the final product. A combination of several services: harness the power of the data cube, access and analyse all the most important Earth Observation data in one application."
       link="https://eurodatacube.hub.eox.at"
       action="Access"
     ></esa-card>
@@ -30,15 +30,15 @@ Easily create, find, publish and re-use data & workflows using AI-ready virtual 
     ></esa-card>
     <esa-card
       tag="Platform"
-      title="Deep ESDL"
-      description="Virtual laboratory providing data, tools, and computational resources to efficiently implement comprehensive processing workflows for Earth System data"
+      title="DeepESDL"
+      description="Virtual laboratory providing data, tools, and computational resources to efficiently implement comprehensive processing workflows for Earth System data."
       link="https://deep.earthsystemdatalab.net/"
       action="Access"
     ></esa-card>
     <esa-card
       tag="Platform"
       title="CDSE OpenEO"
-      description="Standardised interfaces for easy access and processing of Earth observation data. With its versatile tools, you can effortlessly create new workflows or integrate them into existing ones. Discover how to unleash the full potential of Earth observation data with minimal code and maximum efficiency"
+      description="Standardised interfaces for easy access and processing of Earth observation data. With its versatile tools, you can effortlessly create new workflows or integrate them into existing ones. Discover how to unleash the full potential of Earth observation data with minimal code and maximum efficiency."
       link="https://dataspace.copernicus.eu/analyse/openeo"
       action="Access"
     ></esa-card>

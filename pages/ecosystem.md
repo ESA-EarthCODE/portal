@@ -14,7 +14,7 @@ EarthCODE is closely linked with its sister initiative, APEx, which focuses on t
 </section>
 <section class="dark-grey">
 
-## Explore the Open Science Catalogue
+## Explore the Open Science Catalog
 Explore a rich collection of publicly available geoscience products, datasets and resources developed in the frame of scientific research Projects funded by ESA EO (Earth Observation)
 
 ![](/img/OSC.png)
@@ -65,7 +65,7 @@ When using these platforms you may qualify for Network of Resources sponsorship.
 </section>
 <section class="light-grey">
 
-## Featured Datasets ​
+## Featured Datasets
 Take time to discover a diverse array of datasets shared by researchers across all Earth System Science domains. See how your data can become easily discoverable, citable, and fully compliant with open science requirements, ensuring that your research is both impactful and accessible. Dive into the first complete examples and see how these valuable resources can enhance your studies and contribute to the global scientific community.
 
 <esa-cards>
