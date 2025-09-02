@@ -19,14 +19,15 @@ Join the EarthCode Discourse forum for discussions about FAIR and open-science a
 
 <DiscourseForumPosts
   endpoint="https://discourse-earthcode.eox.at"
+  per_page=3
 ></DiscourseForumPosts>
 <div>
-  <a class="VPButton cta no-icon" href="https://discourse-earthcode.eox.at/">Visit Forum</a>
+  <a class="VPButton cta primary" href="https://discourse-earthcode.eox.at/">Visit Forum</a>
 </div>
 
 </section>
 
-<section class="light-grey">
+<section class="blue">
 
 ## Science Clusters
 
