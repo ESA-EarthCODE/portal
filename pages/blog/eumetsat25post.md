@@ -1,6 +1,6 @@
 ---
 date: 2025-09-13
-title: EarthCODE at EUMETSAT
+title: EarthCODE at EUMETSAT25
 image: https://earthcode.esa.int/img/EarthCODE_Herobanner_1920x1080_nologo.jpg
 ---
 
