@@ -15,10 +15,10 @@ With the theme “From Space to Safety”, the conference brings together scient
 
 On Monday we’ll present how EarthCODE delivers real-world impact, guiding you through the vibrant Open Science ecosytem, cloud EO platforms and FAIR tools — turning scientific results to reproducible, FAIR & Open science.
 
-🗓 Mon 15 Sept, 13:45 – 14:00
- 📍 Gratte ciel 1+2, Centre de Congrès de Lyon
- 🎙 Talk: EarthCODE – Advancing Open Science and FAIR practices for EO transparency, collaboration & reuse
-👉 Link: https://program-eumetsat2025.kuoni-congress.info/session/7a-open-science-and-fair-principles
+- 🗓 Mon 15 Sept, 13:45 – 14:00
+- 📍 Gratte ciel 1+2, Centre de Congrès de Lyon
+- 🎙 Talk: EarthCODE – Advancing Open Science and FAIR practices for EO transparency, collaboration & reuse
+- 👉 Link: https://program-eumetsat2025.kuoni-congress.info/session/7a-open-science-and-fair-principles
 
 
 Come speak with us at the conference to learn more about how you can publish your science results at earth-code@esa.int
