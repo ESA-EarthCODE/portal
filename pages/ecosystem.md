@@ -51,7 +51,7 @@ Unlock powerful cloud computing for Earth science research. With EarthCODE, top 
     tag="Platform"
     title="DeepESDL"
     description="Virtual laboratory providing data, tools, and computational resources to efficiently implement comprehensive processing workflows for Earth System data. <br /><br /><img src='/img/jupyterlab.svg' height='40' style='max-width: 100%; object-fit: contain' />"
-    link="https://deep.earthsystemdatalab.net/"
+    link="https://earthsystemdatalab.net/"
     action="Access"
   ></esa-card>
   <esa-card
