@@ -46,10 +46,11 @@ Join the EarthCode Discourse forum for discussions about FAIR and open-science a
   action="Read more"
 ></esa-card>
 <esa-card
+  image="/img/EC-ESA_JointESSI_treedom_logo_231102.png"
   tag="Science"
-  title="EC"
+  title="Other Projects"
   description="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-  link="/community/scientists/science-hub"
+  link="/community/scientists/other-projects"
   action="Read more"
 ></esa-card>
 </esa-cards>
