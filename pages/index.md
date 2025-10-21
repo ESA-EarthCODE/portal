@@ -63,6 +63,7 @@ hero:
 ## Partnerships
   <esa-cards>
     <esa-card
+      image="/img/NOR_keyvisual.jpg"
       tag="Sponsorship"
       title="Network of Resources"
       description="To cover the costs specific to each EarthCODE integrated platform, you can apply for Network of Resources (NoR) sponsorship. To learn more about eligibility criteria and requirements associated with NoR Sponsorship, please visit the NoR Sponsorship page."
@@ -71,6 +72,7 @@ hero:
     ></esa-card>
     <esa-card
       image="/img/APEx_KeyVisual_notext-1010x568.png"
+      tag="ESA Initiative"
       title="APEx"
       description="Streamlining from EO innovation to operations - APEx provides easy access to ESA's Earth observation application outcomes for the EO community. With a range of services and tools APEx simplifies the transition of algorithms into operational services and encourage the incorporation of current cloud-based EO services and technologies."
       action="Go to APEx"
