@@ -94,13 +94,6 @@ Unlock powerful cloud computing for Earth science research. With EarthCODE, top 
     link="https://geohazards-tep.eu/"
     action="Access"
   ></esa-card>
-  <esa-card
-    tag="Sponsorship"
-    title="Network of Resources"
-    description="To cover the costs specific to each EarthCODE integrated platform, you can apply for Network of Resources (NoR) sponsorship. To learn more about eligibility criteria and requirements associated with NoR Sponsorship, please visit the NoR Sponsorship page."
-    link="https://nor-discover.org/"
-    action="Request"
-  ></esa-card>
 </esa-cards>
 </section>
 <section class="light-grey">
