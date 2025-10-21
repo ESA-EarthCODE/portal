@@ -4,16 +4,16 @@
     "tag": "Platform",
     "title": "Euro Data Cube",
     "description": "One-stop-shop for browsing, analysis and processing of EO data, from source up to the final product. A combination of several services: harness the power of the data cube, access and analyse all the most important Earth Observation data in one application <br /><br /><img src='/img/jupyterlab.svg' height='40' style='max-width: 100%; object-fit: contain' />",
-    "link": "https://eurodatacube.hub.eox.at",
-    "access": "https://eurodatacube.hub.eox.at"
+    "link": "https://eurodatacube.com",
+    "access": "https://eurodatacube.hub.eox.at/"
   },
   {
     "icon": "https://cockpit.hub.eox.at//storage/uploads/2022/04/25/626656b44601dpolartep.png",
     "tag": "Platform",
     "title": "Polar TEP",
     "description": "The Polar Thematic Exploitation Platform (Polar TEP) provides a complete working environment where users can access algorithms and data remotely, obtain computing resources and tools that they might not otherwise have, and avoid the need to download and manage large volumes of data. <br /><br /><img src='/img/jupyterlab.svg' height='40' style='max-width: 100%; object-fit: contain' />",
-    "link": "https://polartep.hub.eox.at",
-    "access": "https://polartep.hub.eox.at"
+    "link": "https://polartep.polarview.org/",
+    "access": "https://polartep.hub.eox.at/"
   },
   {
     "icon": "https://hub-brands.eox.at/earthsystemdatalab/cube_text_logo_v3.png",
@@ -21,7 +21,7 @@
     "title": "DeepESDL",
     "description": "Virtual laboratory providing data, tools, and computational resources to efficiently implement comprehensive processing workflows for Earth System data. <br /><br /><img src='/img/jupyterlab.svg' height='40' style='max-width: 100%; object-fit: contain' />",
     "link": "https://earthsystemdatalab.net/",
-    "access": "https://earthsystemdatalab.net/"
+    "access": "https://deep.earthsystemdatalab.net/"
   },
   {
     "icon": "https://raw.githubusercontent.com/ESA-EarthCODE/portal/206dbaf9e44ce6cf791c22658332bb0ececc4e49/pages/public/img/cdse_openeo.jpg",
@@ -37,7 +37,7 @@
     "title": "Pangeo",
     "description": "Pangeo is first and foremost a community promoting open, reproducible, and scalable science. This community provides documentation, develops and maintains software, and deploys computing infrastructure to make scientific research and programming easier",
     "link": "https://pangeo.io/",
-    "access": "https://pangeo.io/"
+    "access": "https://workspace.edcv2-demo.hub-otc.eox.at/"
   },
   {
     "icon": "https://raw.githubusercontent.com/ESA-EarthCODE/portal/2052b06c4d759c17e9790a5eec9c8e74297645ae/pages/public/img/CoCalc_logo.png",
@@ -45,7 +45,7 @@
     "title": "CoCalc",
     "description": "Real-time collaboration for Jupyter Notebooks, Linux Terminals, LaTeX, VS Code, R IDE, and more, all in one place. Commercial Alternative to JupyterHub",
     "link": "https://cocalc.com/",
-    "access": "https://cocalc.com/"
+    "access": "https://workspace.edcv2-demo.hub-otc.eox.at/"
   },
   {
     "icon": "https://insula.earth/assets/logo-8bbd231a.svg",
