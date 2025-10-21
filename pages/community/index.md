@@ -34,7 +34,7 @@ Join the EarthCode Discourse forum for discussions about FAIR and open-science a
   tag="Science"
   title="ESA Science Clusters"
   description="ESA Science Clusters are collaborative initiatives designed with a purpose to strengthen and advance scientific research across key Earth system science domains such as atmosphere, carbon cycle, hydrology, agriculture, cryosphere, oceans, geohazards."
-  link="./scientists/science-clusters"
+  link="/community/scientists/science-clusters"
   action="Read more"
 ></esa-card>
 <esa-card
@@ -42,7 +42,7 @@ Join the EarthCode Discourse forum for discussions about FAIR and open-science a
   tag="Science"
   title="ESA Science Hub"
   description="The Earth System Science Hub is an ESA facility designed to promote and support advanced Earth System and climate science studies in a cutting-edge, collaborative, cloud computing and open science environment to unlock the full potential of latest EO technologies."
-  link="./scientists/science-hub"
+  link="/community/scientists/science-hub"
   action="Read more"
 ></esa-card>
 </esa-cards>
