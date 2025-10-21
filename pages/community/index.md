@@ -45,7 +45,21 @@ Join the EarthCode Discourse forum for discussions about FAIR and open-science a
   link="/community/scientists/science-hub"
   action="Read more"
 ></esa-card>
+<esa-card
+  tag="Science"
+  title="EC"
+  description="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  link="/community/scientists/science-hub"
+  action="Read more"
+></esa-card>
 </esa-cards>
+</section>
+<section class="light-grey">
+
+## How to engage and join Open Science Community of EarthCODE?
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec feugiat arcu id sapien sollicitudin, nec vulputate arcu aliquam. Suspendisse ac ultricies lorem. Vivamus maximus maximus augue, eu tristique urna pharetra a. Ut semper facilisis tempus. In euismod molestie eros ac porta. Sed sed erat vulputate, aliquet mauris gravida, commodo diam. Etiam varius augue et odio ultricies, vel rhoncus erat pharetra. Duis at dolor neque.
+
 </section>
 
 <script setup>
