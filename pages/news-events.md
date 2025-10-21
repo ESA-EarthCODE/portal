@@ -7,7 +7,7 @@ layout: page
 # News & Events
 
 </section>
-<section class="blue">
+<section class="light-grey">
 
 ## Blog Posts
 
@@ -15,10 +15,12 @@ layout: page
   max-posts="3"
 />
 <br />
-<a class="VPButton cta" href="/blog">All blog posts</a>
+<div>
+  <a class="VPButton cta" href="/blog">All blog posts</a>
+</div>
 
 </section>
-<section class="light-grey">
+<section class="blue">
 
 ## Events
 
