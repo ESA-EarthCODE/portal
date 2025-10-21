@@ -47,6 +47,22 @@ Easily create, find, publish and re-use data & workflows using AI-ready virtual 
       action="Access"
     ></esa-card>
     <esa-card
+      icon="<img src='/img/pangeo_name_logo.png'  height='40' style='max-width: 100%; object-fit: contain' />"
+      tag="Platform"
+      title="Pangeo"
+      description="Pangeo is first and foremost a community promoting open, reproducible, and scalable science. This community provides documentation, develops and maintains software, and deploys computing infrastructure to make scientific research and programming easier"
+      link="https://pangeo.io/"
+      action="Access"
+    ></esa-card>
+    <esa-card
+      icon="<img src='/img/CoCalc_logo.png'  height='40' style='max-width: 100%; object-fit: contain' />"
+      tag="Platform"
+      title="CoCalc"
+      description="Real-time collaboration for Jupyter Notebooks, Linux Terminals, LaTeX, VS Code, R IDE, and more, all in one place. Commercial Alternative to JupyterHub"
+      link="https://cocalc.com/"
+      action="Access"
+    ></esa-card>
+    <esa-card
       tag="Sponsorship"
       title="Network of Resources"
       description="When using these platforms you may qualify for Network of Resources sponsorship."
