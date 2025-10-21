@@ -79,6 +79,22 @@ Unlock powerful cloud computing for Earth science research. With EarthCODE, top 
     action="Access"
   ></esa-card>
   <esa-card
+    icon="<img src='https://insula.earth/assets/logo-8bbd231a.svg'  height='40' style='max-width: 100%; object-fit: contain' />"
+    tag="Platform"
+    title="Insula"
+    description="The Insula platform acts as a central hub, transforming complex data into meaningful, actionable insights."
+    link="https://insula.earth/"
+    action="Access"
+  ></esa-card>
+  <esa-card
+    icon="<img src='https://geohazards-tep.eu/styles/img/logo-geohazard-by-terradue.png'  height='40' style='max-width: 100%; object-fit: contain' />"
+    tag="Platform"
+    title="Geohazards TEP"
+    description="The Geohazards Exploitation Platform (GEP) is a cloud-based Earth Observation platform tailored for geohazard monitoring, terrain motion analysis, and critical infrastructure assessment. Operated by Terradue and funded by the European Space Agency, GEP hosts a wide range of processing services that empower users to transform EO data into actionable insights for science, operations, and disaster response."
+    link="https://geohazards-tep.eu/"
+    action="Access"
+  ></esa-card>
+  <esa-card
     tag="Sponsorship"
     title="Network of Resources"
     description="To cover the costs specific to each EarthCODE integrated platform, you can apply for Network of Resources (NoR) sponsorship. To learn more about eligibility criteria and requirements associated with NoR Sponsorship, please visit the NoR Sponsorship page."
