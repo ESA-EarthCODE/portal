@@ -35,67 +35,12 @@ Unlock powerful cloud computing for Earth science research. With EarthCODE, top 
 
 <esa-cards>
   <esa-card
-    icon="<img src='https://hub-brands.eox.at/eurodatacube/EDC_logo_blue.svg' height='40' style='max-width: 100%; object-fit: contain' />"
+    v-for="platform in platforms"
+    :icon="`<img src='${platform.icon}' height='40' style='max-width: 100%; object-fit: contain' />`"
     tag="Platform"
-    title="Euro Data Cube"
-    description="One-stop-shop for browsing, analysis and processing of EO data, from source up to the final product. A combination of several services: harness the power of the data cube, access and analyse all the most important Earth Observation data in one application <br /><br /><img src='/img/jupyterlab.svg' height='40' style='max-width: 100%; object-fit: contain' />"
-    link="https://eurodatacube.hub.eox.at"
-    action="Access"
-  ></esa-card>
-  <esa-card
-    icon="<img src='https://cockpit.hub.eox.at//storage/uploads/2022/04/25/626656b44601dpolartep.png' height='40' style='max-width: 100%; object-fit: contain' />"
-    tag="Platform"
-    title="Polar TEP"
-    description="The Polar Thematic Exploitation Platform (Polar TEP) provides a complete working environment where users can access algorithms and data remotely, obtain computing resources and tools that they might not otherwise have, and avoid the need to download and manage large volumes of data. <br /><br /><img src='/img/jupyterlab.svg' height='40' style='max-width: 100%; object-fit: contain' />"
-    link="https://polartep.hub.eox.at"
-    action="Access"
-  ></esa-card>
-  <esa-card
-    icon="<img src='https://hub-brands.eox.at/earthsystemdatalab/cube_text_logo_v3.png' height='40' style='max-width: 100%; object-fit: contain' />"
-    tag="Platform"
-    title="DeepESDL"
-    description="Virtual laboratory providing data, tools, and computational resources to efficiently implement comprehensive processing workflows for Earth System data. <br /><br /><img src='/img/jupyterlab.svg' height='40' style='max-width: 100%; object-fit: contain' />"
-    link="https://earthsystemdatalab.net/"
-    action="Access"
-  ></esa-card>
-  <esa-card
-    icon="<img src='https://yt3.googleusercontent.com/PCLRPUD26yLJ36YDuxzAQoI6qcquvOaJGbvEashY30eQzFp6rBRWALJFKIq3hwCJFn8shzDrBg=s160-c-k-c0x00ffffff-no-rj' height='40' style='max-width: 100%; object-fit: contain' />"
-    tag="Platform"
-    title="CDSE OpenEO"
-    description="Standardised interfaces for easy access and processing of Earth observation data. With its versatile tools, you can effortlessly create new workflows or integrate them into existing ones. Discover how to unleash the full potential of Earth observation data with minimal code and maximum efficiency. <br /><br /><img src='https://openeo.org/images/openeo_navbar_logo.png' height='40' style='max-width: 100%; object-fit: contain' />"
-    link="https://dataspace.copernicus.eu/analyse/openeo"
-    action="Access"
-  ></esa-card>
-  <esa-card
-    icon="<img src='/img/pangeo_name_logo.png'  height='40' style='max-width: 100%; object-fit: contain' />"
-    tag="Platform"
-    title="Pangeo"
-    description="Pangeo is first and foremost a community promoting open, reproducible, and scalable science. This community provides documentation, develops and maintains software, and deploys computing infrastructure to make scientific research and programming easier"
-    link="https://workspace.edcv2-demo.hub-otc.eox.at/"
-    action="Access"
-  ></esa-card>
-  <esa-card
-    icon="<img src='/img/CoCalc_logo.png'  height='40' style='max-width: 100%; object-fit: contain' />"
-    tag="Platform"
-    title="CoCalc"
-    description="Real-time collaboration for Jupyter Notebooks, Linux Terminals, LaTeX, VS Code, R IDE, and more, all in one place. Commercial Alternative to JupyterHub"
-    link="https://workspace.edcv2-demo.hub-otc.eox.at/"
-    action="Access"
-  ></esa-card>
-  <esa-card
-    icon="<img src='https://insula.earth/assets/logo-8bbd231a.svg'  height='40' style='max-width: 100%; object-fit: contain' />"
-    tag="Platform"
-    title="Insula"
-    description="The Insula platform acts as a central hub, transforming complex data into meaningful, actionable insights."
-    link="https://insula.earth/"
-    action="Access"
-  ></esa-card>
-  <esa-card
-    icon="<img src='https://geohazards-tep.eu/styles/img/logo-geohazard-by-terradue.png'  height='40' style='max-width: 100%; object-fit: contain' />"
-    tag="Platform"
-    title="Geohazards TEP"
-    description="The Geohazards Exploitation Platform (GEP) is a cloud-based Earth Observation platform tailored for geohazard monitoring, terrain motion analysis, and critical infrastructure assessment. Operated by Terradue and funded by the European Space Agency, GEP hosts a wide range of processing services that empower users to transform EO data into actionable insights for science, operations, and disaster response."
-    link="https://geohazards-tep.eu/"
+    :title="platform.title"
+    :description="platform.description"
+    :link="platform.access"
     action="Access"
   ></esa-card>
 </esa-cards>
@@ -134,3 +79,9 @@ The ESA Project Results Repository (PRR) provides long term storage of research 
 <a class="VPButton cta primary" href="https://eoresults.esa.int/browser/#/external/eoresults.esa.int/stac">Explore PRR Collections</a>
 
 </section>
+
+<script setup>
+  import { ref } from "vue";
+  import platformsJson from "./integrated-platforms.json" with {type: "json"};
+  const platforms = ref(platformsJson)
+</script>
