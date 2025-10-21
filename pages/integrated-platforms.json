@@ -24,7 +24,7 @@
     "access": "https://earthsystemdatalab.net/"
   },
   {
-    "icon": "https://yt3.googleusercontent.com/PCLRPUD26yLJ36YDuxzAQoI6qcquvOaJGbvEashY30eQzFp6rBRWALJFKIq3hwCJFn8shzDrBg=s160-c-k-c0x00ffffff-no-rj",
+    "icon": "https://raw.githubusercontent.com/ESA-EarthCODE/portal/206dbaf9e44ce6cf791c22658332bb0ececc4e49/pages/public/img/cdse_openeo.jpg",
     "tag": "Platform",
     "title": "CDSE OpenEO",
     "description": "Standardised interfaces for easy access and processing of Earth observation data. With its versatile tools, you can effortlessly create new workflows or integrate them into existing ones. Discover how to unleash the full potential of Earth observation data with minimal code and maximum efficiency. <br /><br /><img src='https://openeo.org/images/openeo_navbar_logo.png' height='40' style='max-width: 100%; object-fit: contain' />",
