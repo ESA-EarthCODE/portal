@@ -34,13 +34,15 @@ import { ref, onMounted } from "vue";
 
 const props = defineProps({
   endpoint: { type: String, required: true },
-  per_page: { type: Number, default: 10 }
+  per_page: { type: Number, default: 10 },
 });
 const items = ref([]);
 const users = ref([]);
 
 onMounted(async () => {
-  const response = await fetch(props.endpoint + "/latest.json?order=activity&per_page=" + props.per_page);
+  const response = await fetch(
+    props.endpoint + "/latest.json?order=activity&per_page=" + props.per_page,
+  );
   const json = await response.json();
   items.value = json.topic_list.topics;
   users.value = json.users;
