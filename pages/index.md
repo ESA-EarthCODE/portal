@@ -92,7 +92,9 @@ hero:
   max-posts="3"
 />
 <br />
-<a class="VPButton cta" href="/blog">More blog posts</a>
+<div>
+  <a class="VPButton cta" href="/blog">More blog posts</a>
+</div>
 
 </section>
 <section class="blue">
