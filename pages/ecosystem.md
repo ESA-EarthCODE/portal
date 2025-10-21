@@ -6,11 +6,14 @@ layout: page
 
 # EarthCODE's Ecosystem
 
-<p><img src="/img/EarthCODE_Ecosystem.png" style="float: right; margin: 0 0 2rem 2rem"/>The EarthCODE ecosystem integrates tools, platforms, and communities to support FAIR Science for EarthAction. The four pillars of EarthCODE are the Open Science Catalog, the ESA Project Results Repository, the EarthCODE integrated platforms and the EarthCODE Community.
-<br />
-<br />
+The EarthCODE ecosystem integrates tools, platforms, and communities to support FAIR Science for EarthAction. The four pillars of EarthCODE are the Open Science Catalog, the ESA Project Results Repository, the EarthCODE integrated platforms and the EarthCODE Community.
+
 EarthCODE is closely linked with its sister initiative, APEx, which focuses on taking scientific results to a higher Technology Readiness Level.
-</p>
+
+<a class="VPButton cta primary" href="https://workspace.earthcode.eox.at/" target="_blank">Sign in</a><br />
+to the EarthCODE Portal for Single Sign On (SSO) access the integrated platforms.
+
+<img src="/img/EarthCODE_Ecosystem.png"/>
 
 </section>
 <section class="dark-grey">
@@ -27,7 +30,8 @@ Explore a rich collection of publicly available geoscience products, datasets, a
 <section class="white">
 
 ## Computational Research
-Unlock powerful cloud computing for Earth science research. With EarthCODE, top cloud computing platforms are seamlessly accessible by users. Explore the development tools, EO Data selection and compute capabilities each platform provides. Integration with EarthCODE, ensures that the platform supports FAIR tooling, development, and sharing of interoperable workflows and automates data publication process.
+
+Unlock powerful cloud computing for Earth science research. With EarthCODE, top cloud computing platforms are seamlessly accessible by users. Explore the development tools, EO Data selection, and compute capabilities each platform provides. Integration with EarthCODE, ensures that the platform supports FAIR tooling, development, and sharing of interoperable workflows and automates data publication process accessible via <a href="https://workspace.earthcode.eox.at/" target="_blank">Single Sign On (SSO)</a>.
 
 <esa-cards>
   <esa-card
@@ -67,7 +71,7 @@ Unlock powerful cloud computing for Earth science research. With EarthCODE, top 
     tag="Platform"
     title="Pangeo"
     description="Pangeo is first and foremost a community promoting open, reproducible, and scalable science. This community provides documentation, develops and maintains software, and deploys computing infrastructure to make scientific research and programming easier"
-    link="https://pangeo.io/"
+    link="https://workspace.edcv2-demo.hub-otc.eox.at/"
     action="Access"
   ></esa-card>
   <esa-card
@@ -75,7 +79,7 @@ Unlock powerful cloud computing for Earth science research. With EarthCODE, top 
     tag="Platform"
     title="CoCalc"
     description="Real-time collaboration for Jupyter Notebooks, Linux Terminals, LaTeX, VS Code, R IDE, and more, all in one place. Commercial Alternative to JupyterHub"
-    link="https://cocalc.com/"
+    link="https://workspace.edcv2-demo.hub-otc.eox.at/"
     action="Access"
   ></esa-card>
   <esa-card
