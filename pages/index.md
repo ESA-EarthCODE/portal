@@ -20,6 +20,20 @@ hero:
 
 <esa-cards>
   <esa-card
+    icon='<svg height="28" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>file-document-outline</title><path d="M6,2A2,2 0 0,0 4,4V20A2,2 0 0,0 6,22H18A2,2 0 0,0 20,20V8L14,2H6M6,4H13V9H18V20H6V4M8,12V14H16V12H8M8,16V18H13V16H8Z" /></svg>'
+    title="Documentation"
+    description="Welcome to EarthCODE's User Documentation. Learn how to publish, access, integrate, and reuse EarthCODE's data and workflows to advance open science."
+    link="https://esa-earthcode.github.io/documentation/"
+    action="Explore"
+  ></esa-card>
+  <esa-card
+    icon='<svg height="28" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>file-code-outline</title><path d="M14 2H6C4.89 2 4 2.9 4 4V20C4 21.11 4.89 22 6 22H18C19.11 22 20 21.11 20 20V8L14 2M18 20H6V4H13V9H18V20M9.54 15.65L11.63 17.74L10.35 19L7 15.65L10.35 12.3L11.63 13.56L9.54 15.65M17 15.65L13.65 19L12.38 17.74L14.47 15.65L12.38 13.56L13.65 12.3L17 15.65Z" /></svg>'
+    title="Tutorials"
+    description="Welcome to the EarthCODE Tutorials Book. Here you will find guides and practical tutorials on how to use the various EarthCODE resources including publication process, data access and exploitation, and working with the integrated platforms."
+    link="https://esa-earthcode.github.io/tutorials/"
+    action="Explore"
+  ></esa-card>
+  <esa-card
     title="Publish your experiment"
     description="Upload data, workflows, and results. Make them reproducible and citable."
     link="https://esa-earthcode.github.io/tutorials/index-2/"
@@ -60,34 +74,6 @@ hero:
 </section>
 <section class="blue">
 
-## Partnerships
-  <esa-cards>
-    <esa-card
-      image="/img/NOR_keyvisual.jpg"
-      tag="Sponsorship"
-      title="Network of Resources"
-      description="To cover the costs specific to each EarthCODE integrated platform, you can apply for Network of Resources (NoR) sponsorship. To learn more about eligibility criteria and requirements associated with NoR Sponsorship, please visit the NoR Sponsorship page."
-      link="https://nor-discover.org/"
-      action="Request"
-    ></esa-card>
-    <esa-card
-      image="/img/APEx_KeyVisual_notext-1010x568.png"
-      tag="ESA Initiative"
-      title="APEx"
-      description="Streamlining from EO innovation to operations - APEx provides easy access to ESA's Earth observation application outcomes for the EO community. With a range of services and tools APEx simplifies the transition of algorithms into operational services and encourage the incorporation of current cloud-based EO services and technologies."
-      action="Go to APEx"
-      link="https://apex.esa.int/"
-    ></esa-card>
-  </esa-cards>
-
-<!--
-      :feature="blogpost.frontmatter.feature"
-      overline="Story"
--->
-
-</section>
-<section class="white">
-
 ## Latest News & Updates
 
 <BlogGallery
@@ -99,7 +85,7 @@ hero:
 </div>
 
 </section>
-<section class="blue">
+<section class="white">
 
 ## Featured Data Products and Workflows
 Take time to discover a diverse array of datasets shared by researchers across all Earth System Science domains. See how your data can become easily discoverable, citable, and fully compliant with open science requirements, ensuring that your research is both impactful and accessible. Dive into the first complete examples and see how these valuable resources can enhance your studies and contribute to the global scientific community.
@@ -156,6 +142,42 @@ Take time to discover a diverse array of datasets shared by researchers across a
 <a class="VPButton cta primary" href="/datasets">Read more</a>
 
 
+
+</section>
+<section class="blue">
+
+## Partnerships
+  <esa-cards>
+    <esa-card
+      image="/img/NOR_keyvisual.jpg"
+      tag="Sponsorship"
+      title="Network of Resources"
+      description="To cover the costs specific to each EarthCODE integrated platform, you can apply for Network of Resources (NoR) sponsorship. To learn more about eligibility criteria and requirements associated with NoR Sponsorship, please visit the NoR Sponsorship page."
+      link="https://nor-discover.org/"
+      action="Request"
+    ></esa-card>
+    <esa-card
+      image="/img/"
+      tag="ESA Initiative"
+      title="EOEPCA+"
+      description=""
+      link="https://eoepca.org/"
+      action="Go to EOEPCA+"
+    ></esa-card>
+    <esa-card
+      image="/img/APEx_KeyVisual_notext-1010x568.png"
+      tag="ESA Initiative"
+      title="APEx"
+      description="Streamlining from EO innovation to operations - APEx provides easy access to ESA's Earth observation application outcomes for the EO community. With a range of services and tools APEx simplifies the transition of algorithms into operational services and encourage the incorporation of current cloud-based EO services and technologies."
+      action="Go to APEx"
+      link="https://apex.esa.int/"
+    ></esa-card>
+  </esa-cards>
+
+<!--
+      :feature="blogpost.frontmatter.feature"
+      overline="Story"
+-->
 
 </section>
 <section class="white">
