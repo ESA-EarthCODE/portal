@@ -44,27 +44,22 @@ EarthCODE provides easy to follow end-to-end publication tutorials, Jupyter Note
   </esa-cards>
 
 </section>
-<section class="light-grey">
+<section class="dark-grey">
 
 ## Ask  a question
+
 Explore the Frequently Asked Questions (FAQ) section to find quick answers and additional guidance to questions related to EarthCODE, publication process, working with platforms or applying for NoR sponsorship and more.
 
 <a class="VPButton cta primary" href="https://esa-earthcode.github.io/documentation/Getting%20started%20with%20EarthCODE/Frequently%20Asked%20Questions">Frequently Asked Questions</a>
 
 </section>
-
 <section class="white">
 
-## Training
+## Learning Materials
+
 Explore a growing collection of training resources, including EarthCODE and platform-specific webinars, massive open online courses, notebooks and learning materials from past events. This space is dedicated to anyone who wants to deepen the expertise about EarthCODE and various platforms, cloud computing and open science principles.
 
   <esa-cards>
-    <esa-card
-      title="NoR Platform Webinars"
-      description="Through the NoR webinar series, learn about EarthCODE integrated platforms and their services."
-      link="https://nor-discover.org/en/outreach/#webinars"
-      action="View NoR Webinars"
-    ></esa-card>
     <esa-card
       title="EarthCODE Webinars"
       description="Watch recordings from dedicated webinars and hands-on sessions to guide users through platform features, FAIR publishing, and workflow development."
@@ -76,6 +71,12 @@ Explore a growing collection of training resources, including EarthCODE and plat
       description="Discover ESA MOOCs to learn at your pace about cloud computing and open science practices."
       link="https://eo-college.org/courses/cubes-and-clouds/"
       action="Access MOOC"
+    ></esa-card>
+    <esa-card
+      title="NoR Platform Webinars"
+      description="Through the NoR webinar series, learn about EarthCODE integrated platforms and their services."
+      link="https://nor-discover.org/en/outreach/#webinars"
+      action="View NoR Webinars"
     ></esa-card>
   </esa-cards>
 
