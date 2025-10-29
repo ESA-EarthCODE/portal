@@ -21,14 +21,15 @@ hero:
   <esa-card
     icon='<svg height="28" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>file-document-outline</title><path d="M6,2A2,2 0 0,0 4,4V20A2,2 0 0,0 6,22H18A2,2 0 0,0 20,20V8L14,2H6M6,4H13V9H18V20H6V4M8,12V14H16V12H8M8,16V18H13V16H8Z" /></svg>'
     title="Documentation"
-    description="Welcome to EarthCODE's User Documentation. Learn how to publish, access, integrate, and reuse EarthCODE's data and workflows to advance open science."
+    description="Learn how to publish, access, integrate, and reuse EarthCODE's data and workflows to advance open science."
     link="https://esa-earthcode.github.io/documentation/"
+    target="_blank"
     action="Explore"
   ></esa-card>
   <esa-card
     icon='<svg height="28" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>file-code-outline</title><path d="M14 2H6C4.89 2 4 2.9 4 4V20C4 21.11 4.89 22 6 22H18C19.11 22 20 21.11 20 20V8L14 2M18 20H6V4H13V9H18V20M9.54 15.65L11.63 17.74L10.35 19L7 15.65L10.35 12.3L11.63 13.56L9.54 15.65M17 15.65L13.65 19L12.38 17.74L14.47 15.65L12.38 13.56L13.65 12.3L17 15.65Z" /></svg>'
     title="Tutorials"
-    description="Welcome to the EarthCODE Tutorials Book. Here you will find guides and practical tutorials on how to use the various EarthCODE resources including publication process, data access and exploitation, and working with the integrated platforms."
+    description="Here you will find guides and practical tutorials on how to use the various EarthCODE resources including publication process, data access and exploitation, and working with the integrated platforms."
     link="https://esa-earthcode.github.io/tutorials/"
     action="Explore"
   ></esa-card>
@@ -48,12 +49,6 @@ hero:
     title="Run workflows on integrated platforms"
     description="Seamless access to EO platforms like EDC, Pangeo, DeepESDL or OpenEO. No setup needed."
     link="/ecosystem"
-    action="Start now"
-  ></esa-card>
-  <esa-card
-    title="Store data & code in the ESA Repository"
-    description="Long-term, FAIR-compliant storage for your science assets."
-    link="https://esa-earthcode.github.io/documentation/Technical%20Documentation/ESA%20Project%20Results%20Repository/"
     action="Start now"
   ></esa-card>
   <esa-card
