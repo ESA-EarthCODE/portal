@@ -6,7 +6,6 @@ hero:
   text: FAIR Science for Earth Action
   tagline: Create, find, and collaborate on data science experiments, unlocking the full potential of Earth Observation for the benefit of society - from research to policy
   background: /img/EarthCODE_Background-Pattern_1.jpg
-  # image: <img src="https://placehold.co/800x600" />
   image: "/img/EarthCODE_Herobanner_1920x1080.jpg"
   actions:
     - theme: cta
@@ -72,12 +71,12 @@ hero:
 </esa-cards>
 
 </section>
-<section class="blue">
+<section class="dark-grey">
 
 ## Latest News & Updates
 
 <BlogGallery
-  max-posts="3"
+  max-posts="4"
 />
 <br />
 <div>
@@ -86,6 +85,22 @@ hero:
 
 </section>
 <section class="white">
+  <div class="two-column">
+
+  ## Subscribe to the EO Open Science Newsletter
+  <div>
+
+  #### Why should I sign up?
+
+  - Get monthly updates from ESA EO Open Science
+  - Access expert insights, research updates, event announcements, and more
+  - Stay updated on new EarthCODE features, resources and collaboration opportunities
+
+  <a class="VPButton cta no-icon" href="https://esacontact.esa.int/ESA_EO_OpenScience_Subscribe" target="_blank">Subscribe</a>
+  </div>
+  </div>
+</section>
+<section class="dark-grey">
 
 ## Featured Data Products and Workflows
 Take time to discover a diverse array of datasets shared by researchers across all Earth System Science domains. See how your data can become easily discoverable, citable, and fully compliant with open science requirements, ensuring that your research is both impactful and accessible. Dive into the first complete examples and see how these valuable resources can enhance your studies and contribute to the global scientific community.
@@ -144,7 +159,7 @@ Take time to discover a diverse array of datasets shared by researchers across a
 
 
 </section>
-<section class="blue">
+<section class="white">
 
 ## Partnerships
   <esa-cards>
@@ -179,22 +194,6 @@ Take time to discover a diverse array of datasets shared by researchers across a
       overline="Story"
 -->
 
-</section>
-<section class="white">
-  <div class="two-column">
-
-  ## Subscribe to the EO Open Science Newsletter
-  <div>
-
-  #### Why should I sign up?
-
-  - Get monthly updates from ESA EO Open Science
-  - Access expert insights, research updates, event announcements, and more
-  - Stay updated on new EarthCODE features, resources and collaboration opportunities
-
-  <a class="VPButton cta no-icon" href="https://esacontact.esa.int/ESA_EO_OpenScience_Subscribe" target="_blank">Subscribe</a>
-  </div>
-  </div>
 </section>
 
 <ClientOnly>
