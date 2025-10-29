@@ -9,8 +9,6 @@ layout: page
 </section>
 <section class="light-grey">
 
-## Blog Posts
-
 <BlogGallery
   max-posts="12"
 />
