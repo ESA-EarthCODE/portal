@@ -6,12 +6,20 @@ layout: page
 
 # EarthCODE's Ecosystem
 
-The EarthCODE ecosystem integrates tools, platforms, and communities to support FAIR Science for EarthAction. The four pillars of EarthCODE are the Open Science Catalog, the ESA Project Results Repository, the EarthCODE integrated platforms and the EarthCODE Community.
+The EarthCODE ecosystem integrates tools, services, and community that support FAIR Science for Earth Action. To turn EO data into open, lasting, and impactful science, EarthCODE offers:
 
-EarthCODE is closely linked with its sister initiative, APEx, which focuses on taking scientific results to a higher Technology Readiness Level.
+* **Sponsored access ESA and partner cloud computing platforms** tailored to your research goals.
+* **FAIR Data & workflow engineering support** to complement your scientific expertise.
+* **Persistent publication of your research outputs** with DOIs in the Open Science Catalogue.
+* **Long-term storage & preservation of results** in ESA-managed repository.
+* **A hub to share and find** open data & reproducible methods.
+* **An open forum** for your science projects and communities.
+
+EarthCODE works in synergy with APEx, which supports the maturation of scientific developments into operational applications.
+
+Sign in to the EarthCODE Portal for Single Sign-On (SSO) access to all integrated platforms and community resources.
 
 <a class="VPButton cta primary" href="https://workspace.earthcode.eox.at/" target="_blank">Sign in</a><br />
-to the EarthCODE Portal for Single Sign On (SSO) access the integrated platforms.
 
 <img src="/img/EarthCODE_Ecosystem.png"/>
 
@@ -20,7 +28,9 @@ to the EarthCODE Portal for Single Sign On (SSO) access the integrated platforms
 
 ## Explore the Open Science Catalog
 
-Explore a rich collection of publicly available geoscience products, datasets, and resources developed in the frame of scientific research Projects funded by ESA EO (Earth Observation).
+Publishing your research through EarthCODE makes your datasets, workflows, and results discoverable in the Open Science Catalogue, alongside other FAIR and open data from ESA-funded studies and partner initiatives.
+
+The Catalogue brings together research outputs from across the ESA projects, enabling scientists to find, reuse, and build upon results from related activties. It ensures your work is visible, citable, and connected to the network of ESA Earth Observation science.
 
 <p><iframe src="https://opensciencedata.esa.int/stac-browser/#/" style="width: 100%; height: 400px"></iframe></p>
 
@@ -29,7 +39,7 @@ Explore a rich collection of publicly available geoscience products, datasets, a
 </section>
 <section class="white">
 
-## Computational Research
+## Sponsored access ESA and partner cloud computing platforms
 
 Unlock powerful cloud computing for Earth science research. With EarthCODE, top cloud computing platforms are seamlessly accessible by users. Explore the development tools, EO Data selection, and compute capabilities each platform provides. Integration with EarthCODE, ensures that the platform supports FAIR tooling, development, and sharing of interoperable workflows and automates data publication process accessible via <a href="https://workspace.earthcode.eox.at/" target="_blank">Single Sign On (SSO)</a>.
 
@@ -70,7 +80,7 @@ Scalable cloud resources, efficient cross-platform data workflows, and a collabo
 </section>
 <section class="dark-grey">
 
-## ESA Project Results Repository (PRR)
+## Long-term storage & preservation of results in ESA Repository
 
 The ESA Project Results Repository (PRR) provides long term storage of research outcomes from ESA-funded EO Projects and activities. It provides a harmonised and structured way to store research outcomes (including data, workflows, experiment, and associated documentation). Research outcomes are organised in STAC Objects (Collections), accessible via the STAC API and the Open Science Catalog Browser.
 
