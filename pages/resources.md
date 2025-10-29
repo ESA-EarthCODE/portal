@@ -73,7 +73,7 @@ Explore a growing collection of training resources, including EarthCODE and plat
       action="Access MOOC"
     ></esa-card>
     <esa-card
-      title="NoR Platform Webinars"
+      title="Platform Webinars"
       description="Through the NoR webinar series, learn about EarthCODE integrated platforms and their services."
       link="https://nor-discover.org/en/outreach/#webinars"
       action="View NoR Webinars"
