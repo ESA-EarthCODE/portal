@@ -6,7 +6,7 @@ layout: page
 
 # Join our Earth Science Community
 
-**Connect with researchers, share insights, and collaborate on data and workflows.** EarthCODE is building a collaborative community for Earth System Science, driven by FAIR and Open Science principles. We discuss open-source tools, research, data and to enable re-use and collaboration, advancing research for a sustainable future. Participate in discussions, attend events, and stay informed about the latest news.
+**Connect with researchers, share insights, and collaborate on data and workflows.** EarthCODE is building a collaborative community for Earth System Science, driven by FAIR and Open Science principles. 
 
 <a class="VPButton cta no-icon" href="https://discourse-earthcode.eox.at/">Visit Forum</a>
 
@@ -15,7 +15,7 @@ layout: page
 
 # Forum
 
-Join the EarthCode Discourse forum for discussions about FAIR and open-science and exploring the diverse tools, published research and solutions offered by the EarthCODE platform.
+Join the **EarthCode Discourse Forum** to participate in duscussions on Earth Observation research, scientific data and open-source tools for Earth science. Use the forum for your Science Cluster meetings, to promote your work, or just to stay informed about the latest news and events. 
 
 ### Latest topics
 
