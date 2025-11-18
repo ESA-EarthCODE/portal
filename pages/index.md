@@ -4,7 +4,7 @@ title: Welcome to EarthCODE
 
 hero:
   text: FAIR Science for Earth Action
-  tagline: Create, find, and collaborate on data science experiments, unlocking the full potential of Earth Observation for the benefit of society - from research to policy
+  tagline: Create, find, and collaborate on Earth system science experiments, unlocking the full potential of Earth Observation for the benefit of society - from research to policy
   background: /img/EarthCODE_Background-Pattern_1.jpg
   image: "/img/EarthCODE_Herobanner_1920x1080.jpg"
   actions:
