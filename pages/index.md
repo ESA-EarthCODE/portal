@@ -47,7 +47,7 @@ hero:
   ></esa-card>
   <esa-card
     title="Run workflows on integrated platforms"
-    description="Seamless access to EO platforms like EDC, Pangeo, DeepESDL or OpenEO. No setup needed."
+    description="Seamless access to cloud computing platforms, providing access to EO data and environment to run scientific experiments. No previous setup needed."
     link="/ecosystem"
     action="Start now"
   ></esa-card>
