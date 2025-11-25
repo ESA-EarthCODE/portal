@@ -15,7 +15,7 @@ layout: page
 
 # Forum
 
-Join the **EarthCode Discourse Forum** to participate in duscussions on Earth Observation research, scientific data and open-source tools for Earth science. Use the forum for your Science Cluster meetings, to promote your work, or just to stay informed about the latest news and events. 
+Join the **EarthCode Discourse Forum** to participate in discussions on Earth Observation research, scientific data and open-source tools for Earth science. Use the forum for your Science Cluster meetings, to promote your work, or just to stay informed about the latest news and events.
 
 ### Latest topics
 
@@ -48,6 +48,14 @@ Join the **EarthCode Discourse Forum** to participate in duscussions on Earth Ob
     title="ESA Science Hub"
     description="The Earth System Science Hub is an ESA facility designed to promote and support advanced Earth System and climate science studies in a cutting-edge, collaborative, cloud computing and open science environment to unlock the full potential of latest EO technologies."
     link="/community/scientists/science-hub"
+    action="Read more"
+  ></esa-card>
+  <esa-card
+    image="/img/EO_Open_Science.png"
+    tag="Science"
+    title="eo science for society"
+    description="Your single point of access to state-of-the-art information, tools and networking resources on EO applications."
+    link="https://eo4society.esa.int/projects/"
     action="Read more"
   ></esa-card>
   <esa-card
