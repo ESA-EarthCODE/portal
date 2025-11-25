@@ -157,6 +157,7 @@ Take time to discover a diverse array of datasets shared by researchers across a
 <section class="white">
 
 ## Partnerships
+
   <esa-cards>
     <esa-card
       image="/img/NOR_keyvisual.jpg"
@@ -167,10 +168,10 @@ Take time to discover a diverse array of datasets shared by researchers across a
       action="Request"
     ></esa-card>
     <esa-card
-      image="/img/"
+      image="/img/EOEPCA.png"
       tag="ESA Initiative"
       title="EOEPCA+"
-      description=""
+      description="EOEPCA+ aims to unify the fragmented cloud ecosystem for Ground Segment, EO Science, R&D, and Applications. It does this by enabling federation amongst EO cloud platform options by offering reusable Building Blocks for tailored environments."
       link="https://eoepca.org/"
       action="Go to EOEPCA+"
     ></esa-card>
