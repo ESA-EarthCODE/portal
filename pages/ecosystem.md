@@ -8,12 +8,13 @@ layout: page
 
 The EarthCODE ecosystem integrates tools, services, and community that support FAIR Science for Earth Action. To turn EO data into open, lasting, and impactful science, EarthCODE offers:
 
-* **Sponsored access ESA and partner cloud computing platforms** tailored to your research goals.
-* **FAIR Data & workflow engineering support** to complement your scientific expertise.
-* **Persistent publication of your research outputs** with DOIs in the Open Science Catalogue.
-* **Long-term storage & preservation of results** in ESA-managed repository.
-* **A hub to share and find** open data & reproducible methods.
-* **An open forum** for your science projects and communities.
+1. **Sponsored access ESA and partner cloud computing platforms** tailored to your research goals.
+2. **FAIR Data & workflow engineering support** to complement your scientific expertise.
+3. **Persistent publication of your research outputs** with DOIs in the Open Science Catalogue.
+4. **Long-term storage & preservation of results** in ESA-managed repository.
+5. **A hub to share and find** open data & reproducible methods.
+6. **An open forum** for your science projects and communities.
+
 
 EarthCODE works in synergy with APEx, which supports the maturation of scientific developments into operational applications.
 
@@ -28,9 +29,9 @@ Sign in to the EarthCODE Portal for Single Sign-On (SSO) access to all integrate
 
 ## Explore the Open Science Catalog
 
-Publishing your research through EarthCODE makes your datasets, workflows, and results discoverable in the Open Science Catalogue, alongside other FAIR and open data from ESA-funded studies and partner initiatives.
+Publishing your research in EarthCODE makes your datasets, workflows, and results discoverable in the Open Science Catalogue, alongside other FAIR and open data from ESA-funded studies and partner initiatives, such as the [ESA-EC Earth System Science Initiative (ESSI)](https://eo4society.esa.int/wp-content/uploads/2021/07/ESSI_brochure2_210527.pdf).
 
-The Catalogue brings together research outputs from across the ESA projects, enabling scientists to find, reuse, and build upon results from related activties. It ensures your work is visible, citable, and connected to the network of ESA Earth Observation science.
+The Catalogue is the place where scientists can discover ESA project results in a machine-actionable format, openly accessible to reuse, and build upon. Results in the Catalogue are visible, citable, and connected to the network of ESA Earth Observation science.
 
 <p><iframe src="https://opensciencedata.esa.int/stac-browser/#/" style="width: 100%; height: 400px"></iframe></p>
 
@@ -39,9 +40,14 @@ The Catalogue brings together research outputs from across the ESA projects, ena
 </section>
 <section class="white">
 
-## Sponsored access ESA and partner cloud computing platforms
+## Accessible Computation - ESA and Partner Cloud Computing Platforms
 
-Unlock powerful cloud computing for Earth science research. With EarthCODE, top cloud computing platforms are seamlessly accessible by users. Explore the development tools, EO Data selection, and compute capabilities each platform provides. Integration with EarthCODE, ensures that the platform supports FAIR tooling, development, and sharing of interoperable workflows and automates data publication process accessible via <a href="https://workspace.earthcode.eox.at/" target="_blank">Single Sign On (SSO)</a>.
+EarthCODE offers accessible computation resources for Earth Science. Thematic and generic cloud computing platforms from ESA and partnering initiatives are integrated in the EarthCODE federation, offering tailored and powerful development environments, access to EO data collections, and AI capabilities. 
+
+Integrated platforms are accessible via <a href="https://workspace.earthcode.eox.at/" target="_blank">Single Sign On (SSO)</a>.
+
+Browse the [Documentation](https://esa-earthcode.github.io/documentation/Integrating%20New%20Platforms%20to%20EarthCODE/) to learn more about joining the EarthCODE initiative as a Platform Provider. 
+
 
 <esa-cards>
   <esa-card
@@ -58,33 +64,36 @@ Unlock powerful cloud computing for Earth science research. With EarthCODE, top 
 <section class="light-grey">
 
 ## Benefits of Computational Research at EarthCODE 
-Scalable cloud resources, efficient cross-platform data workflows, and a collaborative research community for impactful research and innovation.
+
+Working on an EarthCODE integrated platform not only gives you the flexibility of scaling-up resources to fit your project's needs, but also ensures that your project's results will be FAIR (Findable, Accessible, Interoperable and Reusable) and published in EarthCODE for long-term accessibility. 
+
 
   <esa-cards>
     <esa-card
       icon='<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M19.9987 3.33337C10.7987 3.33337 3.33203 10.8 3.33203 20C3.33203 29.2 10.7987 36.6667 19.9987 36.6667C29.1987 36.6667 36.6654 29.2 36.6654 20C36.6654 10.8 29.1987 3.33337 19.9987 3.33337ZM19.9987 33.3334C12.6487 33.3334 6.66536 27.35 6.66536 20C6.66536 12.65 12.6487 6.66671 19.9987 6.66671C27.3487 6.66671 33.332 12.65 33.332 20C33.332 27.35 27.3487 33.3334 19.9987 33.3334ZM27.6487 12.6334L16.6654 23.6167L12.3487 19.3167L9.9987 21.6667L16.6654 28.3334L29.9987 15L27.6487 12.6334Z" fill="green"/></svg>'
-      title="Scalability"
-      description="Bring your compute to the data using EarthCODE’s cloud-native, cross-platform environment and long-term storage solutions empowering research at a planetary scale"
+      title="Scalable Processing"
+      description="The EarthCODE federation integrates state-of-the-art cloud computing environments with access to large EO mission data collections from ESA, Copernicus, NASA and beyond, offering versatile, scalable and powerful computing resources for your Earth science research."
     ></esa-card>
     <esa-card
       icon='<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M19.9987 3.33337C10.7987 3.33337 3.33203 10.8 3.33203 20C3.33203 29.2 10.7987 36.6667 19.9987 36.6667C29.1987 36.6667 36.6654 29.2 36.6654 20C36.6654 10.8 29.1987 3.33337 19.9987 3.33337ZM19.9987 33.3334C12.6487 33.3334 6.66536 27.35 6.66536 20C6.66536 12.65 12.6487 6.66671 19.9987 6.66671C27.3487 6.66671 33.332 12.65 33.332 20C33.332 27.35 27.3487 33.3334 19.9987 33.3334ZM27.6487 12.6334L16.6654 23.6167L12.3487 19.3167L9.9987 21.6667L16.6654 28.3334L29.9987 15L27.6487 12.6334Z" fill="green"/></svg>'
-      title="Speed and Efficiency"
-      description='Utilize integrated tools and platforms to streamline your data analysis, enabling efficient sharing with the Earth Observation community while adhering to <a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR</a> and <a href="https://www.esa.int/About_Us/Digital_Agenda/Open_Science" target="_blank">open science</a> principles. Achieve more with less effort'
+      title="Data & Workflow Engineering Services"
+      description='EarthCODE integrated platforms offer data and workflow engineering services to support your science team adhere to <a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR</a> and <a href="https://www.esa.int/About_Us/Digital_Agenda/Open_Science" target="_blank">open science</a> principles and ensure the results are publication-ready. Achieve more with less effort.'
     ></esa-card>
     <esa-card
       icon='<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M19.9987 3.33337C10.7987 3.33337 3.33203 10.8 3.33203 20C3.33203 29.2 10.7987 36.6667 19.9987 36.6667C29.1987 36.6667 36.6654 29.2 36.6654 20C36.6654 10.8 29.1987 3.33337 19.9987 3.33337ZM19.9987 33.3334C12.6487 33.3334 6.66536 27.35 6.66536 20C6.66536 12.65 12.6487 6.66671 19.9987 6.66671C27.3487 6.66671 33.332 12.65 33.332 20C33.332 27.35 27.3487 33.3334 19.9987 33.3334ZM27.6487 12.6334L16.6654 23.6167L12.3487 19.3167L9.9987 21.6667L16.6654 28.3334L29.9987 15L27.6487 12.6334Z" fill="green"/></svg>'
-      title="Collaboration"
-      description="ffortlessly Find and Reuse workflows, research and data within the scientific community. EarthCODE fosters a vibrant community of algorithm developers, researchers, and scientists, promoting an interactive and collaborative research environment"
+      title="Find, Reuse, Collaborate"
+      description="Effortlessly find and reuse earth science data in the Open Science Catalogue. Execute the workflows on integrated platforms, download or work with the data in the cloud, share your own research results and collaborate on with a vibrant community of EO scientists. "
     ></esa-card>
   </esa-cards>
 </section>
 <section class="dark-grey">
 
-## Long-term storage & preservation of results in ESA Repository
+## Long-term Storage in ESA Repository
 
 The ESA Project Results Repository (PRR) provides long term storage of research outcomes from ESA-funded EO Projects and activities. It provides a harmonised and structured way to store research outcomes (including data, workflows, experiment, and associated documentation). Research outcomes are organised in STAC Objects (Collections), accessible via the STAC API and the Open Science Catalog Browser.
 
-<a href="https://esa-earthcode.github.io/tutorials/index-1/">Publication of results to the PRR</a> is highly encouraged for projects aiming to ensure long-term research outcomes preservation, accessibility and amplified the scientific impact of the project.
+**[ESA Project results are stored in the PRR](https://esa-earthcode.github.io/tutorials/index-1/)** to ensure research outcomes are long-term preserved and accessible. 
+
 
 <a class="VPButton cta primary" href="https://eoresults.esa.int/browser/#/external/eoresults.esa.int/stac">Explore PRR Collections</a>
 
