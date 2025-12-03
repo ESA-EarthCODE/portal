@@ -35,7 +35,7 @@ Join the **EarthCode Discourse Forum** to participate in discussions on Earth Ob
 
 <esa-cards>
   <esa-card
-    image="/img/EO4society_ScienceClusters.png"
+    image="/img/EarthCODE-ESA_science_clusters.jpg"
     tag="Science"
     title="ESA Science Clusters"
     description="ESA Science Clusters are collaborative initiatives designed with a purpose to strengthen and advance scientific research across key Earth system science domains such as atmosphere, carbon cycle, hydrology, agriculture, cryosphere, oceans, geohazards."
