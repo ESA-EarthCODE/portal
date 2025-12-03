@@ -98,7 +98,7 @@ hero:
 <section class="dark-grey">
 
 ## Featured Data Products and Workflows
-Take time to discover a diverse array of datasets shared by researchers across all Earth System Science domains. See how your data can become easily discoverable, citable, and fully compliant with open science requirements, ensuring that your research is both impactful and accessible. Dive into the first complete examples and see how these valuable resources can enhance your studies and contribute to the global scientific community.
+Take time to discover a diverse array of scientific datasets and workflows from ESA-funded research across all Earth System Science domains. Explore these complete examples to learn how your data can become easily discoverable, citable, and fully compliant with ESA's Open Science approach. Try out the various data exploration and visualisation tools and see which of the open-source solutions is best for your project. 
 
 <esa-cards>
   <esa-card
@@ -158,15 +158,15 @@ Take time to discover a diverse array of datasets shared by researchers across a
       image="/img/NOR_keyvisual.jpg"
       tag="Sponsorship"
       title="Network of Resources"
-      description="To cover the costs specific to each EarthCODE integrated platform, you can apply for Network of Resources (NoR) sponsorship. To learn more about eligibility criteria and requirements associated with NoR Sponsorship, please visit the NoR Sponsorship page."
+      description="For ESA-funded research implemented on EarthCODE integrated platforms, the computational cost is sponsored by ESA via the Network of Resources (NoR). To learn more about eligibility criteria and requirements associated with NoR Sponsorship, please visit the NoR Sponsorship page."
       link="https://nor-discover.org/"
-      action="Request"
+      action="Request Sposnorship"
     ></esa-card>
     <esa-card
       image="/img/EOEPCA.png"
       tag="ESA Initiative"
       title="EOEPCA+"
-      description="EOEPCA+ aims to unify the fragmented cloud ecosystem for Ground Segment, EO Science, R&D, and Applications. It does this by enabling federation amongst EO cloud platform options by offering reusable Building Blocks for tailored environments."
+      description="EOEPCA+ aims to unify the fragmented cloud ecosystem for Ground Segment, EO Science, R&D, and Applications. It does this by enabling federation amongst EO cloud platform options by offering reusable Building Blocks for tailored environments. EarthCODE is an EOEPCA+ utilisation domain."
       link="https://eoepca.org/"
       action="Go to EOEPCA+"
     ></esa-card>
@@ -174,7 +174,7 @@ Take time to discover a diverse array of datasets shared by researchers across a
       image="/img/APEx_KeyVisual_notext-1010x568.png"
       tag="ESA Initiative"
       title="APEx"
-      description="Streamlining from EO innovation to operations - APEx provides easy access to ESA's Earth observation application outcomes for the EO community. With a range of services and tools APEx simplifies the transition of algorithms into operational services and encourage the incorporation of current cloud-based EO services and technologies."
+      description="Streamlining from EO innovation to operations - APEx provides easy access to ESA's Earth observation application outcomes for the EO community. APEx tools and services enable the transition of R&D algorithms (including EarthCODE scientific workflows) into operational services delivered by European Cloud Platforms."
       action="Go to APEx"
       link="https://apex.esa.int/"
     ></esa-card>
@@ -191,23 +191,23 @@ Take time to discover a diverse array of datasets shared by researchers across a
   <esa-gateway
     .items="[
       {
-        title: 'ESA Vision',
+        title: 'ESA Open Science Vision',
         links: [
           {
-            name: 'EO Science Strategy',
+            name: 'ESA EO Science Strategy 2024',
             href: 'https://doi.org/10.5281/zenodo.13819557',
           },
         ],
       },
       {
-        title: 'ESA EO Programme',
+        title: `ESA's Earth Observation Programme`,
         links: [
           {
             name: 'Observing the Earth',
             href: 'https://www.esa.int/Applications/Observing_the_Earth',
           },
           {
-            name: 'Science for Society',
+            name: 'EO Science for Society',
             href: 'https://eo4society.esa.int',
           },
         ],
@@ -218,6 +218,10 @@ Take time to discover a diverse array of datasets shared by researchers across a
           {
             name: 'Earth System Science Hub',
             href: 'https://sciencehub.esa.int',
+          },
+          {
+            name: 'ESA Science Clusters',
+            href: 'https://eo4society.esa.int/communities/scientists/',
           },
         ],
       },

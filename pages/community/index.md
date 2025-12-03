@@ -35,7 +35,7 @@ Join the **EarthCode Discourse Forum** to participate in discussions on Earth Ob
 
 <esa-cards>
   <esa-card
-    image="/img/EO4society_ScienceClusters.png"
+    image="/img/EarthCODE-ESA_science_clusters.jpg"
     tag="Science"
     title="ESA Science Clusters"
     description="ESA Science Clusters are collaborative initiatives designed with a purpose to strengthen and advance scientific research across key Earth system science domains such as atmosphere, carbon cycle, hydrology, agriculture, cryosphere, oceans, geohazards."
@@ -53,8 +53,8 @@ Join the **EarthCode Discourse Forum** to participate in discussions on Earth Ob
   <esa-card
     image="/img/EO_Open_Science.png"
     tag="Science"
-    title="eo science for society"
-    description="Your single point of access to state-of-the-art information, tools and networking resources on EO applications."
+    title="EO Science for Society"
+    description="Discover a growing list of ESA funded projects and initiatives under Earth Observation Programme. Discover full list of projects at ESA EOP-S through EO4Society page, a single point of access to state-of the art information , networking resources on EO applications and science outcomes for societal and scientific benefits."
     link="https://eo4society.esa.int/projects/"
     action="Read more"
   ></esa-card>
@@ -73,7 +73,7 @@ Join the **EarthCode Discourse Forum** to participate in discussions on Earth Ob
 
 ## Engage and join the Open Science Community of EarthCODE
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec feugiat arcu id sapien sollicitudin, nec vulputate arcu aliquam. Suspendisse ac ultricies lorem. Vivamus maximus maximus augue, eu tristique urna pharetra a. Ut semper facilisis tempus. In euismod molestie eros ac porta. Sed sed erat vulputate, aliquet mauris gravida, commodo diam. Etiam varius augue et odio ultricies, vel rhoncus erat pharetra. Duis at dolor neque.
+The EarthCODE ecosystem has been purposefully designed to foster cooperation at every level—within your project team throughout its entire lifecycle, through advanced tools on our integrated platforms, and across the global scientific community. Discover how collaboration can amplify your impact and learn how you can actively shape the future of EarthCODE—whether you are a Scientist, Developer, or Platform Provider. Together, we can accelerate innovation and unlock new possibilities for Earth Observation. To learn more about collaboration opportunities and how we are building our community [visit the page](https://esa-earthcode.github.io/documentation/Community%20and%20Collaboration/collaboration-and-community)
 
 </section>
 
