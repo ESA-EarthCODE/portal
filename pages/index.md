@@ -205,7 +205,7 @@ Take time to discover a diverse array of scientific datasets and workflows from 
         ],
       },
       {
-        title: 'ESA's Earth Observation Programme',
+        title: `ESA's Earth Observation Programme`,
         links: [
           {
             name: 'Observing the Earth',
