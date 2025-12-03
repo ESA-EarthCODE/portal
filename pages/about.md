@@ -166,7 +166,7 @@ The EarthCODE platform is constantly evolving, with its roadmap regularly update
     <esa-card
       icon="<img src='https://esa-earthcode.github.io/portal-assets/partners/Terradue_cropped.png' height='40' style='max-width: 100%; object-fit: contain' />"
       title="Terradue"
-      description=""
+      description="Terradue contributes operational GEP infrastructure and FAIR workflow capabilities to EarthCODE, enabling scalable EO processing, reproducible open science, and alignment with EOEPCA+, while supporting workflow development, execution, and publication."
       action="Visit website"
       link="https://www.terradue.com/"
     ></esa-card>
