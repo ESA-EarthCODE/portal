@@ -9,9 +9,7 @@ EarthCODE provides easy to follow end-to-end publication tutorials, Jupyter Note
 
 </section>
 <section class="white">
-
-## Getting started with EarthCODE
-
+  
   <esa-cards>
     <esa-card
       icon='<svg height="28" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>file-document-outline</title><path d="M6,2A2,2 0 0,0 4,4V20A2,2 0 0,0 6,22H18A2,2 0 0,0 20,20V8L14,2H6M6,4H13V9H18V20H6V4M8,12V14H16V12H8M8,16V18H13V16H8Z" /></svg>'
@@ -29,10 +27,10 @@ EarthCODE provides easy to follow end-to-end publication tutorials, Jupyter Note
     ></esa-card>
     <esa-card
       icon='<svg height="28" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>monitor-eye</title><path d="M3 4V16H21V4H3M3 2H21C22.1 2 23 2.89 23 4V16C23 16.53 22.79 17.04 22.41 17.41C22.04 17.79 21.53 18 21 18H14V20H16V22H8V20H10V18H3C2.47 18 1.96 17.79 1.59 17.41C1.21 17.04 1 16.53 1 16V4C1 2.89 1.89 2 3 2M10.84 8.93C11.15 8.63 11.57 8.45 12 8.45C12.43 8.46 12.85 8.63 13.16 8.94C13.46 9.24 13.64 9.66 13.64 10.09C13.64 10.53 13.46 10.94 13.16 11.25C12.85 11.56 12.43 11.73 12 11.73C11.57 11.73 11.15 11.55 10.84 11.25C10.54 10.94 10.36 10.53 10.36 10.09C10.36 9.66 10.54 9.24 10.84 8.93M10.07 12C10.58 12.53 11.28 12.82 12 12.82C12.72 12.82 13.42 12.53 13.93 12C14.44 11.5 14.73 10.81 14.73 10.09C14.73 9.37 14.44 8.67 13.93 8.16C13.42 7.65 12.72 7.36 12 7.36C11.28 7.36 10.58 7.65 10.07 8.16C9.56 8.67 9.27 9.37 9.27 10.09C9.27 10.81 9.56 11.5 10.07 12M6 10.09C6.94 7.7 9.27 6 12 6C14.73 6 17.06 7.7 18 10.09C17.06 12.5 14.73 14.18 12 14.18C9.27 14.18 6.94 12.5 6 10.09Z" /></svg>'
-      title="Visualisation tools"
-      description="Built-in tools and dashboards to plot, compare, and share geospatial outputs."
-      link="/visualisation-tools"
-      action="Explore"
+      title="Sponsporship from Network of Resources"
+      description="ESA offes sponsorship opportunities, learn how the costs of data access, storage, and processing on participating platforms, can be covered by the NoR service, allowing researchers to focus on their projects without financial constraints. Learn how your project can benefit from NoR in this guide."
+      link="https://esa-earthcode.github.io/documentation/Training%20and%20Resources/NoR"
+      action="Learn more"
     ></esa-card>
     <esa-card
       icon='<svg height="28" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>lock-open-variant-outline</title><path d="M10 13C11.1 13 12 13.89 12 15C12 16.11 11.11 17 10 17S8 16.11 8 15 8.9 13 10 13M18 1C15.24 1 13 3.24 13 6V8H4C2.9 8 2 8.9 2 10V20C2 21.1 2.9 22 4 22H16C17.1 22 18 21.1 18 20V10C18 8.9 17.1 8 16 8H15V6C15 4.34 16.34 3 18 3S21 4.34 21 6V8H23V6C23 3.24 20.76 1 18 1M16 10V20H4V10H16Z" /></svg>'
