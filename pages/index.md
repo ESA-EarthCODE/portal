@@ -131,7 +131,7 @@ Take time to discover a diverse array of scientific datasets and workflows from 
   ></esa-card>
   <esa-card
     title="ESA CCI Permafrost: Combined Permafrost Dataset "
-    description="Explore how the ESA CCI Permafrost datacube was generated using DeepESDL platforms built-in tools and open source libraries. Access and execute the code in DeepESDL environment. Configuration files available as well." <br /><br /><img src='https://placehold.co/100x50' />"
+    description="Explore how the ESA CCI Permafrost datacube was generated using DeepESDL platforms built-in tools and open source libraries. Access and execute the code in DeepESDL environment. Configuration files available as well. <br /><br /><img src='https://placehold.co/100x50' />"
     link="https://opensciencedata.esa.int/experiments/esa-cci-permafrost/record"
     action="Explore & run experiment on DeepESDL"
   ></esa-card>
