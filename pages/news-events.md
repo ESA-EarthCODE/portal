@@ -14,7 +14,7 @@ layout: page
 />
 <br />
 <div>
-  <a class="VPButton cta" href="/blog">All blog posts</a>
+  <a class="VPButton cta" href="/blog">See more news...</a>
 </div>
 
 </section>
