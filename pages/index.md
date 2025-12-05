@@ -36,32 +36,32 @@ hero:
   <esa-card
     title="Publish your experiment"
     description="Upload data, workflows, and results. Make them reproducible and citable."
-    link="https://esa-earthcode.github.io/tutorials/index-2/"
-    action="Start now"
+    link="https://esa-earthcode.github.io/documentation/Technical%20Documentation/Open%20Science%20Catalog/Contributing%20to%20the%20Open%20Science%20Catalog"
+    action="Learn how"
   ></esa-card>
   <esa-card
     title="Discover & reuse research"
     description="Search and filter through published science assets. Use in local or cloud environments."
     link="https://opensciencedata.esa.int/catalog"
-    action="Start now"
+    action="Browse catalog"
   ></esa-card>
   <esa-card
     title="Run workflows on integrated platforms"
     description="Seamless access to cloud computing platforms, providing access to EO data and environment to run scientific experiments. No previous setup needed."
     link="/ecosystem"
-    action="Start now"
+    action="Find platform"
   ></esa-card>
   <esa-card
     title="Visualize your results"
     description="Built-in tools and dashboards to plot, compare, and share geospatial outputs."
     link="/visualisation-tools"
-    action="Start now"
+    action="Learn more"
   ></esa-card>
   <esa-card
     title="Collaborate via the Forum"
     description="Join discussions, ask questions, and exchange best practices."
     link="https://discourse-earthcode.eox.at/"
-    action="Start now"
+    action="Access forum"
   ></esa-card>
 </esa-cards>
 
@@ -98,53 +98,48 @@ hero:
 <section class="dark-grey">
 
 ## Featured Data Products and Workflows
-Take time to discover a diverse array of datasets shared by researchers across all Earth System Science domains. See how your data can become easily discoverable, citable, and fully compliant with open science requirements, ensuring that your research is both impactful and accessible. Dive into the first complete examples and see how these valuable resources can enhance your studies and contribute to the global scientific community.
+Take time to discover a diverse array of scientific datasets and workflows from ESA-funded research across all Earth System Science domains. Explore these complete examples to learn how your data can become easily discoverable, citable, and fully compliant with ESA's Open Science approach. Try out the various data exploration and visualisation tools and see which of the open-source solutions is best for your project. 
 
 <esa-cards>
   <esa-card
     tag="Dataset"
-    title="HYDROCOASTAL Final Product"
-    description="L2 along-track re-tracked product"
-    link="https://opensciencedata.esa.int/products/l2-along-track-re-tracked-s3-c2-final-hydrocoastal/collection"
+    title="WAPOSAL wave period and wave power density"
+    description="High-resolution wave power density, zero-crossing wave period, and significant wave height products obtained from S3 A/B, CryoSat-2, and SAMOSA+ retracker. The products cover the Atlantic coast of Europe, Madeira, the French Polynesian archipelagos, the Azores, the Canary Islands, the Mediterranean and Baltic Seas, and the coastal zone of French Guiana."
+    link="https://opensciencedata.esa.int/products/waposal-waves/collection"
     action="Access"
   ></esa-card>
   <esa-card
     tag="Dataset"
-    title="SeasFire Cube"
-    description="A Global Dataset for Seasonal Fire Modeling in the Earth System"
+    title="SMART-CH4 δ13C(CH₄) Source Signatures"
+    description="Monthly gridded δ13C(CH₄) isotopic signatures (‰ vs V-PDB) for five methane emission sectors: AGW, FFG, BB, NAT, WET, and their subsequent sub-sectors, at 1°×1° spatial resolution for the period 1998–2022. Available in cloud-optimised format"
+    link="https://opensciencedata.esa.int/external/s3.waw4-1.cloudferro.com/EarthCODE/Catalogs/smart-ch4-d13c/collection"
+    action="Access"
+  ></esa-card>
+  <esa-card
+    tag="Dataset"
+    title="SeasFire Data Cube"
+    description="A Global Dataset for Seasonal Fire Modeling in the Earth System. Datacube contains 21 years of data (2001-2021) in a 8-days time resolution and 0.25 degrees grid resolution. Providing a diverse range of seasonal fire drivers, it expands from atmospheric and climatological ones to vegetation variables, socioeconomic and the target variables related to wildfires such as burned areas, fire radiative power, and wildfire-related CO2 emissions. <br /><br /><img src='https://extraim.eu/images/extraimlogo.png' />"
     link="https://opensciencedata.esa.int/products/seasfire-cube/collection"
-    action="Access"
+    action="Access & Run the Example Notebook"
   ></esa-card>
   <esa-card
-    tag="Dataset"
-    title="The extrAIM dataset"
-    description="A merged satellite-based daily precipitation dataset for the Mediterranean region <br /><br /><img src='https://extraim.eu/images/extraimlogo.png' />"
-    link="https://opensciencedata.esa.int/products/extraim-daily-precipitation/collection"
-    action="Access"
+    title=" FAIRSenDD: FAIR workflow for Sentinel-1 based Deforestation Detection"
+    tag="Workflow"
+    description="FAIR workflow for Sentinel-1-based Deforestation Detection leverages Recurrence Quantification Analysis to effectively detect forest change in a given time series for each location individually, allowing robust and scalable classifications. Discover and run the workflow locally or on the cloud. <br /><br /><img src='https://placehold.co/100x100' />"
+    link="https://opensciencedata.esa.int/workflows/fairsendd/record"
+    action="Explore & access the workflow"
   ></esa-card>
   <esa-card
-    title="Dataset 1"
-    description="Dataset + Python workflow + results <br /><br /><img src='https://placehold.co/100x100' />"
-    link="/"
-    action="Run this on Pangeo"
-  ></esa-card>
-  <esa-card
-    title="Workflow 1"
-    description="Reusable Workflow <br /><br /><img src='https://placehold.co/100x50' />"
-    link="/"
-    action="Explore & modify on openEO"
-  ></esa-card>
-  <esa-card
-    title="Experiment 1"
-    description="Available on EarthCODE repository"
-    link="/"
-    action="Reuse this experiment on DeepESDL"
+    title="ESA CCI Permafrost: Combined Permafrost Dataset "
+    description="Explore how the ESA CCI Permafrost datacube was generated using DeepESDL platforms built-in tools and open source libraries. Access and execute the code in DeepESDL environment. Configuration files available as well. <br /><br /><img src='https://placehold.co/100x50' />"
+    link="https://opensciencedata.esa.int/experiments/esa-cci-permafrost/record"
+    action="Explore & run experiment on DeepESDL"
   ></esa-card>
     <esa-card
-    title="Visualisation 1"
-    description="Interactive visualization built with EarthCODE tools <br /><br /><img src='https://placehold.co/200x100' />"
-    link="/"
-    action="Try visualization with the xcube viewer"
+    title="ESA-EarthCODE Antarctica InSync Dashboard"
+    description="Interactive visualization built with EarthCODE tools to support Antarctica International Science & Infrastructure for Synchronous Observation initiative. Easy access to scientific Antarctica data in cloud-optimised format, made ready for being explored! <br /><br /><img src='https://placehold.co/200x100' />"
+    link="https://esa-earthcode.github.io/polar-science-cluster-dashboard/"
+    action="Explore the dashboard"
   ></esa-card>
 </esa-cards>
 <br />
@@ -163,15 +158,15 @@ Take time to discover a diverse array of datasets shared by researchers across a
       image="/img/NOR_keyvisual.jpg"
       tag="Sponsorship"
       title="Network of Resources"
-      description="To cover the costs specific to each EarthCODE integrated platform, you can apply for Network of Resources (NoR) sponsorship. To learn more about eligibility criteria and requirements associated with NoR Sponsorship, please visit the NoR Sponsorship page."
+      description="For ESA-funded research implemented on EarthCODE integrated platforms, the computational cost is sponsored by ESA via the Network of Resources (NoR). To learn more about eligibility criteria and requirements associated with NoR Sponsorship, please visit the NoR Sponsorship page."
       link="https://nor-discover.org/"
-      action="Request"
+      action="Request Sposnorship"
     ></esa-card>
     <esa-card
       image="/img/EOEPCA.png"
       tag="ESA Initiative"
       title="EOEPCA+"
-      description="EOEPCA+ aims to unify the fragmented cloud ecosystem for Ground Segment, EO Science, R&D, and Applications. It does this by enabling federation amongst EO cloud platform options by offering reusable Building Blocks for tailored environments."
+      description="EOEPCA+ aims to unify the fragmented cloud ecosystem for Ground Segment, EO Science, R&D, and Applications. It does this by enabling federation amongst EO cloud platform options by offering reusable Building Blocks for tailored environments. EarthCODE is an EOEPCA+ utilisation domain."
       link="https://eoepca.org/"
       action="Go to EOEPCA+"
     ></esa-card>
@@ -179,7 +174,7 @@ Take time to discover a diverse array of datasets shared by researchers across a
       image="/img/APEx_KeyVisual_notext-1010x568.png"
       tag="ESA Initiative"
       title="APEx"
-      description="Streamlining from EO innovation to operations - APEx provides easy access to ESA's Earth observation application outcomes for the EO community. With a range of services and tools APEx simplifies the transition of algorithms into operational services and encourage the incorporation of current cloud-based EO services and technologies."
+      description="Streamlining from EO innovation to operations - APEx provides easy access to ESA's Earth observation application outcomes for the EO community. APEx tools and services enable the transition of R&D algorithms (including EarthCODE scientific workflows) into operational services delivered by European Cloud Platforms."
       action="Go to APEx"
       link="https://apex.esa.int/"
     ></esa-card>
@@ -196,23 +191,23 @@ Take time to discover a diverse array of datasets shared by researchers across a
   <esa-gateway
     .items="[
       {
-        title: 'ESA Vision',
+        title: 'ESA Open Science Vision',
         links: [
           {
-            name: 'EO Science Strategy',
+            name: 'ESA EO Science Strategy 2024',
             href: 'https://doi.org/10.5281/zenodo.13819557',
           },
         ],
       },
       {
-        title: 'ESA EO Programme',
+        title: `ESA's Earth Observation Programme`,
         links: [
           {
             name: 'Observing the Earth',
             href: 'https://www.esa.int/Applications/Observing_the_Earth',
           },
           {
-            name: 'Science for Society',
+            name: 'EO Science for Society',
             href: 'https://eo4society.esa.int',
           },
         ],
@@ -223,6 +218,10 @@ Take time to discover a diverse array of datasets shared by researchers across a
           {
             name: 'Earth System Science Hub',
             href: 'https://sciencehub.esa.int',
+          },
+          {
+            name: 'ESA Science Clusters',
+            href: 'https://eo4society.esa.int/communities/scientists/',
           },
         ],
       },
