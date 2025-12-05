@@ -76,7 +76,7 @@ layout: page
   - Access expert insights, research updates, event announcements, and more
   - Stay updated on new EarthCODE features, resources and collaboration opportunities
 
-  <a class="VPButton cta no-icon" href="https://esacontact.esa.int/ESA_EO_OpenScience_Subscribe" target="_blank">Subscribe</a>
+  <a class="VPButton cta no-icon" href="https://assets-eur.mkt.dynamics.com/846bcca8-9413-4d04-822b-7282239af232/digitalassets/standaloneforms/1596564b-a729-f011-8c4d-7c1e52350f4e" target="_blank">Subscribe</a>
   </div>
   </div>
 </section>
