@@ -173,7 +173,7 @@ The EarthCODE platform is constantly evolving, with its roadmap regularly update
     <esa-card
       icon="<img src='https://esa-earthcode.github.io/portal-assets/partners/CGI_cropped.png' height='40' style='max-width: 100%; object-fit: contain' />"
       title="CGI"
-      description=""
+      description="Powering EarthCODE with Insula’s high-performance processing and analytics environment, enabling large-scale EO data exploitation, automated workflows, and seamless integration of scientific models and analysis tools."
       action="Visit website"
       link="https://www.cgi.com/en"
     ></esa-card>
