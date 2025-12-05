@@ -29,7 +29,7 @@ layout: page
     description="Meeting dedicated to researchers and scientists involved in ESA Carbon Science Cluster, creating opportunity for projects to present their activities and share common opportunities and challenges related to open science and reasearch data sharing and collaboration."
     date="17-18.11.2025 | Online Meeting"
     action="Event Details"
-    tag="upcoming"
+    tag="past"
     link="https://eo4society.esa.int/event/3rd-esa-carbon-science-cluster-meeting/"
  ></esa-card>
   <esa-card
