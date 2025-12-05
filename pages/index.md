@@ -37,31 +37,31 @@ hero:
     title="Publish your experiment"
     description="Upload data, workflows, and results. Make them reproducible and citable."
     link="https://esa-earthcode.github.io/documentation/Technical%20Documentation/Open%20Science%20Catalog/Contributing%20to%20the%20Open%20Science%20Catalog"
-    action="Start now"
+    action="Learn how"
   ></esa-card>
   <esa-card
     title="Discover & reuse research"
     description="Search and filter through published science assets. Use in local or cloud environments."
     link="https://opensciencedata.esa.int/catalog"
-    action="Start now"
+    action="Browse catalog"
   ></esa-card>
   <esa-card
     title="Run workflows on integrated platforms"
     description="Seamless access to cloud computing platforms, providing access to EO data and environment to run scientific experiments. No previous setup needed."
     link="/ecosystem"
-    action="Start now"
+    action="Find platform"
   ></esa-card>
   <esa-card
     title="Visualize your results"
     description="Built-in tools and dashboards to plot, compare, and share geospatial outputs."
     link="/visualisation-tools"
-    action="Start now"
+    action="Learn more"
   ></esa-card>
   <esa-card
     title="Collaborate via the Forum"
     description="Join discussions, ask questions, and exchange best practices."
     link="https://discourse-earthcode.eox.at/"
-    action="Start now"
+    action="Access forum"
   ></esa-card>
 </esa-cards>
 
