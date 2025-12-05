@@ -15,6 +15,10 @@ The Earth System Science Hub is an ESA facility designed to promote and support 
 
 <a href="https://sciencehub.esa.int/" target="_blank"><img src="/img/ESA_ScienceHub.png" /></a>
 
-Science Hub researchers address a [wide range of topics](https://sciencehub.esa.int/projects/) in Earth System Science, from observing storms to measuring the resilience of forests or understanding extreme events. They carry out cutting edge research leveraging ESA Earth Observation data, aiming to better understand our planet, often in collaboration with the Science Clusters. EarthCODE supports Science Hub researchers in several ways: by providing them with access to powerful computing, helping them publish their results and even offeing training to enhance their knowledge of workign with EO data in the cloud and applying FAIR principles. 
+Science Hub researchers address a **[wide range of topics](https://sciencehub.esa.int/projects/)** in Earth System Science, from observing storms to measuring the resilience of forests or understanding extreme events. They carry out cutting edge research leveraging ESA Earth Observation data, aiming to better understand our planet, often in collaboration with the Science Clusters. EarthCODE supports Science Hub researchers in several ways: by providing them with access to powerful computing, helping them publish their results and even offeing training to enhance their knowledge of workign with EO data in the cloud and applying FAIR principles. 
+
+Moreover, through its platforms, **EarthCODE** provides the computational environment for the **[Earth System Science Hub Challenges](https://sciencehub.esa.int/2025/09/29/science-hub-challenges-september-2025/)** - workshops organised in partnership with Universities, in which PhD students try to answer complex science questions using EO data and ESA platfrom resources. 
+
+![](https://sciencehub.esa.int/wp-content/uploads/2025/07/Key-Visual.jpg)
 
 </section>
