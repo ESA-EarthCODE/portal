@@ -105,6 +105,16 @@ Working on an EarthCODE integrated platform not only gives you the flexibility o
   </esa-cards>
 </section>
 
+<section class="white">
+
+## EarthCODE Forum
+
+**Connect with researchers, share insights, and collaborate on data and workflows.** EarthCODE is building a collaborative community for Earth System Science, driven by FAIR and Open Science principles.
+
+<a class="VPButton cta no-icon" href="https://discourse-earthcode.eox.at/">Visit Forum</a>
+
+</section>
+
 <script setup>
   import { ref } from "vue";
   import platformsJson from "./integrated-platforms.json" with {type: "json"};
