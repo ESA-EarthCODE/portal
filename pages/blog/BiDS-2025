@@ -1,0 +1,43 @@
+---
+date: 2025-11-05
+title:  EarthCODE at BiDS 2025 29/09-03/10 2025
+image: 
+---
+
+# EarthCODE at BiDS 2025  2025 29/09-03/10 2025 <!--{ as="img" mode="hero" src="/img/EarthCODE_Herobanner_1920x1080_nologo.jpg" }-->
+### Driving Open, Reproducible, and Scalable EO Science 
+
+## EarthCODE at BiDS 2025 29th of September - 3rd of October 2025
+*Published: 11/05/2025*
+
+EarthCODE had a strong presence at the Big Data from Space (BiDS) 2025 conference, showcasing how open technologies, interoperable platforms, and FAIR-Open Science practices can accelerate innovation across the EO community.
+
+**[Big Data from Space 2025 website](https://www.bigdatafromspace2025.org/)**
+---
+
+
+### Supporting the Big Data Foundations for EO Course
+
+In the week preceding the conference, EarthCODE contributed to the Big Data Foundations for Earth Observation training course, providing two hands-on practical sessions delivered by [Anne Fouilloux](https://annefou.github.io/):
+
+* FAIR Data & Open Science ([recording](https://www.youtube.com/watch?v=vW0yHRjkX04&list=PLvT7fd9OiI9Xq5_UBdD2aVYK9qbObINpz&index=5))
+* EO Processing Workflows / Python for EO ([recording](https://www.youtube.com/watch?v=1esltmOVwZU&list=PLvT7fd9OiI9Xq5_UBdD2aVYK9qbObINpz&index=6))
+
+These sessions equipped participants with essential skills for working with modern EO data ecosystems. The full agenda and training materials are available on the ESA EO for Society Website.
+
+* Big Data Foundations for EO Course recordings: https://eo4society.esa.int/resources/esas-2025-big-data-foundations-for-earth-observation-training-course/
+
+![](https://github.com/ESA-EarthCODE/portal-assets/blob/main/blog/earthcode-bids25-anne-2.jpg?raw=true)
+
+---
+
+### A Practical EarthCODE Workshop at BiDS 2025
+
+At the conference itself, EarthCODE hosted a dedicated workshop focusing on practical, end-to-end workflows, demonstrating how to develop and execute interoperable EO analyses using standard interfaces, cloud-ready data formats, and reproducible coding practices.
+All workshop notebooks, slides, and examples are openly available.
+
+* EarthCODE Workshop materials: https://github.com/ESA-EarthCODE/bids2025-tutorial
+
+Through these activities, EarthCODE continued to advance its mission: empowering the EO community with open tools, shared knowledge, and a collaborative environment to build the next generation of science and applications.
+
+![](https://github.com/ESA-EarthCODE/portal-assets/blob/main/blog/earthcode-bids25-dean.jpg?raw=true)
