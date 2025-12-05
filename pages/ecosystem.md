@@ -38,6 +38,20 @@ The Catalogue is the place where scientists can discover ESA project results in 
 <a class="VPButton cta" href="https://opensciencedata.esa.int" target="_blank">Explore Catalog</a>
 
 </section>
+
+<section class="light-grey">
+
+## Long-term Storage in ESA Repository
+
+The ESA Project Results Repository (PRR) provides long term storage of research outcomes from ESA-funded EO Projects and activities. It provides a harmonised and structured way to store research outcomes (including data, workflows, experiment, and associated documentation). Research outcomes are organised in STAC Objects (Collections), accessible via the STAC API and the Open Science Catalog Browser.
+
+**[ESA Project results are stored in the PRR](https://esa-earthcode.github.io/tutorials/index-1/)** to ensure research outcomes are long-term preserved and accessible.
+
+
+<a class="VPButton cta primary" href="https://eoresults.esa.int/browser/#/external/eoresults.esa.int/stac">Explore PRR Collections</a>
+
+</section>
+
 <section class="white">
 
 ## Accessible Computation - ESA and Partner Cloud Computing Platforms
@@ -47,7 +61,6 @@ EarthCODE offers accessible computation resources for Earth Science. Thematic an
 Integrated platforms are accessible via <a href="https://workspace.earthcode.eox.at/" target="_blank">Single Sign On (SSO)</a>.
 
 Browse the [Documentation](https://esa-earthcode.github.io/documentation/Integrating%20New%20Platforms%20to%20EarthCODE/) to learn more about joining the EarthCODE initiative as a Platform Provider. 
-
 
 <esa-cards>
   <esa-card
@@ -61,12 +74,12 @@ Browse the [Documentation](https://esa-earthcode.github.io/documentation/Integra
   ></esa-card>
 </esa-cards>
 </section>
+
 <section class="light-grey">
 
 ## Benefits of Computational Research at EarthCODE 
 
 Working on an EarthCODE integrated platform not only gives you the flexibility of scaling-up resources to fit your project's needs, but also ensures that your project's results will be FAIR (Findable, Accessible, Interoperable and Reusable) and published in EarthCODE for long-term accessibility. 
-
 
   <esa-cards>
     <esa-card
@@ -90,18 +103,6 @@ Working on an EarthCODE integrated platform not only gives you the flexibility o
       description="ESA offes sponsorship opportunities, learn how the costs of data access, storage, and processing on participating platforms, can be covered by the NoR service, allowing researchers to focus on their projects without financial constraints. Learn how your project can benefit from NoR in this guide."
     ></esa-card>
   </esa-cards>
-</section>
-<section class="dark-grey">
-
-## Long-term Storage in ESA Repository
-
-The ESA Project Results Repository (PRR) provides long term storage of research outcomes from ESA-funded EO Projects and activities. It provides a harmonised and structured way to store research outcomes (including data, workflows, experiment, and associated documentation). Research outcomes are organised in STAC Objects (Collections), accessible via the STAC API and the Open Science Catalog Browser.
-
-**[ESA Project results are stored in the PRR](https://esa-earthcode.github.io/tutorials/index-1/)** to ensure research outcomes are long-term preserved and accessible. 
-
-
-<a class="VPButton cta primary" href="https://eoresults.esa.int/browser/#/external/eoresults.esa.int/stac">Explore PRR Collections</a>
-
 </section>
 
 <script setup>
