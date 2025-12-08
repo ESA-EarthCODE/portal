@@ -30,6 +30,7 @@ layout: page
     date="17-18.11.2025 | Online Meeting"
     action="Event Details"
     tag="past"
+    tag-color="slategrey"
     link="https://eo4society.esa.int/event/3rd-esa-carbon-science-cluster-meeting/"
  ></esa-card>
   <esa-card

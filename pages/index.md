@@ -161,7 +161,7 @@ Take time to discover a diverse array of scientific datasets and workflows from 
       title="Network of Resources"
       description="For ESA-funded research implemented on EarthCODE integrated platforms, the computational cost is sponsored by ESA via the Network of Resources (NoR). To learn more about eligibility criteria and requirements associated with NoR Sponsorship, please visit the NoR Sponsorship page."
       link="https://nor-discover.org/"
-      action="Request Sposnorship"
+      action="Request Sponsorship"
     ></esa-card>
     <esa-card
       image="/img/EOEPCA.png"
