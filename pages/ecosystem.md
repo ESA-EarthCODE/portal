@@ -56,7 +56,7 @@ The ESA Project Results Repository (PRR) provides long term storage of research 
 
 ## Accessible Computation - ESA and Partner Cloud Computing Platforms
 
-EarthCODE offers accessible computation resources for Earth Science. Thematic and generic cloud computing platforms from ESA and partnering initiatives are integrated in the EarthCODE federation, offering tailored and powerful development environments, access to EO data collections, and AI capabilities. 
+EarthCODE offers accessible computation resources for Earth Science. Thematic and generic cloud computing platforms from ESA and partnering initiatives are integrated in the EarthCODE federation, offering tailored and powerful development environments, access to EO data collections, and AI capabilities. Scientific projects can request sponsorship to utilize these resources from ESA's [Network of Resources](https://nor-discover.org/).
 
 Integrated platforms are accessible via <a href="https://workspace.earthcode.eox.at/" target="_blank">Single Sign On (SSO)</a>.
 
@@ -100,7 +100,7 @@ Working on an EarthCODE integrated platform not only gives you the flexibility o
     <esa-card
       icon='<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M19.9987 3.33337C10.7987 3.33337 3.33203 10.8 3.33203 20C3.33203 29.2 10.7987 36.6667 19.9987 36.6667C29.1987 36.6667 36.6654 29.2 36.6654 20C36.6654 10.8 29.1987 3.33337 19.9987 3.33337ZM19.9987 33.3334C12.6487 33.3334 6.66536 27.35 6.66536 20C6.66536 12.65 12.6487 6.66671 19.9987 6.66671C27.3487 6.66671 33.332 12.65 33.332 20C33.332 27.35 27.3487 33.3334 19.9987 33.3334ZM27.6487 12.6334L16.6654 23.6167L12.3487 19.3167L9.9987 21.6667L16.6654 28.3334L29.9987 15L27.6487 12.6334Z" fill="green"/></svg>'
       title="NoR Sponsorship"
-      description="For scientific projects, ESA offes sponsored access to use the EarthCODE integrated platforms services. This includes access to computational resources, Earth Observation data collections, Artificial Intelligence capabilities, and much more, so that researchers can focus on their scientific research without having to set up their development environment."
+      description="For scientific projects, ESA offers sponsored access to use the EarthCODE integrated platforms services. This includes access to computational resources, Earth Observation data collections, Artificial Intelligence capabilities, and much more, so that researchers can focus on their scientific research without having to set up their development environment."
     ></esa-card>
   </esa-cards>
 </section>
