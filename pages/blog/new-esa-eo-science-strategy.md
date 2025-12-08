@@ -2,6 +2,7 @@
 date: 2024-11-01
 title: New ESA EO Science Strategy
 image: https://esa-earthcode.github.io/portal-assets/blog/Earth_Observation_Science_Strategy_pillars.jpg
+feature: true
 ---
 
 # New ESA EO Science Strategy <!--{ as="img" mode="hero" src="https://esa-earthcode.github.io/portal-assets/blog/Earth_Observation_Science_Strategy_pillars.jpg" }-->
