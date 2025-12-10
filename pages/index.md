@@ -19,49 +19,68 @@ hero:
 
 <esa-cards>
   <esa-card
-    icon='<svg height="28" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>file-document-outline</title><path d="M6,2A2,2 0 0,0 4,4V20A2,2 0 0,0 6,22H18A2,2 0 0,0 20,20V8L14,2H6M6,4H13V9H18V20H6V4M8,12V14H16V12H8M8,16V18H13V16H8Z" /></svg>'
+    image='/img/EarthCODE_icons set/only icon/EarthCODE_only icon documentation.png'
+    no-dimmer
     title="Documentation"
     description="Learn how to publish, access, integrate, and reuse EarthCODE's data and workflows to advance open science."
     link="https://esa-earthcode.github.io/documentation/"
     target="_blank"
     action="Explore"
+    style="--card-dimmer-background-image: none"
   ></esa-card>
   <esa-card
-    icon='<svg height="28" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>file-code-outline</title><path d="M14 2H6C4.89 2 4 2.9 4 4V20C4 21.11 4.89 22 6 22H18C19.11 22 20 21.11 20 20V8L14 2M18 20H6V4H13V9H18V20M9.54 15.65L11.63 17.74L10.35 19L7 15.65L10.35 12.3L11.63 13.56L9.54 15.65M17 15.65L13.65 19L12.38 17.74L14.47 15.65L12.38 13.56L13.65 12.3L17 15.65Z" /></svg>'
+    image='/img/EarthCODE_icons set/only icon/EarthCODE_only icon tutorial.png'
+    no-dimmer
     title="Tutorials"
     description="Here you will find guides and practical tutorials on how to use the various EarthCODE resources including publication process, data access and exploitation, and working with the integrated platforms."
     link="https://esa-earthcode.github.io/tutorials/"
     action="Explore"
+    style="--card-dimmer-background-image: none"
   ></esa-card>
   <esa-card
+    image='/img/EarthCODE_icons set/only icon/EarthCODE_only icon publishing.png'
+    no-dimmer
     title="Publish your experiment"
     description="Upload data, workflows, and results. Make them reproducible and citable."
     link="https://esa-earthcode.github.io/documentation/Technical%20Documentation/Open%20Science%20Catalog/Contributing%20to%20the%20Open%20Science%20Catalog"
     action="Learn how"
+    style="--card-dimmer-background-image: none"
   ></esa-card>
   <esa-card
+    image='/img/EarthCODE_icons set/only icon/EarthCODE_only icon discover.png'
+    no-dimmer
     title="Discover & reuse research"
     description="Search and filter through published science assets. Use in local or cloud environments."
     link="https://opensciencedata.esa.int/catalog"
     action="Browse catalog"
+    style="--card-dimmer-background-image: none"
   ></esa-card>
   <esa-card
+    image='/img/EarthCODE_icons set/only icon/EarthCODE_only icon workflow.png'
+    no-dimmer
     title="Run workflows on integrated platforms"
     description="Seamless access to cloud computing platforms, providing access to EO data and environment to run scientific experiments. No previous setup needed."
     link="/ecosystem"
     action="Find platform"
+    style="--card-dimmer-background-image: none"
   ></esa-card>
   <esa-card
+    image='/img/EarthCODE_icons set/only icon/EarthCODE_only icon visualisation.png'
+    no-dimmer
     title="Visualize your results"
     description="Built-in tools and dashboards to plot, compare, and share geospatial outputs."
     link="/visualisation-tools"
     action="Learn more"
+    style="--card-dimmer-background-image: none"
   ></esa-card>
   <esa-card
+    image='/img/EarthCODE_icons set/only icon/EarthCODE_only icon community.png'
+    no-dimmer
     title="Collaborate via the Forum"
     description="Join discussions, ask questions, and exchange best practices."
     link="https://discourse-earthcode.eox.at/"
     action="Access forum"
+    style="--card-dimmer-background-image: none"
   ></esa-card>
 </esa-cards>
 
