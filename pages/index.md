@@ -5,7 +5,7 @@ title: Welcome to EarthCODE
 hero:
   text: FAIR Science for Earth Action
   tagline: Create, find, and collaborate on Earth system science experiments, unlocking the full potential of Earth Observation for the benefit of society - from research to policy
-  background: /img/EarthCODE_Background-Pattern_1.jpg
+  background: https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2020/11/darmstadt_germany/22312588-1-eng-GB/Darmstadt_Germany_pillars.jpg
   image: "/img/EarthCODE_Herobanner_1920x1080.jpg"
   actions:
     - theme: cta

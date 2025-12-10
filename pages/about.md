@@ -2,7 +2,10 @@
 layout: page
 ---
 
-<section class="blue hero">
+<section
+  class="blue hero"
+  style="background-image: linear-gradient(to right, rgba(0, 50, 71, 0.9), rgba(0, 50, 71, 0.6)), url('/img/mission-vision-goal-NoTxt.jpg'); background-size: cover"
+>
 
 # About EarthCODE
 

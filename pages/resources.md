@@ -2,7 +2,10 @@
 layout: page
 ---
 
-<section class="blue hero">
+<section
+  class="blue hero"
+  style="background-image: linear-gradient(to right, rgba(0, 50, 71, 0.9), rgba(0, 50, 71, 0.6)), url('https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/earth_from_space_the_danakil_depression/26983726-1-eng-GB/Earth_from_Space_The_Danakil_Depression.jpg'); background-size: cover"
+>
 
 # Resources
 EarthCODE provides easy to follow end-to-end publication tutorials, Jupyter Notebooks, and technical documentation. Find out more about solutions for easy publication, sharing your data and workflows to align with FAIR and open science principles. Interact in the forum with a growing user community to get further support. Get started with EarthCODE training, tutorials, documentation or ask a question on the forum.

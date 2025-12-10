@@ -2,7 +2,10 @@
 layout: page
 ---
 
-<section class="blue hero">
+<section
+  class="blue hero"
+  style="background-image: linear-gradient(to right, rgba(0, 50, 71, 0.9), rgba(0, 50, 71, 0.6)), url('https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/tierra_del_fuego_by_sentinel-1d/26991490-4-eng-GB/Tierra_del_Fuego_by_Sentinel-1D.jpg'); background-size: cover"
+>
 
 # News & Events
 

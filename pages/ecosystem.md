@@ -2,7 +2,10 @@
 layout: page
 ---
 
-<section class="blue hero">
+<section
+  class="blue hero"
+  style="background-image: linear-gradient(to right, rgba(0, 50, 71, 0.9), rgba(0, 50, 71, 0.6)), url('https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/earth_from_space_singing_dunes_and_mysterious_lakes/27007707-1-eng-GB/Earth_from_Space_Singing_dunes_and_mysterious_lakes.jpg'); background-size: cover"
+>
 
 # EarthCODE's Ecosystem
 
@@ -22,9 +25,9 @@ Sign in to the EarthCODE Portal for Single Sign-On (SSO) access to all integrate
 
 <a class="VPButton cta primary" href="https://workspace.earthcode.eox.at/" target="_blank">Sign in</a><br />
 
-<img src="/img/EarthCODE_Ecosystem.png"/>
 
 </section>
+<img src="/img/EarthCODE_Ecosystem.png" style="margin: auto" />
 <section class="dark-grey">
 
 ## Explore the Open Science Catalog

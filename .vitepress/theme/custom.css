@@ -1,5 +1,10 @@
 esa-cover {
   --cover-height: auto;
+  --cover-dimmer-background-image: linear-gradient(
+    to right,
+    rgba(0, 50, 71, 0.8),
+    rgba(0, 50, 71, 0.4)
+  );
 }
 
 ol {

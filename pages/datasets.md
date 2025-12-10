@@ -1,7 +1,10 @@
 ---
 layout: page
 ---
-<section class="blue hero">
+<section
+  class="blue hero"
+  style="background-image: linear-gradient(to right, rgba(0, 50, 71, 0.9), rgba(0, 50, 71, 0.6)), url('https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/elbe_river_delta_by_sentinel-1d/26991695-2-eng-GB/Elbe_River_delta_by_Sentinel-1D.jpg'); background-size: cover"
+>
 
 # Datasets
 Explore a rich repository of novel open-access Earth System Science data, curated and shared by the community. Engage with contributing scientists, foster collaboration, and advance science by contributing and publishing your own findings.
