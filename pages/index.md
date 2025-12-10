@@ -85,7 +85,17 @@ hero:
 </esa-cards>
 
 </section>
-<section class="dark-grey">
+<section
+  class="dark-grey"
+  style="background-image: linear-gradient(to right, rgba(0, 50, 71, 0.9), rgba(0, 50, 71, 0.6)), url('https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/tierra_del_fuego_by_sentinel-1d/26991490-4-eng-GB/Tierra_del_Fuego_by_Sentinel-1D.jpg'); background-size: cover; position: relative"
+>
+<img src="/img/EarthCODE_satellite.svg" style="
+    position: absolute;
+    top: clamp(-170px, -20vw, -70px);
+    right:  0;
+    width: clamp(100px, 50vw, 324px);
+    aspect-ratio:  1;
+" />
 
 ## Latest News & Updates
 
@@ -98,7 +108,15 @@ hero:
 </div>
 
 </section>
-<section class="white">
+<section class="white" style="position: relative; overflow: hidden">
+<img src="/img/EarthCODE_globe.svg" style="
+    position: absolute;
+    top: calc(50% - clamp(50px, 150vw, 1000px) / 2);
+    left:  -25vw;
+    width: clamp(50px, 150vw, 1000px);
+    aspect-ratio:  1;
+    opacity: .25;  
+" />
   <div class="two-column">
 
   ## Subscribe to the EO Open Science Newsletter
@@ -114,8 +132,7 @@ hero:
   </div>
   </div>
 </section>
-
-<section class="dark-grey">
+<section class="dark-grey" style="background: url('https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2020/12/banks_peninsula_new_zealand/22353708-2-eng-GB/Banks_Peninsula_New_Zealand.jpg', linear-gradient(to right, rgba(0,0,0,1), rgba(0,0,0,0.4)))">
 
 ## Featured Data Products and Workflows
 Take time to discover a diverse array of scientific datasets and workflows from ESA-funded research across all Earth System Science domains. Explore these complete examples to learn how your data can become easily discoverable, citable, and fully compliant with ESA's Open Science approach. Try out the various data exploration and visualisation tools and see which of the open-source solutions is best for your project. 

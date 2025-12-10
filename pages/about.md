@@ -4,7 +4,7 @@ layout: page
 
 <section
   class="blue hero"
-  style="background-image: linear-gradient(to right, rgba(0, 50, 71, 0.9), rgba(0, 50, 71, 0.6)), url('/img/mission-vision-goal-NoTxt.jpg'); background-size: cover"
+  style="background-image: linear-gradient(to right, rgba(0, 50, 71, 0.9), rgba(0, 50, 71, 0.6)), url('/img/mission-vision-goal-NoTxt.jpg'); background-size: cover; background-position: center center"
 >
 
 # About EarthCODE
@@ -45,7 +45,15 @@ EarthCODE is ESA’s strategic initiative to bring this vision to life. Original
 Open Science is a movement to make the entire research process more accessible and reproducible, including input data, analysis methods, results, and the dissemination and reception of those results.</div>
 
 </section>
-<section class="light-grey">
+<section class="light-grey" style="position: relative; overflow: hidden">
+<img src="/img/EarthCODE_globe-brackets.svg" style="
+    position: absolute;
+    top: calc(50% - clamp(50px, 150vw, 1000px) / 2);
+    right:  -25vw;
+    width: clamp(50px, 150vw, 1000px);
+    aspect-ratio:  1;
+    opacity: .25;  
+" />
 
 ## Our Mission, Vision and Goals
 
