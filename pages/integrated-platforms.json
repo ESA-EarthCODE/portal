@@ -48,7 +48,7 @@
     "access": "https://workspace.edcv2-demo.hub-otc.eox.at/"
   },
   {
-    "icon": "https://insula.earth/assets/logo-8bbd231a.svg",
+    "icon": "/img/Insula_logo.png",
     "tag": "Platform",
     "title": "Insula",
     "description": "The Insula platform acts as a central hub, transforming complex data into meaningful, actionable insights.",
