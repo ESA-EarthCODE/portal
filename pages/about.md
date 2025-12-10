@@ -145,16 +145,9 @@ The EarthCODE platform is constantly evolving, with its roadmap regularly update
     <esa-card
       icon="<img src='https://esa-earthcode.github.io/portal-assets/partners/Lampata_cropped.png' height='40' style='max-width: 100%; object-fit: contain' />"
       title="Lampata"
-      description="Leading science community communication and deploying Pangeo for EarthCODE collaboration."
+      description="Leading science community communication and deploying a Pangeo instance for EarthCODE collaboration."
       action="Visit website"
       link="https://www.lampata.eu/"
-    ></esa-card>
-    <esa-card
-      icon="<img src='https://esa-earthcode.github.io/portal-assets/partners/PANGEO_cropped.png' height='40' style='max-width: 100%; object-fit: contain' />"
-      title="Pangeo"
-      description="Building community, guides, and bringing the Pangeo Ecosystem to power EarthCODE."
-      action="Visit website"
-      link="https://www.pangeo.io/"
     ></esa-card>
     <esa-card
       icon="<img src='https://esa-earthcode.github.io/portal-assets/partners/VITO_cropped.png' height='40' style='max-width: 100%; object-fit: contain' />"
