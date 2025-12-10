@@ -32,7 +32,7 @@
     "access": "https://dataspace.copernicus.eu/analyse/openeo"
   },
   {
-    "icon": "https://raw.githubusercontent.com/ESA-EarthCODE/portal/2052b06c4d759c17e9790a5eec9c8e74297645ae/pages/public/img/pangeo_name_logo.png",
+    "icon": "/img/pangeo_edc.png",
     "tag": "Platform",
     "title": "Pangeo stack on EDC",
     "description": "The Pangeo Community in Europe teamed up with EDC, to make the Pangeo stack available for EarthCODE users. On EDC Pangeo deployment users get access to their own Dask Gateway, Jupyter Lab, and core libraries such as xarray, dask, zarr, hvplot, and many others.",
