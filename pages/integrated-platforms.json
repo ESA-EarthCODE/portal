@@ -34,8 +34,8 @@
   {
     "icon": "https://raw.githubusercontent.com/ESA-EarthCODE/portal/2052b06c4d759c17e9790a5eec9c8e74297645ae/pages/public/img/pangeo_name_logo.png",
     "tag": "Platform",
-    "title": "Pangeo",
-    "description": "Pangeo is first and foremost a community promoting open, reproducible, and scalable science. This community provides documentation, develops and maintains software, and deploys computing infrastructure to make scientific research and programming easier",
+    "title": "Pangeo stack on EDC",
+    "description": "The Pangeo Community in Europe teamed up with EDC, to make the Pangeo stack available for EarthCODE users. On EDC Pangeo deployment users get access to their own Dask Gateway, Jupyter Lab, and core libraries such as xarray, dask, zarr, hvplot, and many others.",
     "link": "https://pangeo.io/",
     "access": "https://workspace.edcv2-demo.hub-otc.eox.at/"
   },
