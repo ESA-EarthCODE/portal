@@ -11,21 +11,13 @@ layout: page
 
 The EarthCODE ecosystem integrates tools, services, and community that support FAIR Science for Earth Action. To turn EO data into open, lasting, and impactful science, EarthCODE offers:
 
-1. **Sponsored access ESA and partner cloud computing platforms** tailored to your research goals.
-2. **FAIR Data & workflow engineering support** to complement your scientific expertise.
-3. **Persistent publication of your research outputs** with DOIs in the Open Science Catalogue.
-4. **Long-term storage & preservation of results** in ESA-managed repository.
-5. **A hub to share and find** open data & reproducible methods.
-6. **An open forum** for your science projects and communities.
-
-
 EarthCODE works in synergy with APEx, which supports the maturation of scientific developments into operational applications.
 
 Sign in to the EarthCODE Portal for Single Sign-On (SSO) access to all integrated platforms and community resources.
 
-<a class="VPButton cta primary" href="https://workspace.earthcode.eox.at/" target="_blank">Sign in</a>
+<p><a href="https://workspace.earthcode.eox.at/" target="_blank"><img src="/img/earthcode-heropage-v2.jpg" style="margin: auto" /></a></p>
 
-<p><img src="/img/earthcode-heropage-v2.jpg" style="margin: auto" /></p>
+<a class="VPButton cta primary" href="https://workspace.earthcode.eox.at/" target="_blank">Sign in</a>
 
 </section>
 
