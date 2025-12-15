@@ -9,7 +9,7 @@ layout: page
 
 # About EarthCODE
 
-EarthCODE is ESA’s strategic initiative to bring its vision of openness in EO science, applications and industry, and of a sustainable open innovation ecosystem. It integrates 1) the Open Science Catalog, making it effortless to discover novel research outcomes from ESA Science Clusters activities; 2) access to commercial platform services; and 3) a wealth of community resources and tools that help maintain data and research quality.
+EarthCODE is ESA’s strategic initiative to bring its vision of openness in EO science, applications and industry, and of a sustainable open innovation ecosystem. It integrates 1) the Open Science Catalogue, making it effortless to discover novel research outcomes from ESA Science Clusters activities; 2) access to commercial platform services; and 3) a wealth of community resources and tools that help maintain data and research quality.
 
 EarthCODE is closely related to its sister initiative APEx which aims to operationalize scientific algorithms. Where EarthCODE focuses on open data and workflows - APEx focuses on taking some of these to the next level as scalable services.
 
@@ -142,7 +142,7 @@ The EarthCODE platform is constantly evolving, with its roadmap regularly update
     <esa-card
       icon="<img src='https://esa-earthcode.github.io/portal-assets/partners/EOX_cropped.png' height='40' style='max-width: 100%; object-fit: contain' />"
       title="EOX"
-      description="Championing FAIR and Open-Science principles and bringing Euro Data Cube, Polar TEP, and the Open-Science Catalog to EarthCODE as well as developing the EarthCODE portal."
+      description="Championing FAIR and Open-Science principles and bringing Euro Data Cube, Polar TEP, and the Open Science Catalogue to EarthCODE as well as developing the EarthCODE portal."
       action="Visit website"
       link="https://eox.at/"
     ></esa-card>

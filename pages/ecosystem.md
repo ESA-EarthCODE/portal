@@ -31,7 +31,7 @@ Sign in to the EarthCODE Portal for Single Sign-On (SSO) access to all integrate
 
 <section class="dark-grey">
 
-## Explore the Open Science Catalog
+## Explore the Open Science Catalogue
 
 Publishing your research in EarthCODE makes your datasets, workflows, and results discoverable in the Open Science Catalogue, alongside other FAIR and open data from ESA-funded studies and partner initiatives, such as the [ESA-EC Earth System Science Initiative (ESSI)](https://eo4society.esa.int/wp-content/uploads/2021/07/ESSI_brochure2_210527.pdf).
 
@@ -39,7 +39,7 @@ The Catalogue is the place where scientists can discover ESA project results in 
 
 <p><a href="https://opensciencedata.esa.int" target="_blank"><img src="/img/EarthCODE_EO_science_cataloque-V3.jpg" style="margin: auto" /></a></p>
 
-<a class="VPButton cta" href="https://opensciencedata.esa.int" target="_blank">Explore Catalog</a>
+<a class="VPButton cta" href="https://opensciencedata.esa.int" target="_blank">Explore Catalogue</a>
 
 </section>
 
@@ -47,7 +47,7 @@ The Catalogue is the place where scientists can discover ESA project results in 
 
 ## Long-term Storage in ESA Repository
 
-The ESA Project Results Repository (PRR) provides long term storage of research outcomes from ESA-funded EO Projects and activities. It provides a harmonised and structured way to store research outcomes (including data, workflows, experiment, and associated documentation). Research outcomes are organised in STAC Objects (Collections), accessible via the STAC API and the Open Science Catalog Browser.
+The ESA Project Results Repository (PRR) provides long term storage of research outcomes from ESA-funded EO Projects and activities. It provides a harmonised and structured way to store research outcomes (including data, workflows, experiment, and associated documentation). Research outcomes are organised in STAC Objects (Collections), accessible via the STAC API and the Open Science Catalogue Browser.
 
 **[ESA Project results are stored in the PRR](https://esa-earthcode.github.io/tutorials/index-1/)** to ensure research outcomes are long-term preserved and accessible.
 

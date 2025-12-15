@@ -52,7 +52,7 @@ hero:
     title="Discover & reuse research"
     description="Search and filter through published science assets. Use in local or cloud environments."
     link="https://opensciencedata.esa.int/catalog"
-    action="Browse catalog"
+    action="Browse catalogue"
     style="--card-dimmer-background-image: none"
   ></esa-card>
   <esa-card

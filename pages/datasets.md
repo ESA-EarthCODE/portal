@@ -14,7 +14,7 @@ Explore a rich repository of novel open-access Earth System Science data, curate
 
 ## Publish your Datasets
 
-Contributing your datasets to EarthCODE is a straightforward way to make a significant impact on global research. By sharing your data, you help build a comprehensive resource for the scientific community, fostering collaboration and innovation. The Open Science Catalog makes it easy to publish your datasets, ensuring they adhere to FAIR and open science principles. Your contributions will be stored long-term, allowing researchers worldwide to access and build upon your work.
+Contributing your datasets to EarthCODE is a straightforward way to make a significant impact on global research. By sharing your data, you help build a comprehensive resource for the scientific community, fostering collaboration and innovation. The Open Science Catalogue makes it easy to publish your datasets, ensuring they adhere to FAIR and open science principles. Your contributions will be stored long-term, allowing researchers worldwide to access and build upon your work.
 
 </section>
 <section class="white">
