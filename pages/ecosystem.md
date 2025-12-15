@@ -23,11 +23,12 @@ EarthCODE works in synergy with APEx, which supports the maturation of scientifi
 
 Sign in to the EarthCODE Portal for Single Sign-On (SSO) access to all integrated platforms and community resources.
 
-<a class="VPButton cta primary" href="https://workspace.earthcode.eox.at/" target="_blank">Sign in</a><br />
+<a class="VPButton cta primary" href="https://workspace.earthcode.eox.at/" target="_blank">Sign in</a>
 
+<p><img src="/img/earthcode-heropage-v2.jpg" style="margin: auto" /></p>
 
 </section>
-<img src="/img/EarthCODE_Ecosystem.png" style="margin: auto" />
+
 <section class="dark-grey">
 
 ## Explore the Open Science Catalog
@@ -36,7 +37,7 @@ Publishing your research in EarthCODE makes your datasets, workflows, and result
 
 The Catalogue is the place where scientists can discover ESA project results in a machine-actionable format, openly accessible to reuse, and build upon. Results in the Catalogue are visible, citable, and connected to the network of ESA Earth Observation science.
 
-<p><iframe src="https://opensciencedata.esa.int/stac-browser/#/" style="width: 100%; height: 400px"></iframe></p>
+<p><a href="https://opensciencedata.esa.int" target="_blank"><img src="/img/EarthCODE_EO_science_cataloque-V3.jpg" style="margin: auto" /></a></p>
 
 <a class="VPButton cta" href="https://opensciencedata.esa.int" target="_blank">Explore Catalog</a>
 
