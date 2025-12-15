@@ -141,40 +141,40 @@ Take time to discover a diverse array of scientific datasets and workflows from 
   <esa-card
     tag="Dataset"
     title="WAPOSAL wave period and wave power density"
-    description="High-resolution wave power density, zero-crossing wave period, and significant wave height products obtained from S3 A/B, CryoSat-2, and SAMOSA+ retracker. The products cover the Atlantic coast of Europe, Madeira, the French Polynesian archipelagos, the Azores, the Canary Islands, the Mediterranean and Baltic Seas, and the coastal zone of French Guiana."
+    description="High-resolution wave power density, zero-crossing wave period, and significant wave height products obtained from S3 A/B, CryoSat-2, and SAMOSA+ retracker. The products cover the Atlantic coast of Europe, Madeira, the French Polynesian archipelagos, the Azores, the Canary Islands, the Mediterranean and Baltic Seas, and the coastal zone of French Guiana. <br /><br /><img src='/img/WAPOSAL_dataset_UK_av_4.jpg' />"
     link="https://opensciencedata.esa.int/products/waposal-waves/collection"
     action="Access"
   ></esa-card>
   <esa-card
     tag="Dataset"
     title="SMART-CH4 δ13C(CH₄) Source Signatures"
-    description="Monthly gridded δ13C(CH₄) isotopic signatures (‰ vs V-PDB) for five methane emission sectors: AGW, FFG, BB, NAT, WET, and their subsequent sub-sectors, at 1°×1° spatial resolution for the period 1998–2022. Available in cloud-optimised format"
+    description="Monthly gridded δ13C(CH₄) isotopic signatures (‰ vs V-PDB) for five methane emission sectors: AGW, FFG, BB, NAT, WET, and their subsequent sub-sectors, at 1°×1° spatial resolution for the period 1998–2022. Available in cloud-optimised format. <br /><br /><img src='/img/SMART_CH4_dataset_icon.png' />"
     link="https://opensciencedata.esa.int/external/s3.waw4-1.cloudferro.com/EarthCODE/Catalogs/smart-ch4-d13c/collection"
     action="Access"
   ></esa-card>
   <esa-card
     tag="Dataset"
     title="SeasFire Data Cube"
-    description="A Global Dataset for Seasonal Fire Modeling in the Earth System. Datacube contains 21 years of data (2001-2021) in a 8-days time resolution and 0.25 degrees grid resolution. Providing a diverse range of seasonal fire drivers, it expands from atmospheric and climatological ones to vegetation variables, socioeconomic and the target variables related to wildfires such as burned areas, fire radiative power, and wildfire-related CO2 emissions. <br /><br /><img src='https://extraim.eu/images/extraimlogo.png' />"
+    description="A Global Dataset for Seasonal Fire Modeling in the Earth System. Datacube contains 21 years of data (2001-2021) in a 8-days time resolution and 0.25 degrees grid resolution. Providing a diverse range of seasonal fire drivers, it expands from atmospheric and climatological ones to vegetation variables, socioeconomic and the target variables related to wildfires such as burned areas, fire radiative power, and wildfire-related CO2 emissions. <br /><br /><img src='/img/SeasFireCube_plot_wind_speed.png' />"
     link="https://opensciencedata.esa.int/products/seasfire-cube/collection"
     action="Access & Run the Example Notebook"
   ></esa-card>
   <esa-card
     title=" FAIRSenDD: FAIR workflow for Sentinel-1 based Deforestation Detection"
     tag="Workflow"
-    description="FAIR workflow for Sentinel-1-based Deforestation Detection leverages Recurrence Quantification Analysis to effectively detect forest change in a given time series for each location individually, allowing robust and scalable classifications. Discover and run the workflow locally or on the cloud. <br /><br /><img src='https://placehold.co/100x100' />"
+    description="FAIR workflow for Sentinel-1-based Deforestation Detection leverages Recurrence Quantification Analysis to effectively detect forest change in a given time series for each location individually, allowing robust and scalable classifications. Discover and run the workflow locally or on the cloud. <br /><br /><img src='/img/FairSenDD_visualisation_workflow.png' />"
     link="https://opensciencedata.esa.int/workflows/fairsendd/record"
     action="Explore & access the workflow"
   ></esa-card>
   <esa-card
     title="ESA CCI Permafrost: Combined Permafrost Dataset "
-    description="Explore how the ESA CCI Permafrost datacube was generated using DeepESDL platforms built-in tools and open source libraries. Access and execute the code in DeepESDL environment. Configuration files available as well. <br /><br /><img src='https://placehold.co/100x50' />"
+    description="Explore how the ESA CCI Permafrost datacube was generated using DeepESDL platforms built-in tools and open source libraries. Access and execute the code in DeepESDL environment. Configuration files available as well. <br /><br /><img src='/img/ECA_CCI_permafrost_cube_DeepESDL.png' />"
     link="https://opensciencedata.esa.int/experiments/esa-cci-permafrost/record"
     action="Explore & run experiment on DeepESDL"
   ></esa-card>
     <esa-card
     title="ESA-EarthCODE Antarctica InSync Dashboard"
-    description="Interactive visualization built with EarthCODE tools to support Antarctica International Science & Infrastructure for Synchronous Observation initiative. Easy access to scientific Antarctica data in cloud-optimised format, made ready for being explored! <br /><br /><img src='https://placehold.co/200x100' />"
+    description="Interactive visualization built with EarthCODE tools to support Antarctica International Science & Infrastructure for Synchronous Observation initiative. Easy access to scientific Antarctica data in cloud-optimised format, made ready for being explored! <br /><br /><img src='/img/Antarctica_In_Sync_visualisation.jpeg' />"
     link="https://esa-earthcode.github.io/polar-science-cluster-dashboard/"
     action="Explore the dashboard"
   ></esa-card>
