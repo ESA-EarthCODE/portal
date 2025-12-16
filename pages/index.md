@@ -104,7 +104,7 @@ hero:
 />
 <br />
 <div>
-  <a class="VPButton cta" href="/blog">More blog posts</a>
+  <a class="VPButton cta" href="/blog">SEE MORE NEWS...</a>
 </div>
 
 </section>
