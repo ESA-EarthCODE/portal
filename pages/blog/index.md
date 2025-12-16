@@ -4,6 +4,6 @@ layout: page
 
 <section class="blue hero">
 
-  # Blog Posts
+  # All News
   <BlogGallery />
 </section>
