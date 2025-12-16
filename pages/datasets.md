@@ -96,6 +96,7 @@ Take time to discover a diverse array of datasets shared by researchers across a
     action="Explore the dashboard"
   ></esa-card>
 </esa-cards>
+<br />
 
 <a class="VPButton cta primary" href="https://opensciencedata.esa.int/catalog">Browse catalogue</a>
 
