@@ -77,7 +77,7 @@ The EarthCODE platform is constantly evolving, with its roadmap regularly update
 <esa-cards carousel>
   <esa-card
     compact
-    overline="Year 1"
+    overline="2024"
     image="data:image/svg+xml,%3Csvg width='800' height='600' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='800' height='600' fill='%230b1d26' /%3E%3C/svg%3E"
     tag="Ongoing"
     tag-color="#0091C6"
@@ -87,7 +87,7 @@ The EarthCODE platform is constantly evolving, with its roadmap regularly update
   ></esa-card>
     <esa-card
     compact
-    overline="Year 2"
+    overline="2025"
     image="data:image/svg+xml,%3Csvg width='800' height='600' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='800' height='600' fill='%230b1d26' /%3E%3C/svg%3E"
     tag="Coming Up"
     tag-color="#55869E"
@@ -97,7 +97,7 @@ The EarthCODE platform is constantly evolving, with its roadmap regularly update
   ></esa-card>
     <esa-card
     compact
-    overline="Year 2+"
+    overline="2025+"
     image="data:image/svg+xml,%3Csvg width='800' height='600' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='800' height='600' fill='%230b1d26' /%3E%3C/svg%3E"
     tag="Coming Up"
     tag-color="#55869E"
@@ -107,7 +107,7 @@ The EarthCODE platform is constantly evolving, with its roadmap regularly update
   ></esa-card>
     <esa-card
     compact
-    overline="Year 3+"
+    overline="2026+"
     image="data:image/svg+xml,%3Csvg width='800' height='600' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='800' height='600' fill='%230b1d26' /%3E%3C/svg%3E"
     tag="Coming Up"
     tag-color="#55869E"
@@ -117,7 +117,7 @@ The EarthCODE platform is constantly evolving, with its roadmap regularly update
   ></esa-card>
     <esa-card
     compact
-    overline="Year 4+"
+    overline="2027+"
     image="data:image/svg+xml,%3Csvg width='800' height='600' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='800' height='600' fill='%230b1d26' /%3E%3C/svg%3E"
     tag="Coming Up"
     tag-color="#55869E"
