@@ -60,7 +60,7 @@ hero:
     no-dimmer
     title="Run workflows on integrated platforms"
     description="Seamless access to cloud computing platforms, providing access to EO data and environment to run scientific experiments. No previous setup needed."
-    link="/ecosystem"
+    link="/ecosystem/#accessible-computation"
     action="Find platform"
     style="--card-dimmer-background-image: none"
   ></esa-card>

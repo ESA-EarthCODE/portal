@@ -48,6 +48,7 @@ The ESA Project Results Repository (PRR) provides long term storage of research 
 
 </section>
 
+<a id="accessible-computation" style="visibility: hidden; position: relative"></a>
 <section class="white">
 
 ## Accessible Computation - ESA and Partner Cloud Computing Platforms
