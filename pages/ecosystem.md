@@ -17,15 +17,16 @@ Sign in to the EarthCODE Portal for access to tools, services, and community res
 
 </section>
 
-<section class="dark-grey">
+<section
+  class="dark-grey"
+  style="background-image: linear-gradient(to right, rgba(0, 50, 71, 0.9), rgba(0, 50, 71, 0.6)), url('/img/EarthCODE_EO_science_cataloque-NoTxt.jpg'); background-size: cover; position: relative"
+>
 
 ## Explore the Open Science Catalogue
 
 Publishing your research in EarthCODE makes your datasets, workflows, and results discoverable in the Open Science Catalogue, alongside other FAIR and open data from ESA-funded studies and partner initiatives, such as the [ESA-EC Earth System Science Initiative (ESSI)](https://eo4society.esa.int/wp-content/uploads/2021/07/ESSI_brochure2_210527.pdf).
 
 The Catalogue is the place where scientists can discover ESA project results in a machine-actionable format, openly accessible to reuse, and build upon. Results in the Catalogue are visible, citable, and connected to the network of ESA Earth Observation science.
-
-<p><a href="https://opensciencedata.esa.int" target="_blank"><img src="/img/EarthCODE_EO_science_cataloque-V3.jpg" style="margin: auto" /></a></p>
 
 <a class="VPButton cta" href="https://opensciencedata.esa.int" target="_blank">Explore Catalogue</a>
 
