@@ -9,11 +9,7 @@ layout: page
 
 # EarthCODE's Ecosystem
 
-The EarthCODE ecosystem integrates tools, services, and community that support FAIR Science for Earth Action. To turn EO data into open, lasting, and impactful science, EarthCODE offers:
-
-EarthCODE works in synergy with APEx, which supports the maturation of scientific developments into operational applications.
-
-Sign in to the EarthCODE Portal for Single Sign-On (SSO) access to all integrated platforms and community resources.
+Sign in to the EarthCODE Portal for access to tools, services, and community resources that transform EO data into FAIR Science for Earth Action. EarthCODE works in synnergy with [APEx](https://apex.esa.int/), which supports the maturation of scientific developments into operational applications.
 
 <p><a href="https://workspace.earthcode.eox.at/" target="_blank"><img src="/img/earthcode-heropage-v2.jpg" style="margin: auto" /></a></p>
 
