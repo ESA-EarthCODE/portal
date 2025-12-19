@@ -11,7 +11,7 @@ layout: page
 
 EarthCODE is ESA’s strategic initiative to bring its vision of openness in EO science, applications and industry, and of a sustainable open innovation ecosystem. It integrates 1) the Open Science Catalogue, making it effortless to discover novel research outcomes from ESA Science Clusters activities; 2) access to commercial platform services; and 3) a wealth of community resources and tools that help maintain data and research quality.
 
-EarthCODE is closely related to its sister initiative APEx which aims to operationalize scientific algorithms. Where EarthCODE focuses on open data and workflows - APEx focuses on taking some of these to the next level as scalable services.
+EarthCODE is closely related to its sister initiative [APEx](https://apex.esa.int/) which aims to operationalize scientific algorithms. Where EarthCODE focuses on open data and workflows - APEx focuses on taking some of these to the next level as scalable services.
 
 Together these initiatives drive ESA’s efforts on Earth Action - the actionable use of Earth Observation data for the benefit of society - from research to policy.
 
