@@ -79,7 +79,7 @@ The EarthCODE platform is constantly evolving, with its roadmap regularly update
     compact
     overline="2024"
     image="data:image/svg+xml,%3Csvg width='800' height='600' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='800' height='600' fill='%230b1d26' /%3E%3C/svg%3E"
-    tag="Ongoing"
+    tag="Completed"
     tag-color="#0091C6"
     title="Foundational Development"
     description='<h4 style="display: flex;align-items:center;gap:12px"><svg width="18" height="18" viewBox="0 0 20 23" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9.81333 2.83341L10.3467 5.50008H17.3333V13.5001H12.8533L12.32 10.8334H2.66667V2.83341H9.81333ZM12 0.166748H0V22.8334H2.66667V13.5001H10.1333L10.6667 16.1667H20V2.83341H12.5333L12 0.166748Z" fill="#434C51"/></svg> OBJECTIVE:</h4><p>Establish core architecture and user-centric design</p>
@@ -89,7 +89,7 @@ The EarthCODE platform is constantly evolving, with its roadmap regularly update
     compact
     overline="2025"
     image="data:image/svg+xml,%3Csvg width='800' height='600' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='800' height='600' fill='%230b1d26' /%3E%3C/svg%3E"
-    tag="Coming Up"
+    tag="Ongoing"
     tag-color="#55869E"
     title="Initial Platform Deployment"
     description='<h4 style="display: flex;align-items:center;gap:12px"><svg width="18" height="18" viewBox="0 0 20 23" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9.81333 2.83341L10.3467 5.50008H17.3333V13.5001H12.8533L12.32 10.8334H2.66667V2.83341H9.81333ZM12 0.166748H0V22.8334H2.66667V13.5001H10.1333L10.6667 16.1667H20V2.83341H12.5333L12 0.166748Z" fill="#434C51"/></svg> OBJECTIVE:</h4><p>Deploy an MVP (minimum viable product) to selected users</p>
