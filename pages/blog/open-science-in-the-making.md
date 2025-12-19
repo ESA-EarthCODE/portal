@@ -1,7 +1,7 @@
 ---
 date: 2025-05-26
 title:  Open Science in the Making @LPS 2025
-image: https://github.com/ESA-EarthCODE/portal/blob/staging/pages/blog/EarthCODE_OSIM_blog.jpg?raw=true
+image: https://esa-earthcode.github.io/portal-assets/blog/EarthCODE_OSIM_blog.jpg
 feature: true
 ---
 
