@@ -2,6 +2,7 @@
 date: 2024-12-01
 title: User Survey
 image: "/img/EarthCODE_Herobanner_1920x1080_nologo.jpg"
+feature: true
 ---
 
 # User Survey <!--{ as="img" mode="hero" src="/img/EarthCODE_Herobanner_1920x1080_nologo.jpg" }-->

@@ -1,0 +1,66 @@
+[
+  {
+    "icon": "https://hub-brands.eox.at/eurodatacube/EDC_logo_blue.svg",
+    "tag": "Platform",
+    "title": "Euro Data Cube",
+    "description": "One-stop-shop for browsing, analysis and processing of EO data, from source up to the final product. A combination of several services: harness the power of the data cube, access and analyse all the most important Earth Observation data in one application <br /><br /><img src='/img/jupyterlab.svg' height='40' style='max-width: 100%; object-fit: contain' />",
+    "link": "https://eurodatacube.com",
+    "access": "https://eurodatacube.hub.eox.at/"
+  },
+  {
+    "icon": "https://cockpit.hub.eox.at//storage/uploads/2022/04/25/626656b44601dpolartep.png",
+    "tag": "Platform",
+    "title": "Polar TEP",
+    "description": "The Polar Thematic Exploitation Platform (Polar TEP) provides a complete working environment where users can access algorithms and data remotely, obtain computing resources and tools that they might not otherwise have, and avoid the need to download and manage large volumes of data. <br /><br /><img src='/img/jupyterlab.svg' height='40' style='max-width: 100%; object-fit: contain' />",
+    "link": "https://polartep.polarview.org/",
+    "access": "https://polartep.hub.eox.at/"
+  },
+  {
+    "icon": "https://hub-brands.eox.at/earthsystemdatalab/cube_text_logo_v3.png",
+    "tag": "Platform",
+    "title": "DeepESDL",
+    "description": "Virtual laboratory providing data, tools, and computational resources to efficiently implement comprehensive processing workflows for Earth System data. <br /><br /><img src='/img/jupyterlab.svg' height='40' style='max-width: 100%; object-fit: contain' />",
+    "link": "https://earthsystemdatalab.net/",
+    "access": "https://deep.earthsystemdatalab.net/"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/ESA-EarthCODE/portal/206dbaf9e44ce6cf791c22658332bb0ececc4e49/pages/public/img/cdse_openeo.jpg",
+    "tag": "Platform",
+    "title": "CDSE OpenEO",
+    "description": "Standardised interfaces for easy access and processing of Earth observation data. With its versatile tools, you can effortlessly create new workflows or integrate them into existing ones. Discover how to unleash the full potential of Earth observation data with minimal code and maximum efficiency. <br /><br /><img src='https://openeo.org/images/openeo_navbar_logo.png' height='40' style='max-width: 100%; object-fit: contain' />",
+    "link": "https://dataspace.copernicus.eu/analyse/openeo",
+    "access": "https://dataspace.copernicus.eu/analyse/openeo"
+  },
+  {
+    "icon": "/img/pangeo_edc.png",
+    "tag": "Platform",
+    "title": "Pangeo stack on EDC",
+    "description": "The Pangeo Community in Europe teamed up with EDC, to make the Pangeo stack available for EarthCODE users. On EDC Pangeo deployment users get access to their own Dask Gateway, Jupyter Lab, and core libraries such as xarray, dask, zarr, hvplot, and many others.",
+    "link": "https://pangeo.io/",
+    "access": "https://workspace.edcv2-demo.hub-otc.eox.at/"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/ESA-EarthCODE/portal/2052b06c4d759c17e9790a5eec9c8e74297645ae/pages/public/img/CoCalc_logo.png",
+    "tag": "Platform",
+    "title": "CoCalc",
+    "description": "Real-time collaboration for Jupyter Notebooks, Linux Terminals, LaTeX, VS Code, R IDE, and more, all in one place. Commercial Alternative to JupyterHub",
+    "link": "https://cocalc.com/",
+    "access": "https://workspace.edcv2-demo.hub-otc.eox.at/"
+  },
+  {
+    "icon": "/img/Insula_logo.png",
+    "tag": "Platform",
+    "title": "Insula",
+    "description": "The Insula platform acts as a central hub, transforming complex data into meaningful, actionable insights.",
+    "link": "https://insula.earth/",
+    "access": "https://insula.earth/"
+  },
+  {
+    "icon": "https://geohazards-tep.eu/styles/img/logo-geohazard-by-terradue.png",
+    "tag": "Platform",
+    "title": "Geohazards TEP",
+    "description": "The Geohazards Exploitation Platform (GEP) is a cloud-based Earth Observation platform tailored for geohazard monitoring, terrain motion analysis, and critical infrastructure assessment. Operated by Terradue and funded by the European Space Agency, GEP hosts a wide range of processing services that empower users to transform EO data into actionable insights for science, operations, and disaster response.",
+    "link": "https://geohazards-tep.eu/",
+    "access": "https://geohazards-tep.eu/"
+  }
+]

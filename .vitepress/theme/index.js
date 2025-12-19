@@ -1,7 +1,6 @@
 import ESA from "@eox/pages-theme-esa";
-import Layout from "./Layout.vue";
+import "./custom.css";
 
 export default {
   extends: ESA,
-  Layout,
 };

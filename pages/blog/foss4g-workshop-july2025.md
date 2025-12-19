@@ -1,10 +1,11 @@
 ---
 date: 2025-03-10
 title:  EarthCODE Workshop at FOSS4G 2025 14th/15th of July 
-image: https://raw.githubusercontent.com/ESA-EarthCODE/portal-assets/refs/heads/main/blog/foss4g25-logo.png
+image: https://esa-earthcode.github.io/portal-assets/blog/foss4g25-logo.png
+feature: true
 ---
 
-# EarthCODE Workshop at FOSS4G 2025 14th/15th of July 2025 <!--{ as="img" mode="hero" src="/img/EarthCODE_Herobanner_1920x1080_nologo.jpg" }-->
+# EarthCODE Workshop at FOSS4G 2025 14th/15th of July 2025 <!--{ as="img" mode="hero" src="https://esa-earthcode.github.io/portal-assets/blog/foss4g25-logo.png" }-->
 ### EarthCODE is set to take the stage at FOSS4G 2025 with an interactive workshop! 
 
 ## EarthCODE Workshop at FOSS4G 2025 14th/15th of July 2025

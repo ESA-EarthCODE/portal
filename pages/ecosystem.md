@@ -1,0 +1,116 @@
+---
+layout: page
+---
+
+<section
+  class="blue hero"
+  style="background-image: linear-gradient(to right, rgba(0, 50, 71, 0.9), rgba(0, 50, 71, 0.6)), url('https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/earth_from_space_singing_dunes_and_mysterious_lakes/27007707-1-eng-GB/Earth_from_Space_Singing_dunes_and_mysterious_lakes.jpg'); background-size: cover"
+>
+
+# EarthCODE's Ecosystem
+
+Sign in to Your Workspace to access all resources provided by the EarthCODE Ecosystem, empowering you to transform EO data into FAIR Science for Earth Action.
+
+<p><a href="https://workspace.earthcode.eox.at/" target="_blank"><img src="/img/earthcode-infographic-pillars.jpg" style="margin: auto; width: 100%; opacity:0.8; margin-left: 0;" /></a></p>
+
+<a class="VPButton cta primary" href="https://workspace.earthcode.eox.at/" target="_blank">Sign in</a>
+
+</section>
+
+<section
+  class="dark-grey"
+  style="background-image: linear-gradient(to right, rgba(0, 50, 71, 0.9), rgba(0, 50, 71, 0.6)), url('/img/EarthCODE_EO_science_cataloque-NoTxt.jpg'); background-size: cover; position: relative"
+>
+
+## Explore the Open Science Catalogue
+
+Publishing your research in EarthCODE makes your datasets, workflows, and results discoverable in the Open Science Catalogue, alongside other FAIR and open data from ESA-funded studies and partner initiatives, such as the [ESA-EC Earth System Science Initiative (ESSI)](https://eo4society.esa.int/wp-content/uploads/2021/07/ESSI_brochure2_210527.pdf).
+
+The Catalogue is the place where scientists can discover ESA project results in a machine-actionable format, openly accessible to reuse, and build upon. Results in the Catalogue are visible, citable, and connected to the network of ESA Earth Observation science.
+
+<a class="VPButton cta" href="https://opensciencedata.esa.int" target="_blank">Explore Catalogue</a>
+
+</section>
+
+<section class="light-grey">
+
+## Long-term Storage in ESA Repository
+
+The ESA Project Results Repository (PRR) provides long term storage of research outcomes from ESA-funded EO Projects and activities. It provides a harmonised and structured way to store research outcomes (including data, workflows, experiment, and associated documentation). Research outcomes are organised in STAC Objects (Collections), accessible via the STAC API and the Open Science Catalogue Browser.
+
+**[ESA Project results are stored in the PRR](https://esa-earthcode.github.io/tutorials/index-1/)** to ensure research outcomes are long-term preserved and accessible.
+
+
+<a class="VPButton cta primary" href="https://eoresults.esa.int/browser/#/external/eoresults.esa.int/stac">Explore PRR Collections</a>
+
+</section>
+
+<a id="accessible-computation" style="visibility: hidden; position: relative"></a>
+<section class="white">
+
+## Accessible Computation - ESA and Partner Cloud Computing Platforms
+
+EarthCODE offers accessible computation resources for Earth Science. Thematic and generic cloud computing platforms from ESA and partnering initiatives are integrated in the EarthCODE federation, offering tailored and powerful development environments, access to EO data collections, and AI capabilities. Scientific projects can request sponsorship to utilize these resources from ESA's [Network of Resources](https://nor-discover.org/).
+
+Integrated platforms are accessible via <a href="https://workspace.earthcode.eox.at/" target="_blank">Single Sign On (SSO)</a>.
+
+Browse the [Documentation](https://esa-earthcode.github.io/documentation/Integrating%20New%20Platforms%20to%20EarthCODE/) to learn more about joining the EarthCODE initiative as a Platform Provider. 
+
+<esa-cards>
+  <esa-card
+    v-for="platform in platforms"
+    :icon="`<img src='${platform.icon}' height='40' style='max-width: 100%; object-fit: contain' />`"
+    tag="Platform"
+    :title="platform.title"
+    :description="platform.description"
+    :link="platform.access"
+    action="Access"
+  ></esa-card>
+</esa-cards>
+</section>
+
+<section class="light-grey">
+
+## Benefits of Computational Research at EarthCODE 
+
+Working on an EarthCODE integrated platform not only gives you the flexibility of scaling-up resources to fit your project's needs, but also ensures that your project's results will be FAIR (Findable, Accessible, Interoperable and Reusable) and published in EarthCODE for long-term accessibility. 
+
+  <esa-cards>
+    <esa-card
+      icon='<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M19.9987 3.33337C10.7987 3.33337 3.33203 10.8 3.33203 20C3.33203 29.2 10.7987 36.6667 19.9987 36.6667C29.1987 36.6667 36.6654 29.2 36.6654 20C36.6654 10.8 29.1987 3.33337 19.9987 3.33337ZM19.9987 33.3334C12.6487 33.3334 6.66536 27.35 6.66536 20C6.66536 12.65 12.6487 6.66671 19.9987 6.66671C27.3487 6.66671 33.332 12.65 33.332 20C33.332 27.35 27.3487 33.3334 19.9987 33.3334ZM27.6487 12.6334L16.6654 23.6167L12.3487 19.3167L9.9987 21.6667L16.6654 28.3334L29.9987 15L27.6487 12.6334Z" fill="green"/></svg>'
+      title="Scalable Processing"
+      description="The EarthCODE federation integrates state-of-the-art cloud computing environments with access to large EO mission data collections from ESA, Copernicus, NASA and beyond, offering versatile, scalable and powerful computing resources for your Earth science research."
+    ></esa-card>
+    <esa-card
+      icon='<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M19.9987 3.33337C10.7987 3.33337 3.33203 10.8 3.33203 20C3.33203 29.2 10.7987 36.6667 19.9987 36.6667C29.1987 36.6667 36.6654 29.2 36.6654 20C36.6654 10.8 29.1987 3.33337 19.9987 3.33337ZM19.9987 33.3334C12.6487 33.3334 6.66536 27.35 6.66536 20C6.66536 12.65 12.6487 6.66671 19.9987 6.66671C27.3487 6.66671 33.332 12.65 33.332 20C33.332 27.35 27.3487 33.3334 19.9987 33.3334ZM27.6487 12.6334L16.6654 23.6167L12.3487 19.3167L9.9987 21.6667L16.6654 28.3334L29.9987 15L27.6487 12.6334Z" fill="green"/></svg>'
+      title="Data & Workflow Engineering Services"
+      description='EarthCODE integrated platforms offer data and workflow engineering services to support your science team adhere to <a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR</a> and <a href="https://esa-earthcode.github.io/documentation/Community%20and%20Best%20Practices/FAIR%20and%20Open%20Science%20Best%20Practices/" target="_blank">open science</a> principles and ensure the results are publication-ready. Achieve more with less effort.'
+    ></esa-card>
+    <esa-card
+      icon='<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M19.9987 3.33337C10.7987 3.33337 3.33203 10.8 3.33203 20C3.33203 29.2 10.7987 36.6667 19.9987 36.6667C29.1987 36.6667 36.6654 29.2 36.6654 20C36.6654 10.8 29.1987 3.33337 19.9987 3.33337ZM19.9987 33.3334C12.6487 33.3334 6.66536 27.35 6.66536 20C6.66536 12.65 12.6487 6.66671 19.9987 6.66671C27.3487 6.66671 33.332 12.65 33.332 20C33.332 27.35 27.3487 33.3334 19.9987 33.3334ZM27.6487 12.6334L16.6654 23.6167L12.3487 19.3167L9.9987 21.6667L16.6654 28.3334L29.9987 15L27.6487 12.6334Z" fill="green"/></svg>'
+      title="Find, Reuse, Collaborate"
+      description="Effortlessly find and reuse earth science data in the Open Science Catalogue. Execute the workflows on integrated platforms, download or work with the data in the cloud, share your own research results and collaborate on with a vibrant community of EO scientists."
+    ></esa-card>
+    <esa-card
+      icon='<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M19.9987 3.33337C10.7987 3.33337 3.33203 10.8 3.33203 20C3.33203 29.2 10.7987 36.6667 19.9987 36.6667C29.1987 36.6667 36.6654 29.2 36.6654 20C36.6654 10.8 29.1987 3.33337 19.9987 3.33337ZM19.9987 33.3334C12.6487 33.3334 6.66536 27.35 6.66536 20C6.66536 12.65 12.6487 6.66671 19.9987 6.66671C27.3487 6.66671 33.332 12.65 33.332 20C33.332 27.35 27.3487 33.3334 19.9987 33.3334ZM27.6487 12.6334L16.6654 23.6167L12.3487 19.3167L9.9987 21.6667L16.6654 28.3334L29.9987 15L27.6487 12.6334Z" fill="green"/></svg>'
+      title="NoR Sponsorship"
+      description="For scientific projects, ESA offers sponsored access to use the EarthCODE integrated platforms services. This includes access to computational resources, Earth Observation data collections, Artificial Intelligence capabilities, and much more, so that researchers can focus on their scientific research without having to set up their development environment."
+    ></esa-card>
+  </esa-cards>
+</section>
+
+<section class="white">
+
+## EarthCODE Forum
+
+**Connect with researchers, share insights, and collaborate on data and workflows.** EarthCODE is building a collaborative community for Earth System Science, driven by FAIR and Open Science principles.
+
+<a class="VPButton primary cta no-icon" href="https://discourse-earthcode.eox.at/">Visit Forum</a>
+
+</section>
+
+<script setup>
+  import { ref } from "vue";
+  import platformsJson from "./integrated-platforms.json" with {type: "json"};
+  const platforms = ref(platformsJson)
+</script>

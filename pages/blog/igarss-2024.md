@@ -2,6 +2,7 @@
 date: 2024-07-12
 title: EarthCODE at IGARSS 2024
 image: /img/EarthCODE_Herobanner_1920x1080_nologo.jpg
+feature: true
 ---
 
 # EarthCODE at IGARSS 2024 <!--{ as="img" mode="hero" src="/img/EarthCODE_Herobanner_1920x1080_nologo.jpg" }-->
