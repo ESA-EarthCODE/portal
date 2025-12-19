@@ -1,10 +1,13 @@
 ---
 layout: page
 ---
-<section class="blue hero">
+<section
+  class="blue hero"
+  style="background-image: linear-gradient(to right, rgba(0, 50, 71, 0.9), rgba(0, 50, 71, 0.6)), url('https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/earth_from_space_likouala-aux-herbes_river_congo/26940922-1-eng-GB/Earth_from_space_Likouala-Aux-Herbes_river_Congo.jpg'); background-size: cover"
+>
 
 # Workflows
-Publishing your code and algorithms shouldn’t be hard!​ EarthCODE makes it easy - you just have to submit basic information and the platform catalogues your workflow.
+Publishing your code and algorithms shouldn’t be hard! EarthCODE makes it easy - you just have to submit basic information and the platform catalogues your workflow.
 
 </section>
 <section class="white">

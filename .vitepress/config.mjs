@@ -9,8 +9,8 @@ export default {
   themeConfig: {
     nav: [
       {
-        link: "/about",
-        text: "About",
+        link: "/ecosystem",
+        text: "Ecosystem",
       },
       {
         link: "/resources",
@@ -21,22 +21,21 @@ export default {
         text: "Community",
       },
       {
-        link: "https://esa-earthcode.github.io/documentation/",
-        text: "Documentation",
+        link: "/news-events",
+        text: "News & Events",
       },
       {
-        link: "https://esa-earthcode.github.io/examples/",
-        text: "Examples",
-      },
-      {
-        link: "/blog",
-        text: "Blog",
-      },
-      {
-        link: "/contact",
-        text: "Contact",
+        link: "/about",
+        text: "About",
       },
     ],
+    login: "https://workspace.earthcode.eox.at/",
+    footer: {
+      title: "Get in touch",
+      description:
+        "Join ESA's initiative to ensure long-term preservation and accessibility of research data, code, and documentation for a global scientific community.",
+      contact: "mailto:earth-code@esa.int",
+    },
   },
   head: [
     ["link", { rel: "icon", href: "/img/EarthCODE_Favicon_32x32px.png" }],

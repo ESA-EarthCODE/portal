@@ -2,6 +2,7 @@
 date: 2025-05-14
 title: Open Science at the Living Planet Symposium 2025
 image: https://esa-earthcode.github.io/portal-assets/blog/Living_Planet_Symposium_2025_pillars-4170729331.jpg
+feature: true
 ---
 
 # Open Science at the Living Planet Symposium 2025 <!--{ as="img" mode="hero" src="https://esa-earthcode.github.io/portal-assets/blog/Living_Planet_Symposium_2025_pillars-4170729331.jpg" }-->
@@ -25,7 +26,7 @@ Here are the most relevant sessions to follow:
 
 Spots are limited and will be allocated on a first-come, first-served basis. We recommend booking early to secure your slot. If you have questions or need any clarifications, leave a comment on the EarthCODE Discourse Forum [topic for the event](https://discourse-earthcode.eox.at/t/publish-your-project-s-data-at-lps-2025/80)
 
-The Open Science in the Making [Programme is available here](https://earthcode.esa.int/blog/open-science-in-the-making).
+The Open Science in the Making [Programme is available here](open-science-in-the-making).
   
 ## Technical Sessions
 

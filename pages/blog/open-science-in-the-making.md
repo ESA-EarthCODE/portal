@@ -2,9 +2,11 @@
 date: 2025-05-26
 title:  Open Science in the Making @LPS 2025
 image: https://github.com/ESA-EarthCODE/portal/blob/staging/pages/blog/EarthCODE_OSIM_blog.jpg?raw=true
+feature: true
 ---
 
-# Open Science in the Making @LPS 2025 23-27 June 2025 <!--{ as="img" mode="hero" src="/img/EarthCODE_Herobanner_1920x1080_nologo.jpg" }-->
+# Open Science in the Making @LPS 2025 23-27 June 2025 <!--{ as="img" mode="hero" src="https://esa-earthcode.github.io/portal-assets/blog/EarthCODE_OSIM_blog.jpg" }-->
+
 ### Open Science is made LIVE at LPS 2025! 
 
 ## Open Science in the Making @LPS 2025 23-27 June 2025
@@ -40,5 +42,5 @@ Each day features focused activities and live engagement opportunities. Find you
 ## 🤝 Participating Initiatives
 
 <p align="center">
-  <img src="https://github.com/ESA-EarthCODE/portal/blob/staging/pages/blog/Visual-logos.jpg?raw=true" width="600">
+  <img src="https://esa-earthcode.github.io/portal-assets/blog/Visual-logos.jpg" width="600">
 </p>

@@ -1,12 +1,13 @@
 ---
 date: 2024-11-27
-title: Hydrology science cluster meeting  25-27 November 2024
+title: Hydrology science cluster meeting 25-27 November 2024
 image: https://esa-earthcode.github.io/portal-assets/blog/Hydrology-Science-cluster-KV.jpg
+feature: true
 ---
 
-# EarthCODE at ESA Hydrology Science Cluster meeting  25-27 November 2024 <!--{ as="img" mode="hero" src="https://esa-earthcode.github.io/portal-assets/blog/Hydrology-Science-cluster-KV.jpg" }-->
+# EarthCODE at ESA Hydrology Science Cluster meeting 25-27 November 2024 <!--{ as="img" mode="hero" src="https://esa-earthcode.github.io/portal-assets/blog/Hydrology-Science-cluster-KV.jpg" }-->
 
-## Hydrology science cluster meeting  25-27 November 2024
+## Hydrology science cluster meeting 25-27 November 2024
 *Published: 27/11/2024*
 
 EarthCODE team has started engagement with key project's stakeholders. Recent **Hydrology Science Cluster Meeting** held at ESA/ESRIN in Frascati, created an opportunity to introduce ESA Open Science Initiatives to several ESA and EC-funded projects participated in the workshop. This meeting provided a unique opportunity to present, project's latest research, discuss challenges, and explore synergies.  
@@ -22,7 +23,6 @@ Real use case examples of how the platform is being used by the projects (e.g. *
 <img src="https://esa-earthcode.github.io/portal-assets/blog/Hydrology_Cluster_Meeting_2.jpg" alt="Image" width="400" style="display:inline-block; margin-right:10px;">
 <br>
 
-
 ## Follow-up
 As a follow-up to the meeting, user-survey to dedicated EarthCODE users and early adopters has been launched. One-to-one interviews with the project managers are also in the pipeline at the beginning of the next year (2025). 
 
@@ -33,5 +33,3 @@ Would you like to contribute to growing EarthCODE community? Leave us your feedb
 
 ### More information 
 Visit eo4society website to learn more about ESA Hydrology Science Cluster [here](https://eo4society.esa.int/communities/scientists/esa-hydrology-science-cluster/)  
-
-        
