@@ -7,7 +7,7 @@ hero:
   tagline: Create, find, and collaborate on Earth system science experiments, unlocking the full potential of Earth Observation for the benefit of society - from research to policy
   background: /img/earthcode-infographic-pillars-Nologo.jpg
   image: "/img/earthcode-infographic-pillars.jpg"
-  image_style: "opacity:0.8;"
+  image_style: "opacity:0.6;"
   actions:
     - theme: cta
       text: Get started
