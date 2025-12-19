@@ -9,9 +9,9 @@ layout: page
 
 # EarthCODE's Ecosystem
 
-Sign in to the EarthCODE Portal for access to tools, services, and community resources that transform EO data into FAIR Science for Earth Action. EarthCODE works in synergy with [APEx](https://apex.esa.int/), which supports the maturation of scientific developments into operational applications.
+Sign in to Your Workspace to access all resources provided by the EarthCODE Ecosystem, empowering you to transform EO data into FAIR Science for Earth Action.
 
-<p><a href="https://workspace.earthcode.eox.at/" target="_blank"><img src="/img/earthcode-infographic-pillars.jpg" style="margin: auto; max-width: 800px; width: 100%; margin-left: 0;" /></a></p>
+<p><a href="https://workspace.earthcode.eox.at/" target="_blank"><img src="/img/earthcode-infographic-pillars.jpg" style="margin: auto; max-width: 1000px; width: 100%; opacity:0.8; margin-left: 0;" /></a></p>
 
 <a class="VPButton cta primary" href="https://workspace.earthcode.eox.at/" target="_blank">Sign in</a>
 
