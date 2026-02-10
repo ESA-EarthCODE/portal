@@ -1,6 +1,6 @@
 ---
 date: 2026-02-02
-title: Webinar: Creating scalable EO workflows with CDSE, EarthCODE, and APEx 2026 26/02
+title: Webinar - Creating scalable EO workflows with CDSE, EarthCODE, and APEx 2026 26/02
 image: /img/EarthCODE_Herobanner_1920x1080_nologo.jpg
 feature: true
 ---
