@@ -5,9 +5,10 @@ image: /img/EarthCODE_Herobanner_1920x1080_nologo.jpg
 feature: true
 ---
 
-# Webinar 2026/02/26 <!--{ as="img" mode="hero" src="/img/EarthCODE_Herobanner_1920x1080_nologo.jpg" }-->
-### Creating scalable EO workflows with CDSE, EarthCODE, and APEx 
+# Webinar 26/02/2026 <!--{ as="img" mode="hero" src="/img/EarthCODE_Herobanner_1920x1080_nologo.jpg" }-->
+### Creating scalable EO workflows with CDSE, EarthCODE, and APEx
 
+## Webinar 26/02/2026
 *Published: 02/02/2026*
 
 ### Creating scalable EO workflows with CDSE, EarthCODE, and APEx
@@ -18,7 +19,6 @@ Join us for the CDSE webinar on 26 February 2026 at 14:00 CET to discover how CD
 
 ---
 
-
 In this webinar, you will learn:
 
 - What EarthCODE and APEx are, and how they link to CDSE
@@ -27,4 +27,3 @@ In this webinar, you will learn:
 - What opportunities these combined approaches unlock for EO developers and service providers
 
 Read more and register via the [event web page](https://events.teams.microsoft.com/event/88405597-f018-4ae4-9b14-c9559bb81776@3382126a-a367-4d61-a0b7-fba907d8fe5c).
- 
