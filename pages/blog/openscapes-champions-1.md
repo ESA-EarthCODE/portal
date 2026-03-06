@@ -1,9 +1,8 @@
-
 ---
 date: 2026-03-06
 title: OpenScapes Champions Programme
 image: https://openscapes.github.io/series/images/horst_openscapes_champions.jpg
-
+feature: true
 ---
 
 # OpenScapes Champions Programme <!--{ as="img" mode="hero" src="https://openscapes.github.io/series/images/horst_openscapes_champions.jpg" }-->
