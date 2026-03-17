@@ -1,17 +1,17 @@
 ---
 date: 2026-03-06
-title: OpenScapes Champions Programme
+title: Openscapes Champions Programme
 image: https://openscapes.github.io/series/images/horst_openscapes_champions.jpg
 feature: true
 ---
 
-# OpenScapes Champions Programme <!--{ as="img" mode="hero" src="https://openscapes.github.io/series/images/horst_openscapes_champions.jpg" }-->
+# Openscapes Champions Programme <!--{ as="img" mode="hero" src="https://openscapes.github.io/series/images/horst_openscapes_champions.jpg" }-->
 
-## OpenScapes Champions Programme
+## Openscapes Champions Programme
 *Published: 06.03.2026*
 ## ESA Openscapes Champions Program Spring 2026
 
-The [ESA Openscapes Champions Program Spring 2026](https://openscapes.org/events/2026-04-15-esa-champions/#sec-how-to-apply) is a professional development and leadership opportunity for European Space Agency (ESA) affiliated researchers and people supporting ESA research to explore open data science practices and make incremental and sustainable change, no matter where you are starting from.
+The [ESA Openscapes Champions Program Spring 2026](https://openscapes.org/events/2026-04-15-esa-champions/) is a professional development and leadership opportunity for European Space Agency (ESA) affiliated researchers and people supporting ESA research to explore open data science practices and make incremental and sustainable change, no matter where you are starting from.
 
 This remote-by-design mentorship program helps researchers explore open science approaches for daily workflows. For ESA Openscapes, participants also spend time experimenting and planning FAIR principles for Earth Observation and EarthCODE. Core lessons include open mindset; GitHub for publishing and project management; team culture; data strategies for future us; coding strategies for future us; and open communities.
 
@@ -31,6 +31,6 @@ This opportunity is **free** and supported by the ESA EarthCODE Project through 
 
 To nominate yourself, please fill out the [nomination form](https://forms.gle/tE4GompYeJWN5Duu6) by **March 25, 2026**. Open science is collaborative, and participants are encouraged to sign up with a colleague or two. You do not need to be working on the same project, only to share an interest in improving workflows.
 
-For more information about Openscapes and the Champions Program, see [Openscapes Champions](https://www.openscapes.org), the [core lessons](https://openscapes.github.io), [What to Expect](https://openscapes.github.io), and these [blog posts](https://openscapes.org/blog/). Questions can be directed to **hello @ openscapes.org**.
+For more information about Openscapes and the Champions Program, see [Openscapes Champions](https://www.openscapes.org/champions/), the [core lessons](https://openscapes.github.io/series/what-to-expect.html#cohort-calls), [What to Expect](https://openscapes.github.io), and these [blog posts](https://openscapes.github.io/series/what-to-expect). Questions can be directed to **hello@openscapes<span>.org</span>**.
 
 This opportunity is funded by the [European Space Agency EarthCODE](https://earthcode.esa.int).
