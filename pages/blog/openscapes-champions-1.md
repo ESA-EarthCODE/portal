@@ -31,6 +31,6 @@ This opportunity is **free** and supported by the ESA EarthCODE Project through 
 
 To nominate yourself, please fill out the [nomination form](https://forms.gle/tE4GompYeJWN5Duu6) by **March 25, 2026**. Open science is collaborative, and participants are encouraged to sign up with a colleague or two. You do not need to be working on the same project, only to share an interest in improving workflows.
 
-For more information about Openscapes and the Champions Program, see [Openscapes Champions](https://www.openscapes.org/champions/), the [core lessons](https://openscapes.github.io/series/what-to-expect.html#cohort-calls), [What to Expect](https://openscapes.github.io), and these [blog posts](https://openscapes.github.io/series/what-to-expect). Questions can be directed to **hello@openscapes.org**.
+For more information about Openscapes and the Champions Program, see [Openscapes Champions](https://www.openscapes.org/champions/), [What to Expect](https://openscapes.github.io/series/what-to-expect), including the [core lessons](https://openscapes.github.io/series/what-to-expect.html#cohort-calls), and these [blog posts](https://openscapes.org/blog#category=champions). Questions can be directed to **hello@openscapes.org**.
 
 This opportunity is funded by the [European Space Agency EarthCODE](https://earthcode.esa.int).
