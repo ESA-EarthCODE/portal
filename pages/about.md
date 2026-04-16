@@ -177,9 +177,16 @@ The EarthCODE platform is constantly evolving, with its roadmap regularly update
     <esa-card
       icon="<img src='https://esa-earthcode.github.io/portal-assets/partners/CGI_cropped.png' height='40' style='max-width: 100%; object-fit: contain' />"
       title="CGI"
-      description="Powering EarthCODE with Insula — the hub between data and decision — delivering high-performance processing and analytics to enable large-scale EO data exploitation, automated workflows, and seamless integration of scientific models and analysis tools."
+      description="Powering EarthCODE with Insula - the hub between data and decision - delivering high-performance processing and analytics to enable large-scale EO data exploitation, automated workflows, and seamless integration of scientific models and analysis tools."
       action="Visit website"
       link="https://www.cgi.com/en"
+    ></esa-card>
+    <esa-card
+      icon="<img src='https://esa-earthcode.github.io/portal-assets/partners/Openscapes_cropped.png' height='40' style='max-width: 100%; object-fit: contain' />"
+      title="Openscapes"
+      description="Openscapes is an open source approach and movement that helps researchers and those supporting research find each other and feel empowered to conduct data-intensive science. Openscapes is running their Champions Programme for ESA EarthCODE scientists."
+      action="Visit website"
+      link="https://openscapes.org/"
     ></esa-card>
   </esa-cards>
 </section>
