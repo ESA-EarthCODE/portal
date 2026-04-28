@@ -6,7 +6,7 @@ feature: true
 ---
 
 # EarthCODE Hackathon 2026 <!--{ as="img" mode="hero" src="/img/hackathon-graphic-v1.png" }-->
-### Joint the first EarthCODE Hackathon at ESA-ESRIN!
+### Join the first EarthCODE Hackathon at ESA-ESRIN!
 
 
 ## EarthCODE Hackathon 2026
@@ -34,12 +34,12 @@ By working with real Science Cluster use cases, the event showcases how EarthCOD
 
 The overall objective of the EarthCODE Hackathon is to demonstrate and strengthen EarthCODE’s role as a federated environment for publishing, discovering, and using Earth system data.
 Specifically, the hackathon aims to:
--	Demonstrate how EarthCODE services support the publication and reuse of scientific data from ESA Science Clusters
--	Build and showcase thematic analysis ready data collections for different scientific domains
--	Enable Science Cluster teams to create and manage their own data collections using EarthCODE tools and libraries
--	Promote open access and visibility of high impact scientific datasets via dashboards and interactive viewers
--	Foster collaboration between scientists and the open source developer community
--	Contribute to the evolution of EarthCODE services and tools
+- Demonstrate how EarthCODE services support the publication and reuse of scientific data from ESA Science Clusters
+- Build and showcase thematic analysis ready data collections for different scientific domains
+- Enable Science Cluster teams to create and manage their own data collections using EarthCODE tools and libraries
+- Promote open access and visibility of high impact scientific datasets via dashboards and interactive viewers
+- Foster collaboration between scientists and the open source developer community
+- Contribute to the evolution of EarthCODE services and tools
 
 --- 
 
@@ -59,15 +59,15 @@ The hackathon will adopt a data collections driven approach, initially focusing 
 - Polar
 
 <p align="center">
-  <img src="https://github.com/ESA-EarthCODE/portal/blob/hackathon-2026/pages/public/img/Antarctica_In_Sync_visualisation.jpeg?raw=true" width=50%>
+  <img src="/img/Antarctica_In_Sync_visualisation.jpeg?raw=true" width=50%>
   <figcaption>Example of data collection supporting the Polar Science Community - Antarctic InSync Data Collection</figcaption>
 </p>
 
 Apart from the scientific community, this event will welcome participants from the Open Source community. Through focused code sprints, developers will to evolve software components supporting the EarthCODE federation, aiming to:
 
--	Propose improvements or extensions to existing EarthCODE tools
--	Address identified gaps or limitations
--	Strengthen interoperability and usability within the EarthCODE ecosystem
+- Propose improvements or extensions to existing EarthCODE tools
+- Address identified gaps or limitations
+- Strengthen interoperability and usability within the EarthCODE ecosystem
 
 **Participants will have access to:**
 
@@ -81,17 +81,13 @@ With this event we aim to help communities build skills that they can take back 
 We're working together to ensure the participating scientists will be able to:
 
 **1. Reuse Data and Workflows**
--	Discover EarthCODE thematic data collections and workflows
--	Work with the data and workflows on EarthCODE platforms to solve scientific questions
+- Discover EarthCODE thematic data collections and workflows
+- Work with the data and workflows on EarthCODE platforms to solve scientific questions
 
 **2. Publish with FAIR principles**
--	Create new data collections or extend existing ones
--	Use EarthCODE libraries and workflows to publish new results in cloud optimised, FAIR aligned formats
+- Create new data collections or extend existing ones
+- Use EarthCODE libraries and workflows to publish new results in cloud optimised, FAIR aligned formats
 
 **3. Disseminate through dashboards and web stories**
 - Explore the data collections with EarthCODE web viewers
-- Communicate scientific findings with interactive storytelling 
-
-
-
-
+- Communicate scientific findings with interactive storytelling
