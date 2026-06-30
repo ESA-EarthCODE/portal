@@ -40,10 +40,8 @@ Explore the Antarctic Data Cube, a streamlined framework for analysing Antarctic
 -	**Supraglacial lakes** – Surface hydrology features
 
 <p align="center">
- <figure>
-  <img src="https://esa-earthcode.github.io/polar_hackathon/build/a893190597b70b257e4463bc4d972532.png" width=50%>
+  <img src="https://esa-earthcode.github.io/polar_hackathon/build/a893190597b70b257e4463bc4d972532.png" width=80%>
   <figcaption><em>Figure: Bed elevation and grounded ice thickness in Antarctica from the BedMachine Antarctica dataset</em></figcaption>
- </figure>
 </p>
 
 Each dataset includes a Jupyter notebook—an interactive document that combines code, visualizations, and step-by-step instructions—to help you explore the data directly. A Polar Data Cube has also been created to facilitate easier analysis of and access to scientific Antarctica data.
