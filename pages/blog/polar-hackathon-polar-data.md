@@ -7,6 +7,7 @@ image: https://earthcode.esa.int/img/Antarctica_In_Sync_visualisation.jpeg?raw=t
 ---
 
 # Explore Polar Data with Open Resources: Dive into the Polar Hackathon Materials <!--{ as="img" mode="hero" src="https://earthcode.esa.int/img/Antarctica_In_Sync_visualisation.jpeg?raw=true" }-->
+## Explore Polar Data with Open Resources: Dive into the Polar Hackathon Materials
 *Published: 02.07.2026*
 
 The EarthCODE Polar Hackathon is underway this week, and while participation in the live event is reserved for the ESA Polar Science Cluster community, the open datasets, tutorials, and notebooks are freely available to anyone interested in polar science. These materials offer a unique opportunity to engage with cutting-edge polar science data, tools and workflows—all designed to be accessible, reproducible, and community-driven. So, whether you’re a researcher, student, or data enthusiast, these resources are your gateway to exploring Antarctica’s ice shelves, grounding lines, and more.
