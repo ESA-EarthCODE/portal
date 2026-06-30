@@ -3,6 +3,7 @@
 date: 2026-07-02
 title: Explore Polar Data with Open Resources: Dive into the Polar Hackathon Materials
 image: https://earthcode.esa.int/img/Antarctica_In_Sync_visualisation.jpeg?raw=true
+feature: true
 
 ---
 
