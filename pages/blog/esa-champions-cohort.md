@@ -21,15 +21,27 @@ The Champions Cohort provided a shared, welcoming place for researchers to ask q
 Participants included key EarthCODE stakeholder groups: researchers in the Earth System Science Hub, ESA Φ-Lab, and ESA Science Clusters, many of whom were together at ESA ESRIN. Other participants were based in Europe, India, and Africa; scientists using ESA EO data in their research and who heard about the Champions Cohort via open science networks during the nomination period. These researchers study forests, clouds, sea ice, drought, cryosphere, wildfire, sea level rise, socio-ecological systems, extreme and compound event analysis. They use many different technologies for their science, including Python, GitHub, STAC APIs, Zenodo, data cubes, Overleaf, Jupyter Notebooks, HPCs, and were keen to learn more about how to collaborate, document, and improve their workflows.
 
 ## Impact for Champion Cohort
-Some immediate impacts of the Cohort were related to habits and infrastructure that are key to collaborative research, with those involved now incorporating FAIR principles into their existing work. Another impact was related to connecting with people outside of the ESA community to see what is possible and establish workflows with existing tooling used elsewhere. One final significant impact was the opportunity to discuss the emerging topic of how people are using AI to learn – and the impacts of this on open communities and relationships.
+The Cohort had immediate impacts on collaborative research related to habits and infrastructure, including:
+- Incorporating FAIR principles into their existing work.
+- Connecting with people outside of the ESA community and establish workflows that use existing tooling from elsewhere.
+- Discussing the how people are using AI to learn – and the impacts of this on open communities and relationships.
 
-## What did they learn?
-Openscapes taught the Cohort some core lessons: open mindset; better science for future us; GitHub for publishing and project management; team culture, data strategies for future us; coding strategies for future us; and open communities. On top of this key lessons covered:
+## What did the Cohort learn?
+Openscapes taught the Cohort some core lessons:
+- open mindset
+- better science for future us
+- GitHub for publishing and project management
+- team culture
+- data strategies for future us
+- coding strategies for future us
+- open communities.
+Additional key lessons covered:
 - Better science for future us
 - Metadata strategies for future us
 - Tools, standards, and technologies supporting FAIR in the EarthCODE federation
-These lessons and related materials are accessible to all through the [Openscapes Champions Lesson Series website](https://openscapes.github.io/series/).
+These lessons and related materials are publicly accessible via the [Openscapes Champions Lesson Series website](https://openscapes.github.io/series/).
 
-As Openscapes prepare for the 2026 ESA EarthCODE Hackathon, they will put the lessons they learned from the ESA Champions Cohort to use to design it in a way that can meet more of ESA researcher needs. 
+## Next Steps
+As Openscapes prepares for the **2026 ESA EarthCODE Hackathon**, they use insights from the ESA Champions Cohort to design an event that better meets the needs of ESA's researchers. 
 
-To read the full blog post about the ESA Champions Cohort, visit the [Openscapes blog](https://openscapes.org/blog).
+Read the full blog post about the ESA Champions Cohort on the [Openscapes blog](https://openscapes.org/blog).
