@@ -10,14 +10,14 @@ image: https://earthcode.esa.int/img/Antarctica_In_Sync_visualisation.jpeg?raw=t
 ## Explore Polar Data with Open Resources: Dive into the Polar Hackathon Materials
 *Published: 02.07.2026*
 
-The EarthCODE Polar Hackathon is underway this week, and while participation in the live event is reserved for the ESA Polar Science Cluster community, the open datasets, tutorials, and notebooks are freely available to anyone interested in polar science. These materials offer a unique opportunity to engage with cutting-edge polar science data, tools and workflows—all designed to be accessible, reproducible, and community-driven. So, whether you’re a researcher, student, or data enthusiast, these resources are your gateway to exploring Antarctica’s ice shelves, grounding lines, and more.
+The **EarthCODE Polar Hackathon is underway this week**, and while participation in the live event is reserved for the ESA Polar Science Cluster community, the open datasets, tutorials, and notebooks are freely available to anyone interested in polar science. These materials offer a unique opportunity to engage with cutting-edge polar science data, tools and workflows—all designed to be accessible, reproducible, and community-driven. So, whether you’re a researcher, student, or data enthusiast, these resources are your gateway to exploring Antarctica’s ice shelves, grounding lines, and more.
 
 <p align="center">
   <img src="https://earthcode.esa.int/img/Antarctica_In_Sync_visualisation.jpeg?raw=true" width=50% title="Antarctic InSync Data Collection Examples">
   <figcaption><em>Figure: Antarctic InSync Data Collection</em></figcaption>
 </p>
 
-The Polar Hackathon is the first step for the EarthCODE team hard at work preparing for an exciting milestone—the EarthCODE Hackathon 2026, which will take place from 30 November – 4 December 2026. To lay the groundwork, EarthCODE is hosting an online Hackathons for the ESA Polar, Ocean, and Carbon Science Clusters. This online Polar Hackathon is an opportunity for scientists to explore the polar data available in the Open Science Catalog, experiment with new tools and data, and collaborate.
+The Polar Hackathon is the first step for the EarthCODE team hard at work preparing for an exciting milestone—**the EarthCODE Hackathon 2026, which will take place from 30 November – 4 December 2026**. To lay the groundwork, EarthCODE is hosting an online Hackathons for the ESA Polar, Ocean, and Carbon Science Clusters. This online Polar Hackathon is an opportunity for scientists to explore the polar data available in the Open Science Catalog, experiment with new tools and data, and collaborate.
 
 ## What’s Available Now?
 The Polar Hackathon materials are designed to be self-contained, reproducible, and adaptable, so you can dive in regardless of your background. Here’s what you can access today:
