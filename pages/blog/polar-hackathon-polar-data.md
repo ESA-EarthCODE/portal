@@ -1,6 +1,6 @@
 ---
 date: 2026-07-02
-title: Explore Polar Data with Open Resources: Dive into the Polar Hackathon Materials
+title: "Explore Polar Data with Open Resources: Dive into the Polar Hackathon Materials"
 image: img/Antarctica_In_Sync_visualisation.jpeg
 feature: true
 ---
