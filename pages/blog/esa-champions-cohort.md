@@ -1,15 +1,15 @@
 
 ---
-date: 2026-06-30
+date: 2026-07-01
 title: ESA Champions Cohort
-image: https://esa-earthcode.github.io/portal-assets/blog/Living_Planet_Symposium_2025_pillars-4170729331.jpg
+image: https://earthcode.esa.int/img/EarthCODE_Herobanner_1920x1080_nologo.jpg
 
 ---
 
-# ESA Champions Cohort <!--{ as="img" mode="hero" src="https://esa-earthcode.github.io/portal-assets/blog/Living_Planet_Symposium_2025_pillars-4170729331.jpg" }-->
+# ESA Champions Cohort <!--{ as="img" mode="hero" src="https://earthcode.esa.int/img/EarthCODE_Herobanner_1920x1080_nologo.jpg" }-->
 
 ## ESA Champions Cohort
-*Published: 01.01.2025*
+*Published: 01.07.2026*
 
 From April to June 2026, EarthCODE collaborated with Openscapes to host a 10-week ESA Champions Cohort where researchers explored open science and Findable, Accessible, Interoperable, and Reusable (FAIR) principles to support the incorporation of these skills into their work with Earth Observation (EO) for Earth system science.
 
