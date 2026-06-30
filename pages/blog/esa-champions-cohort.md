@@ -25,8 +25,8 @@ Openscapes taught the Cohort some core lessons: open mindset; better science for
 - Better science for future us
 - Metadata strategies for future us
 - Tools, standards, and technologies supporting FAIR in the EarthCODE federation
-These lessons and related materials are accessible to all through the [Openscapes Champions Lesson Series website](https://openscapes.org/blog).
+These lessons and related materials are accessible to all through the [Openscapes Champions Lesson Series website](https://openscapes.github.io/series/).
 
 As Openscapes prepare for the 2026 ESA EarthCODE Hackathon, they will put the lessons they learned from the ESA Champions Cohort to use to design it in a way that can meet more of ESA researcher needs. 
 
-To read the full blog post about the ESA Champions Cohort, visit the [Openscapes blog](tbc).
+To read the full blog post about the ESA Champions Cohort, visit the [Openscapes blog](https://openscapes.org/blog).
