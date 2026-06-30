@@ -18,7 +18,9 @@ The Champions Cohort provided a shared, welcoming place for researchers to ask q
 - Strengthen the EarthCODE community. 
 
 ## Who was involved?
-Participants included key EarthCODE stakeholder groups: researchers in the Earth System Science Hub, ESA Φ-Lab, and ESA Science Clusters, many of whom were together at ESA ESRIN. Other participants were based in Europe, India, and Africa; scientists using ESA EO data in their research and who heard about the Champions Cohort via open science networks during the nomination period. These researchers study forests, clouds, sea ice, drought, cryosphere, wildfire, sea level rise, socio-ecological systems, extreme and compound event analysis. They use many different technologies for their science, including Python, GitHub, STAC APIs, Zenodo, data cubes, Overleaf, Jupyter Notebooks, HPCs, and were keen to learn more about how to collaborate, document, and improve their workflows.
+Participants included key EarthCODE stakeholder groups: researchers in the Earth System Science Hub, ESA Φ-Lab, and ESA Science Clusters, many of whom were together at ESA ESRIN. Other participants were based in Europe, India, and Africa; scientists using ESA EO data in their research and who heard about the Champions Cohort via open science networks during the nomination period.
+
+These researchers study forests, clouds, sea ice, drought, cryosphere, wildfire, sea level rise, socio-ecological systems, extreme and compound event analysis. They use many different technologies for their science, including Python, GitHub, STAC APIs, Zenodo, data cubes, Overleaf, Jupyter Notebooks, HPCs, and were keen to learn more about how to collaborate, document, and improve their workflows.
 
 ## Impact for Champion Cohort
 The Cohort had immediate impacts on collaborative research related to habits and infrastructure, including:
@@ -35,10 +37,12 @@ Openscapes taught the Cohort some core lessons:
 - data strategies for future us
 - coding strategies for future us
 - open communities.
+
 Additional key lessons covered:
 - Better science for future us
 - Metadata strategies for future us
 - Tools, standards, and technologies supporting FAIR in the EarthCODE federation
+
 These lessons and related materials are publicly accessible via the [Openscapes Champions Lesson Series website](https://openscapes.github.io/series/).
 
 ## Next Steps
