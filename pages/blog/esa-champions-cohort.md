@@ -10,7 +10,7 @@ feature: true
 ## ESA Champions Cohort
 *Published: 01.07.2026*
 
-From April to June 2026, EarthCODE collaborated with Openscapes to host a 10-week ESA Champions Cohort. Researchers explored open science and Findable, Accessible, Interoperable, and Reusable (FAIR) principles to integrate these skills into their work with Earth Observation (EO) data for Earth system science.
+From April to June 2026, EarthCODE's Lampata in partnership with Openscapes hosted a 10-week ESA Champions Cohort. Researchers explored open science and Findable, Accessible, Interoperable, and Reusable (FAIR) principles to integrate these skills into their work with Earth Observation (EO) data for Earth system science.
 
 The Champions Cohort provided a shared, welcoming place for researchers to ask questions and build relationships, and learn together. Its goals were to:
 - Foster habits for long-term workflow change
