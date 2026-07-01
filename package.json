@@ -1,6 +1,6 @@
 {
   "name": "earthcode-portal",
-  "version": "2.0.14",
+  "version": "2.0.15",
   "type": "module",
   "author": "EOX",
   "license": "ISC",
@@ -18,6 +18,6 @@
   },
   "dependencies": {
     "@eox/esa-ui": "^1.19.0",
-    "@eox/storytelling": "^1.9.2"
+    "@eox/storytelling": "^1.13.0"
   }
 }
