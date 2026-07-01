@@ -48,4 +48,4 @@ These lessons and related materials are publicly accessible via the [Openscapes 
 ## Next Steps
 As Openscapes prepares for the **2026 ESA EarthCODE Hackathon**, they use insights from the ESA Champions Cohort to design an event that better meets the needs of ESA's researchers. 
 
-Read the full blog post about the ESA Champions Cohort on the [Openscapes blog](https://openscapes.org/blog).
+Read the full blog post about the ESA Champions Cohort on the [Openscapes blog](https://openscapes.org/blog/2026-06-30-esa-champions-2026/).
