@@ -60,7 +60,7 @@
     "tag": "Platform",
     "title": "Geohazards TEP",
     "description": "The Geohazards Exploitation Platform (GEP) is a cloud-based Earth Observation platform tailored for geohazard monitoring, terrain motion analysis, and critical infrastructure assessment. Operated by Terradue and funded by the European Space Agency, GEP hosts a wide range of processing services that empower users to transform EO data into actionable insights for science, operations, and disaster response.",
-    "link": "https://geohazards-tep.eu/",
-    "access": "https://geohazards-tep.eu/"
+    "link": "https://portal.geohazards-tep.eu/",
+    "access": "https://portal.geohazards-tep.eu/"
   }
 ]
