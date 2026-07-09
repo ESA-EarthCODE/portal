@@ -12,3 +12,15 @@ ol {
   padding-left: 1.25rem;
   margin: 16px 0;
 }
+
+.VPButton.cta.no-icon {
+  padding: 5px 30px !important;
+}
+
+.VPButton.cta {
+  white-space: nowrap;
+}
+
+.VPButton.cta.no-icon::after {
+  content: none !important;
+}
