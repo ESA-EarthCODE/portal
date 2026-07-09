@@ -11,7 +11,7 @@ layout: page
 
 </section>
 
-<section class="grey">
+<section class="blue">
   <div class="two-column">
 
   ## Subscribe to the EO Open Science Newsletter
@@ -23,9 +23,9 @@ layout: page
   - Access expert insights, research updates, event announcements, and more
   - Stay updated on new EarthCODE features, resources and collaboration opportunities
 
-  <div style="display: flex; gap: 10px;">
-    <a class="VPButton cta no-icon" href="https://assets-eur.mkt.dynamics.com/846bcca8-9413-4d04-822b-7282239af232/digitalassets/standaloneforms/1596564b-a729-f011-8c4d-7c1e52350f4e" target="_blank">Subscribe</a>
-    <a class="VPButton cta no-icon" href="/newsletter-archive">Archive</a>
+  <div class="multiple-ctas">
+    <a class="VPButton cta" href="https://assets-eur.mkt.dynamics.com/846bcca8-9413-4d04-822b-7282239af232/digitalassets/standaloneforms/1596564b-a729-f011-8c4d-7c1e52350f4e" target="_blank">Subscribe</a>
+    <a class="VPButton cta primary no-icon" href="/newsletter-archive">View Archive</a>
   </div>
   </div>
   </div>

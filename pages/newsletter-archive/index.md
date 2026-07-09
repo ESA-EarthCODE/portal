@@ -5,7 +5,7 @@ layout: page
 <section class="blue hero">
   <h1>Newsletter Archive</h1>
   <p>Explore our past EO Open Science Newsletters.</p>
-  <div class="hero-ctas">
+  <div class="multiple-ctas">
     <a href="https://assets-eur.mkt.dynamics.com/846bcca8-9413-4d04-822b-7282239af232/digitalassets/standaloneforms/1596564b-a729-f011-8c4d-7c1e52350f4e" target="_blank" class="VPButton cta">Subscribe</a>
     <a href="/news-events" class="VPButton cta primary no-icon">Back to News & Events</a>
   </div>
@@ -42,22 +42,12 @@ import { data } from './archive.data.js'
   padding: 0.5rem;
   margin: 1rem 0;
 }
-.hero-ctas {
-  margin-top: 2rem;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  align-items: flex-start;
-}
 @media (min-width: 640px) {
   .archive-item {
     padding: 2rem;
   }
   .archive-content-wrapper {
     padding: 1rem;
-  }
-  .hero-ctas {
-    flex-direction: row;
   }
 }
 </style>
