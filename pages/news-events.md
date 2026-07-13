@@ -10,6 +10,27 @@ layout: page
 # News & Events
 
 </section>
+
+<section class="blue">
+  <div class="two-column">
+
+  ## Subscribe to the EO Open Science Newsletter
+  <div>
+
+  #### Why should I sign up?
+
+  - Get monthly updates from ESA EO Open Science
+  - Access expert insights, research updates, event announcements, and more
+  - Stay updated on new EarthCODE features, resources and collaboration opportunities
+
+  <div class="multiple-ctas">
+    <a class="VPButton cta" href="https://assets-eur.mkt.dynamics.com/846bcca8-9413-4d04-822b-7282239af232/digitalassets/standaloneforms/1596564b-a729-f011-8c4d-7c1e52350f4e" target="_blank">Subscribe</a>
+    <a class="VPButton cta primary no-icon" href="/newsletter-archive">View Archive</a>
+  </div>
+  </div>
+  </div>
+</section>
+
 <section class="light-grey">
 
 <BlogGallery
@@ -67,22 +88,6 @@ layout: page
     link="https://lps25.esa.int/"
   ></esa-card>
 </esa-cards>
-</section>
-<section class="grey">
-  <div class="two-column">
-
-  ## Subscribe to the EO Open Science Newsletter
-  <div>
-
-  #### Why should I sign up?
-
-  - Get monthly updates from ESA EO Open Science
-  - Access expert insights, research updates, event announcements, and more
-  - Stay updated on new EarthCODE features, resources and collaboration opportunities
-
-  <a class="VPButton cta no-icon" href="https://assets-eur.mkt.dynamics.com/846bcca8-9413-4d04-822b-7282239af232/digitalassets/standaloneforms/1596564b-a729-f011-8c4d-7c1e52350f4e" target="_blank">Subscribe</a>
-  </div>
-  </div>
 </section>
 
 <script setup>

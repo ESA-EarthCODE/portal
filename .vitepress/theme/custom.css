@@ -12,3 +12,29 @@ ol {
   padding-left: 1.25rem;
   margin: 16px 0;
 }
+
+.VPButton.cta.no-icon {
+  padding: 5px 30px !important;
+}
+
+.VPButton.cta {
+  white-space: nowrap;
+}
+
+.VPButton.cta.no-icon::after {
+  content: none !important;
+}
+
+.multiple-ctas {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 2rem;
+  align-items: flex-start;
+}
+
+@media (min-width: 640px) {
+  .multiple-ctas {
+    flex-direction: row;
+  }
+}
