@@ -19,7 +19,10 @@ The **EarthCODE Polar Hackathon**, held online in the last week of June 2026, br
 
 All the polar datasets are open and accessible via the EarthCODE [Open Science Catalog](https://opensciencedata.esa.int/), with each dataset paired with a guidance notebook to support analysis. To further streamline access to scientific Antarctic data, selected datasets were consolidated into an Antarctic data cube.
 
-IMAGE
+<p align="center">
+  <img width="935" height="496" alt="image" src="https://github.com/user-attachments/assets/af042e9a-f1c9-4d3e-b86d-66179f9247e2" />
+  <figcaption><em>Figure: Example Jupyter Notebook utilised during the Polar Hackathon to plot basal melting ocean interactions for Antarctica</em></figcaption>
+</p>
 
 ## Hackathon Outcomes
 The event confirmed strong interest in building a community around ESA data cubes and related datasets, particularly within the Polar Science Cluster. Key takeaways included:
@@ -32,7 +35,11 @@ The event confirmed strong interest in building a community around ESA data cube
 
 Participants actively used the [EarthCODE Discourse Forum](https://earthcode.esa.int/community/) to ask questions, suggest improvements, and troubleshoot technical issues. This allowed the EarthCODE team to provide timely support and foster collaboration.
 
-IMAGE
+<p align="center">
+  <img width="931" height="568" alt="image" src="https://github.com/user-attachments/assets/e201b46f-8913-43d4-a46b-a719c0dc4bc2" />
+  <figcaption><em>Figure: Example data plots produced and discussed during the Polar Hackathon, including sea surface salinity, sea ice volume, sea ice thickness, and sea ice concentration around Antarctica</em></figcaption>
+</p>
+
 
 ## Positive Feedback
 Attendees highly valued:
@@ -57,7 +64,10 @@ The EarthCODE Hackathon 2026 will be an in-person event in ESA ESRIN, bringing t
 3. Pre-hackathon engagement:
    - Pre-event meetings will be organised to support setup activities, allowing participants to focus on science and collaboration during the main event.
 
-IMAGE
+<p align="center">
+  <img src="https://earthcode.esa.int/img/hackathon-graphic-v1.png" width=50% />
+  <figcaption><em>Figure: EarthCODE Hackathon 2026</em></figcaption>
+</p>
 
 ## Looking Ahead
 For the polar community, this hackathon laid a strong foundation ahead of the main event later this year. To ensure its success, similar online hackathons are planned for the ESA Ocean and Carbon Science Clusters.
