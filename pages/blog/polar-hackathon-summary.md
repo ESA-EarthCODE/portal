@@ -65,7 +65,7 @@ The EarthCODE Hackathon 2026 will be an in-person event in ESA ESRIN, bringing t
    - Pre-event meetings will be organised to support setup activities, allowing participants to focus on science and collaboration during the main event.
 
 <p align="center">
-  <img src="https://earthcode.esa.int/img/hackathon-graphic-v1.png" width=50% />
+  <img src="https://earthcode.esa.int/img/hackathon-graphic-v1.png" width=70% />
   <figcaption><em>Figure: EarthCODE Hackathon 2026</em></figcaption>
 </p>
 
