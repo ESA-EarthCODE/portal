@@ -1,4 +1,3 @@
-
 ---
 date: 2026-07-29
 title: Polar Hackathon Success!
@@ -21,7 +20,7 @@ The **EarthCODE Polar Hackathon**, held online in the last week of June 2026, br
 All the polar datasets are open and accessible via the EarthCODE [Open Science Catalog](https://opensciencedata.esa.int/), with each dataset paired with a guidance notebook to support analysis.
 
 <p align="center">
-  <img width="935" height="496" alt="image" src="https://github.com/user-attachments/assets/af042e9a-f1c9-4d3e-b86d-66179f9247e2" />
+  <img alt="image" src="https://github.com/user-attachments/assets/af042e9a-f1c9-4d3e-b86d-66179f9247e2" />
   <figcaption><em>Figure: Example Jupyter Notebook utilised during the Polar Hackathon to plot basal melting ocean interactions for Antarctica</em></figcaption>
 </p>
 
@@ -34,7 +33,7 @@ Key highlights from the event include:
 
 
 <p align="center">
-  <img width="931" height="568" alt="image" src="https://github.com/user-attachments/assets/e201b46f-8913-43d4-a46b-a719c0dc4bc2" />
+  <img alt="image" src="https://github.com/user-attachments/assets/e201b46f-8913-43d4-a46b-a719c0dc4bc2" />
   <figcaption><em>Figure: Example data plots produced and discussed during the Polar Hackathon, including sea surface salinity, sea ice volume, sea ice thickness, and sea ice concentration around Antarctica</em></figcaption>
 </p>
 
@@ -59,7 +58,7 @@ EarthCODE will also be organising similar online hackathons for the ESA Ocean an
 All three online hackathons pave the way for the main event: the EarthCODE Hackathon 2026. This hackathon will be an in-person event in ESA ESRIN running from 30 November to 4 December, bringing together researchers, data scientists, and open-data enthusiasts.
 
 <p align="center">
-  <img src="https://earthcode.esa.int/img/hackathon-graphic-v1.png" width=70% />
+  <img src="https://earthcode.esa.int/img/hackathon-graphic-v1.png" />
   <figcaption><em>Figure: EarthCODE Hackathon 2026</em></figcaption>
 </p>
 
