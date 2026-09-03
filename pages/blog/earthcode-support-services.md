@@ -1,21 +1,38 @@
 
 ---
-date: 2025-01-01
-title: EarthCODE Support Services Launched
+date: 2026-09-04
+title: EarthCODE Support Services Launched!
 image: https://esa-earthcode.github.io/portal-assets/blog/Living_Planet_Symposium_2025_pillars-4170729331.jpg
 
 ---
 
 # EarthCODE Support Services Launched <!--{ as="img" mode="hero" src="https://esa-earthcode.github.io/portal-assets/blog/Living_Planet_Symposium_2025_pillars-4170729331.jpg" }-->
 
-## EarthCODE Support Services Launched
-*Published: 01.01.2025*
+## EarthCODE Support Services Launched!
+*Published: 04.09.2026*
 
-Text content
+We are excited to announce the launch of two new EarthCODE consulting services , designed to assist scientists in publishing their ESA-funded research with greater ease and collaboration. These services reflect EarthCODE’s commitment to FAIR Open Science and aim to streamline the process of sharing scientific outputs.
 
-## Section A
-Text content
+## Engineering Support Service
+Our Engineering Support Service provides expert assistance to help scientists:
 
-## Section B
-Text content
-        
+- Publish data products, experiments, and workflows by addressing technical challenges and ensuring compliance with publishing standards.
+- Modify and enhance workflows, ensuring they can be accepted for publication to create new products.
+
+## Science Product Update Service
+Our Science Product Update Service focuses on generating new scientific products reusing existing workflows. It includes:
+
+- Configuring existing workflows to produce new products in an operational environment.
+- Supporting operational service provision by ensuring alignment with defined Service Level Agreements (SLAs).
+
+ ## A Collaborative Approach to FAIR Open Science
+ Both services are built to encourage collaboration, working closely with scientists to:
+
+- Simplify the publishing process by addressing technical and operational challenges.
+- Creating new datasets, using the published workflows.
+- Promote FAIR principles and Open Science, making research outputs more accessible and reusable.
+
+Requests for these services can be initiated by scientists, ESA representatives, or EarthCODE Service Providers.
+
+## How to Request Support
+If you’re interested in learning more or would like to request support, please email <a href="mailto:email@example.com">earth-code@esa.int</a> with your enquiry or request and we will get back to you.
