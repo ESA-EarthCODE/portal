@@ -11,7 +11,7 @@ image: https://esa-earthcode.github.io/portal-assets/blog/Living_Planet_Symposiu
 ## EarthCODE Support Services Launched!
 *Published: 04.09.2026*
 
-We are excited to announce the launch of two new EarthCODE consulting services , designed to assist scientists in publishing their ESA-funded research with greater ease and collaboration. These services reflect EarthCODE’s commitment to FAIR Open Science and aim to streamline the process of sharing scientific outputs.
+We are excited to announce the launch of two new EarthCODE consulting services, designed to assist scientists in publishing their ESA-funded research with greater ease and collaboration. These services reflect EarthCODE’s commitment to FAIR Open Science and aim to streamline the process of sharing scientific outputs. Full 
 
 ## Engineering Support Service
 Our Engineering Support Service provides expert assistance to help scientists:
