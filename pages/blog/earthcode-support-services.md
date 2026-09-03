@@ -2,11 +2,11 @@
 ---
 date: 2026-09-04
 title: EarthCODE Support Services Launched!
-image: https://github.com/amanda-hall/portal/blob/amanda-hall/support-services-blog/pages/public/img/EarthCODE_Herobanner_1920x1080.jpg
-
+image: https://earthcode.esa.int/img/EarthCODE_Herobanner_1920x1080_nologo.jpg
+feature: true
 ---
 
-# EarthCODE Support Services Launched <!--{ as="img" mode="hero" src="https://github.com/amanda-hall/portal/blob/amanda-hall/support-services-blog/pages/public/img/EarthCODE_Herobanner_1920x1080.jpg" }-->
+# EarthCODE Support Services Launched <!--{ as="img" mode="hero" src="https://earthcode.esa.int/img/EarthCODE_Herobanner_1920x1080_nologo.jpg" }-->
 
 ## EarthCODE Support Services Launched!
 *Published: 04.09.2026*
