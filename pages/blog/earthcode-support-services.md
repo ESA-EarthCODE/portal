@@ -2,11 +2,11 @@
 ---
 date: 2026-09-04
 title: EarthCODE Support Services Launched!
-image: https://esa-earthcode.github.io/portal-assets/blog/Living_Planet_Symposium_2025_pillars-4170729331.jpg
+image: https://github.com/amanda-hall/portal/blob/amanda-hall/support-services-blog/pages/public/img/EarthCODE_Herobanner_1920x1080.jpg
 
 ---
 
-# EarthCODE Support Services Launched <!--{ as="img" mode="hero" src="https://esa-earthcode.github.io/portal-assets/blog/Living_Planet_Symposium_2025_pillars-4170729331.jpg" }-->
+# EarthCODE Support Services Launched <!--{ as="img" mode="hero" src="https://github.com/amanda-hall/portal/blob/amanda-hall/support-services-blog/pages/public/img/EarthCODE_Herobanner_1920x1080.jpg" }-->
 
 ## EarthCODE Support Services Launched!
 *Published: 04.09.2026*
