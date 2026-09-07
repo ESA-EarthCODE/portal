@@ -18,14 +18,26 @@ The collections are built by and for [scientific communities](/community/scienti
 
 ## Explore the Collections
 
-   <div v-for="item in clusters" style="box-shadow: 0 20px 30px rgba(0,0,0,0.1); padding: 40px; margin-bottom: 40px;">
-      <h3 style="margin-bottom: 40px !important">{{item.title}}</h3>
-      <p style="min-height:240px; font-size: 16px !important;">
-         <a :href="item.link" style="float: left; padding-right: 40px; transform: translateY(-20px);">
-            <img class="alignnone" :src="item.img" :alt="item.title" style="width: min(200px, 30dvw);" />
-         </a>
-         {{item.description}}
-      </p>
+   <div
+      v-for="item in clusters"
+      :key="item.title"
+      class="cluster-card"
+   >
+      <h3 class="cluster-card-title">
+         <a
+            :href="item.link"
+            :target="item.link.startsWith('http') ? '_blank' : undefined"
+            :rel="item.link.startsWith('http') ? 'noopener noreferrer' : undefined"
+         >{{item.title}}</a>
+      </h3>
+      <div class="cluster-card-body">
+         <div class="cluster-card-image">
+            <img class="alignnone" :src="item.img" :alt="item.title" />
+         </div>
+         <div class="cluster-card-text">
+            <p>{{item.description}}</p>
+         </div>
+      </div>
    </div>
 </section>
 
