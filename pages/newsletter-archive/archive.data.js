@@ -48,12 +48,25 @@ export default {
 
     const files = fs.readdirSync(filesDir).filter(file => file.endsWith('.html'))
 
+    const previewStyle = `
+<style>
+  /* Hide repetitive top banner and newsletter header block in embedded archive preview */
+  .wrap-section:nth-of-type(1),
+  .wrap-section:nth-of-type(2) {
+    display: none !important;
+  }
+</style>
+`;
+
     const processedFiles = files.map(file => {
       const content = fs.readFileSync(path.join(filesDir, file), 'utf-8')
+      const previewContent = content.includes('</head>')
+        ? content.replace('</head>', `${previewStyle}</head>`)
+        : content + previewStyle
       return {
         file: file,
         name: formatName(file),
-        content: content,
+        content: previewContent,
         url: `/newsletter-archive/files/${file}`,
         sortKey: parseDateFromName(file)
       }
