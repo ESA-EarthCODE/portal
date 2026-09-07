@@ -45,7 +45,7 @@ import { ref } from "vue";
 const clusters = ref([
 {
    title: "ESA Antarctica Datacube",
-   link: "/antarctica-cube",
+   link: "/data-collections/antarctica-cube",
    img: "https://eo4society.esa.int/wp-content/uploads/2020/11/ESA_Science-Clusters_Polar_name1.png",
    description: "The ESA Antarctica Datacube brings together openly available datasets for Antarctica and the Southern Ocean in analysis-ready, cloud-optimised formats that can be accessed and analysed together. The datasets were produced in the frame of ESA Polar Science Cluster activities.",
 }
