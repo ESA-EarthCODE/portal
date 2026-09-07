@@ -8,7 +8,7 @@
     "access": "https://eurodatacube.hub.eox.at/"
   },
   {
-    "icon": "https://cockpit.hub.eox.at//storage/uploads/2022/04/25/626656b44601dpolartep.png",
+    "icon": "/img/polartep_logo.png",
     "tag": "Platform",
     "title": "Polar TEP",
     "description": "The Polar Thematic Exploitation Platform (Polar TEP) provides a complete working environment where users can access algorithms and data remotely, obtain computing resources and tools that they might not otherwise have, and avoid the need to download and manage large volumes of data. <br /><br /><img src='/img/jupyterlab.svg' height='40' style='max-width: 100%; object-fit: contain' />",

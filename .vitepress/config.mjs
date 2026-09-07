@@ -17,6 +17,10 @@ export default {
         text: "Resources",
       },
       {
+        link: "/data-collections",
+        text: "Data Collections",
+      },
+      {
         link: "/community",
         text: "Community",
       },
