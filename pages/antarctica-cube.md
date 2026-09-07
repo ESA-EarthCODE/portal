@@ -1,12 +1,6 @@
----
-layout: page
----
-
-<section class="blue hero">
-
 # ESA Antarctica Datacube
 
-The **ESA Antarctica Datacube** brings together openly available datasets for Antarctica and the Southern Ocean in analysis-ready, cloud-optimised formats that can be accessed and analysed together. The datasets were produced in the frame of [ESA Polar Science Cluster](https://eo4society.esa.int/communities/scientists/esa-polar-science-cluster/) activities.
+The **ESA Antarctica Datacube** brings together openly available datasets for Antarctica and the Southern Ocean in analysis-ready, cloud-optimised formats that can be accessed and analysed together. The datasets were produced in the frame of ESA Polar Science Cluster activities.
 
 
 The collection has two thematic datacubes:
@@ -22,10 +16,6 @@ Putting related datasets on shared grids reduces the preparation needed before a
 
 The public data stores can be accessed directly over HTTPS. The [land-ice](https://esa-earthcode.github.io/polar_hackathon/remote-cube-access/) and [sea-ice and ocean-surface](https://esa-earthcode.github.io/polar_hackathon/remote-sea-cube-access/) getting-started notebooks provide runnable examples.
 
-</section>
-
-<section class="light-grey">
-
 ## Collection at a Glance
 
 | Metadata | Description |
@@ -36,10 +26,6 @@ The public data stores can be accessed directly over HTTPS. The [land-ice](https
 | **Spatial resolution** | Land ice: 100 m in EPSG:3031; sea ice and ocean surface: 12.5 km in EPSG:6932 |
 | **Source datasets** | 12 core datasets: 9 land-ice datasets and 3 sea-ice and ocean-surface datasets |
 | **Data formats** | Cloud-optimised GeoZarr and GeoParquet |
-
-</section>
-
-<section class="blue hero">
 
 ## The Two Thematic Datacubes
 
@@ -77,10 +63,6 @@ The sea-ice and ocean-surface datacube brings together sea-ice thickness, concen
 - **SOFRESH sea-surface salinity:** sea-surface salinity and uncertainty. [View in the Open Science Catalog](https://opensciencedata.esa.int/products/sofresh-sea-surface-salinity/collection).
 - **ALBATROS tidal elevation:** CryoSat-2 tidal-elevation predictions. [View in the Open Science Catalog](https://opensciencedata.esa.int/products/tidal-elevation-cryosat2-2019/collection).
 
-</section>
-
-<section class="light-grey">
-
 ## Built with the Polar Science Community
 
 EarthCODE supports the [ESA Polar Science Cluster community](https://earthcode.esa.int/community/scientists/science-clusters) with open data, cloud infrastructure, tools and hackathons. Scientists shape the datacubes by defining priorities, recommending datasets and testing the collections through real research use cases.
@@ -90,10 +72,6 @@ EarthCODE supports the [ESA Polar Science Cluster community](https://earthcode.e
 *Example multi-variable trend analysis developed through community exploration of the polar data.*
 
 Read the [Antarctica Datacube Hackathon summary](https://earthcode.esa.int/blog/polar-hackathon-summary) and [Explore Antarctica Data with Open Resources](https://earthcode.esa.int/blog/polar-hackathon-polar-data).
-
-</section>
-
-<section class="blue hero">
 
 ## Access and Explore
 
@@ -108,15 +86,13 @@ Read the [Antarctica Datacube Hackathon summary](https://earthcode.esa.int/blog/
 
 ### Data Stores
 
-- **Antarctic land ice:** [`antarctica-combined.zarr`](https://s3.waw4-1.cloudferro.com/EarthCODE/OSCAssets/antarctica_cube/antarctica-combined.zarr), [`icetemp.zarr`](https://s3.waw4-1.cloudferro.com/EarthCODE/OSCAssets/antarctica_cube/icetemp.zarr), [`sec.zarr`](https://s3.waw4-1.cloudferro.com/EarthCODE/OSCAssets/antarctica_cube/sec.zarr), [`icemask_composite.zarr`](https://s3.waw4-1.cloudferro.com/EarthCODE/OSCAssets/antarctica_cube/icemask_composite.zarr/) and [`ice_velocity.zarr`](https://s3.waw4-1.cloudferro.com/EarthCODE/OSCAssets/antarctica_cube/ice_velocity.zarr).
-- **Antarctic sea ice and ocean surface:** [`sea-ice-cube-geozarr-v2.zarr`](https://s3.waw4-1.cloudferro.com/EarthCODE/OSCAssets/sea-ice-cube/sea-ice-cube-geozarr-v2.zarr) and ALBATROS GeoParquet point data.
+- **Antarctic land ice:** [`antarctica-combined.zarr`](https://s3.waw4-1.cloudferro.com/EarthCODE/OSCAssets/antarctica_cube/land-ice/antarctica-combined.zarr), [`ice-temp-cube.zarr`](https://s3.waw4-1.cloudferro.com/EarthCODE/OSCAssets/antarctica_cube/land-ice/ice-temp-cube.zarr), [`sec.zarr`](https://s3.waw4-1.cloudferro.com/EarthCODE/OSCAssets/antarctica_cube/land-ice/sec.zarr), [`icemask_composite.zarr`](https://s3.waw4-1.cloudferro.com/EarthCODE/OSCAssets/antarctica_cube/land-ice/icemask_composite.zarr) and [`ice_velocity.zarr`](https://s3.waw4-1.cloudferro.com/EarthCODE/OSCAssets/antarctica_cube/land-ice/ice_velocity.zarr).
+- **Antarctic sea ice and ocean surface:** [`sea-ice-cube.zarr`](https://s3.waw4-1.cloudferro.com/EarthCODE/OSCAssets/antarctica_cube/sea-ice/sea-ice-cube.zarr) and ALBATROS GeoParquet point data.
+
+The data cubes use GeoZarr as a standard. Open group `0` for the full-resolution data.
 
 The two datacubes use different grids and should be opened separately. The [example notebooks](https://esa-earthcode.github.io/polar_hackathon/remote-sea-cube-access/) show how to reproject selected variables when an analysis combines land, sea-ice and ocean data.
 
 ## Contribute
 
-To suggest a dataset, share a use case, or help extend the collection
-
-<a class="VPButton cta" href="mailto:earth-code@esa.int" target="_blank">Contact us</a>
-
-</section>
+To suggest a dataset, share a use case or help extend the collection, email [earth-code@esa.int](mailto:earth-code@esa.int).
