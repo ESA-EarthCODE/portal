@@ -14,7 +14,7 @@ feature: true
 
 The EarthCODE Hackathon will be hosted at ESRIN from **30 November – 4 December 2026**. The event will provide an opportunity to bring the communities who are using EarthCODE tools and services as close as possible to the people who are building them.
 
-<span style="color:green">Registration to this event will open in NOW OPEN!</span> 
+<span style="color:green">Registration to this event is NOW OPEN!</span> 
 
 Find out more and register [here](https://esa-earthcode.github.io/2026-earthcode-hackathon/registration.html).
 
