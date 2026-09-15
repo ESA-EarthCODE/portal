@@ -10,11 +10,13 @@ feature: true
 
 
 ## EarthCODE Hackathon 2026
-*Published: 28/04/2026*
+*Published: 28/04/2026, Updated: 10/09/2026*
 
 The EarthCODE Hackathon will be hosted at ESRIN from **30 November – 4 December 2026**. The event will provide an opportunity to bring the communities who are using EarthCODE tools and services as close as possible to the people who are building them.
 
-<span style="color:red">REGISTRATION to this event will open in September 2026.</span> 
+<span style="color:green">Registration to this event is NOW OPEN!</span> 
+
+Find out more and register [here](https://esa-earthcode.github.io/2026-earthcode-hackathon/registration.html).
 
 <p align="center">
 <img src="/img/Visiting_ESRIN_pillars.jpg">
@@ -49,6 +51,7 @@ The hackathon primarily targets:
 - Earth system scientists working with EO data who want to create, reuse, or publish data collections.
 - Members of ESA Science Clusters, particularly addressing: Ocean, Carbon and Polar science communities. 
 - Developers from the open source geospatial community interested in supporting EarthCODE functionalities: e.g.  EOEPCA+, OSGeo
+- We especially invite early career researchers, PhD students and post-docs!
 
 --- 
 ### SCIENTIFIC and TECHNICAL FOCUS: 
