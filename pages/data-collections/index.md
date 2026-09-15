@@ -60,6 +60,12 @@ const clusters = ref([
    link: "/data-collections/antarctica-cube",
    img: "https://eo4society.esa.int/wp-content/uploads/2020/11/ESA_Science-Clusters_Polar_name1.png",
    description: "The ESA Antarctica Datacube brings together openly available datasets for Antarctica and the Southern Ocean in analysis-ready, cloud-optimised formats that can be accessed and analysed together. The datasets were produced in the frame of ESA Polar Science Cluster activities.",
+},
+{
+   title: "ESA Mediterranean Datacube",
+   link: "/data-collections/mediterranean-cube",
+   img: "https://eo4society.esa.int/wp-content/uploads/2020/11/ESA_Science-Clusters_Ocean_name1.png",
+   description: "The ESA Ocean Science Cluster supports research to better understand the ocean’s role in interconnected Earth system processes. It addresses major knowledge gaps across physical oceanography, biogeochemistry, ecology, and ocean–atmosphere–land–cryosphere interactions. By combining EO satellite data, in-situ and citizen observations with advanced modelling, the cluster enables truly interdisciplinary ocean science. ESA-funded projects bring together diverse expertise, data, and technologies to generate results greater than the sum of their parts. Through strong European and international partnerships under FutureEO, the cluster helps build a robust Ocean research community.",
 }
 ])
 </script>
