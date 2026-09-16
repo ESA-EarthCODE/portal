@@ -85,9 +85,9 @@ The sea-ice and ocean-surface datacube brings together sea-ice thickness, concen
 
 EarthCODE supports the [ESA Polar Science Cluster community](https://earthcode.esa.int/community/scientists/science-clusters) with open data, cloud infrastructure, tools and hackathons. Scientists shape the datacubes by defining priorities, recommending datasets and testing the collections through real research use cases.
 
-![Example pixel-wise trend analysis across Southern Ocean salinity and sea-ice variables](https://github.com/user-attachments/assets/e201b46f-8913-43d4-a46b-a719c0dc4bc2)
+![ESA Antarctic Datacube](esa-antarctica-datacube-3d.png)
 
-*Example multi-variable trend analysis developed through community exploration of the polar data.*
+*Variables from the ESA Antarctic Datacube*
 
 Read the [Antarctica Datacube Hackathon summary](https://earthcode.esa.int/blog/polar-hackathon-summary) and [Explore Antarctica Data with Open Resources](https://earthcode.esa.int/blog/polar-hackathon-polar-data).
 
