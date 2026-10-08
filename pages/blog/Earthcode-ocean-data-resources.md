@@ -1,11 +1,11 @@
 ---
 date: 2026-10-08
 title: EarthCODE Ocean Data Resources
-image: /data-collections/esa-mediterranean-datacube.png
+image: https://esa-earthcode.github.io/portal-assets/blog/esa-mediterranean-datacube.png
 feature: true
 ---
 
-# Dive Into Open Science: Exploring EarthCODE’s Ocean Data Resources <!--{ as="img" mode="hero" src="/data-collections/esa-mediterranean-datacube.png?raw=true" }-->
+# Dive Into Open Science: Exploring EarthCODE’s Ocean Data Resources <!--{ as="img" mode="hero" src="https://esa-earthcode.github.io/portal-assets/blog/esa-mediterranean-datacube.png?raw=true" }-->
 
 ## Dive Into Open Science: Exploring EarthCODE’s Ocean Data Resources
 *Published: 24.09.2026*
