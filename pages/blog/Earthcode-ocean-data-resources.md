@@ -8,7 +8,7 @@ feature: true
 # Dive Into Open Science: Exploring EarthCODE’s Ocean Data Resources <!--{ as="img" mode="hero" src="https://esa-earthcode.github.io/portal-assets/blog/esa-mediterranean-datacube.png?raw=true" }-->
 
 ## Dive Into Open Science: Exploring EarthCODE’s Ocean Data Resources
-*Published: 24.09.2026*
+*Published: 08.10.2026*
 
 EarthCODE is the environment that brings ESA’s vision of a culture and practice of openness in Earth Observation (EO) science, applications and industry to life. It provides a sustainable, open innovation ecosystem, with FAIR principles (Findability, Accessibility, Interoperability, and Reusability), Open Science, and Open Innovation.
 
