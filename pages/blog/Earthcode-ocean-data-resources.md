@@ -20,7 +20,7 @@ The [Open Science Catalogue](https://opensciencedata.esa.int/) is a one stop-pla
 ## What Ocean Data are Available?
 A wealth of ocean data is made available within EarthCODE’s Open Science Catalogue. For a complete list of ocean datasets, visit the Open Science Catalogue [Oceans theme webpage](https://opensciencedata.esa.int/themes/oceans/catalog). These datasets are critical for understanding ocean dynamics, climate change impacts, and marine biodiversity.
 
-EarthCODE has also curated a selection of ocean datasets to support research and innovation in ocean science. To support innovation in ocean science, EarthCODE has curated a selection of datasets for the upcoming ESA Ocean Science Cluster Hackathon (October 2026). These datasets are not only freely accessible but also come with pre-built notebooks to help users get started quickly. To access the notebooks for these datasets, visit the [Ocean Hackathon dataset webpage](https://esa-earthcode.github.io/ocean_hackathon/datasets-sumary/).
+To support research and innovation in ocean science, EarthCODE has curated a selection of datasets for the upcoming ESA Ocean Science Cluster Hackathon (October 2026). These datasets are not only freely accessible but also come with pre-built notebooks to help users get started quickly. To access the notebooks for these datasets, visit the [Ocean Hackathon dataset webpage](https://esa-earthcode.github.io/ocean_hackathon/datasets-sumary/).
 
 Table 1: Ocean datasets available in the Open Science Catalogue for which access notebooks have been prepared.
 | Dataset Name  | Measurement Description |
