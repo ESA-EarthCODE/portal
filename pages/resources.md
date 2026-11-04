@@ -89,7 +89,7 @@ Explore a growing collection of training resources, including EarthCODE and plat
 Join ESA's initiative to ensure long-term preservation and accessibility of research data, code, and documentation for a global scientific community.
 
 <div>
-  <a class="VPButton cta no-icon" href="email:earth-code@esa.int">Contact us</a>
+  <a class="VPButton cta no-icon" href="mailto:earth-code@esa.int">Contact us</a>
 </div>
 
 </section>
