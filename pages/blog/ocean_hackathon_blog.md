@@ -1,5 +1,5 @@
 ---
-date: 202-11-18
+date: 2026-11-18
 title: Productive Ocean Hackathon
 image: https://esa-earthcode.github.io/portal-assets/blog/esa-mediterranean-datacube.png
 feature: true
@@ -26,7 +26,7 @@ During the online hackathon participants were introduced to EarthCODE tools, sha
 After the introductions, the participants then had time to explore the curated ocean datasets and test analysis workflows before presenting early results to peers and ESA scientists and discussing potential applications in their ongoing research. These preliminary scientific analyses included work on marine heatwaves, ocean fronts, vertical ocean dynamics, and coastal ecosystems. 
 
 <p align="center">
-       <img src="/img/Ocean_data_fig1.png">
+       <img src="/img/Ocean_data_fig2.png">
        <figcaption><em>Figure: Example dataset from Mediterranean Sea data cube: Sea Surface Temperature on 1 January 2016.</em></figcaption>
 </p>
 
