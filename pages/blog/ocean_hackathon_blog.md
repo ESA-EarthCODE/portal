@@ -17,7 +17,7 @@ The EarthCODE Ocean Hackathon, held over three online sessions in late October 2
 
 <p align="center">
        <img src="/img/Ocean_data_fig1.png">
-       <figcaption><em>Figure: Ocean datasets available to hackathon participants</em></figcaption>
+       <figcaption><em>Figure: Ocean datasets available to hackathon participants.</em></figcaption>
 </p>
 
 ## Ocean Hackathon Success
