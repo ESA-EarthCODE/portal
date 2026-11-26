@@ -56,6 +56,10 @@ The datacube combines data describing ocean temperature, salinity, circulation, 
 - **BICEP:** marine primary productivity, export production, particulate organic carbon, phytoplankton carbon and chlorophyll-a. [View in the Open Science Catalogue](https://opensciencedata.esa.int/products/bicep-database/collection).
 - **CAREHeat:** marine heatwave categories from the original and detrended sea-surface temperature records. [View in the Open Science Catalogue](https://opensciencedata.esa.int/products/careheat-database/collection).
 - **MITHO:** cumulative hazard indices and their contributing stressors, supporting analysis of multiple threats to ocean health. [View in the Open Science Catalogue](https://opensciencedata.esa.int/products/global-cumulative-hazard-indexes-chis/collection).
+- **BOOMS** provides monthly T1–T3 surface classes. [View in the Open Science Catalogue](https://opensciencedata.esa.int/products/booms-dataset/collection).
+- **Coastal Blue Carbon** maps Posidonia habitat and carbon stock density in the monthly cube for 2016 and 2020. [Access notebook](https://github.com/ESA-EarthCODE/ocean_hackathon/blob/main/1_Datasets/cbc/access.ipynb).
+- **UpperDyn/Morlenn** provides daily mixed-layer depth and maximum N² from the baseline and assimilation products. [View in the Open Science Catalogue](https://opensciencedata.esa.int/products/morlenn_mld/collection).
+- **SARWAVE** provides daily wave height and period from Sentinel-1 intraburst and interburst observations. [Ifremer dataset](https://doi.org/10.12770/1b05fc41-e06e-4285-ad7b-b97f6f847e00).
 
 </section>
 

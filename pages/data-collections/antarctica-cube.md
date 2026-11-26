@@ -32,9 +32,9 @@ The public data stores can be accessed directly over HTTPS. The [land-ice](https
 | --- | --- |
 | **Geographic coverage** | Antarctica and the Southern Ocean |
 | **Scientific scope** | Land-ice geometry and dynamics, ice-shelf change, sea-ice state and ocean-surface conditions |
-| **Temporal coverage** | Varies by source dataset, including static layers and time series from the 1990s to the early 2020s |
+| **Temporal coverage** | Varies by source dataset, including static layers and time series from the 1990s to the 2020s |
 | **Spatial resolution** | Land ice: 100 m in EPSG:3031; sea ice and ocean surface: 12.5 km in EPSG:6932 |
-| **Source datasets** | 12 core datasets: 9 land-ice datasets and 3 sea-ice and ocean-surface datasets |
+| **Source datasets** | 14 core datasets: 10 land-ice datasets and 4 sea-ice and ocean-surface datasets |
 | **Data formats** | Cloud-optimised GeoZarr and GeoParquet |
 
 </section>
@@ -62,6 +62,7 @@ The land-ice datacube combines data describing Antarctic topography, ice thickne
 - **Surface-elevation change:** elevation-change rates and uncertainties. [View in the Open Science Catalog](https://opensciencedata.esa.int/products/sec-antarctic-ice-sheet/collection).
 - **Subglacial lakes:** active lake boundaries and surface-elevation change. [View in the Open Science Catalog](https://opensciencedata.esa.int/products/subglacial-lakes-boundries/collection).
 - **Supraglacial lakes:** lake and channel extent. [View in the Open Science Catalog](https://opensciencedata.esa.int/products/supraglacial-lakes-west-4dantarctica/collection).
+- **5DAIS** maps open meltwater and slush during the Antarctic melt season. [View in the Open Science Catalog](https://opensciencedata.esa.int/products/5dais/collection).
 
 ### Antarctic Sea-Ice and Ocean-Surface Datacube
 
@@ -76,6 +77,7 @@ The sea-ice and ocean-surface datacube brings together sea-ice thickness, concen
 - **CS+AO Southern Ocean sea-ice thickness:** sea-ice thickness, concentration, freeboard, snow depth and related quality variables. [View in the Open Science Catalog](https://opensciencedata.esa.int/products/southern-ocean-sit-from-cryosat-2/collection).
 - **SOFRESH sea-surface salinity:** sea-surface salinity and uncertainty. [View in the Open Science Catalog](https://opensciencedata.esa.int/products/sofresh-sea-surface-salinity/collection).
 - **ALBATROS tidal elevation:** CryoSat-2 tidal-elevation predictions. [View in the Open Science Catalog](https://opensciencedata.esa.int/products/tidal-elevation-cryosat2-2019/collection).
+- **SO-SIMBA** provides monthly sea-ice thickness, snow depth and their uncertainties. [View in the Open Science Catalog](https://opensciencedata.esa.int/projects/so-simba/collection).
 
 </section>
 
@@ -108,7 +110,7 @@ Read the [Antarctica Datacube Hackathon summary](https://earthcode.esa.int/blog/
 
 ### Data Stores
 
-- **Antarctic land ice:** [`antarctica-combined.zarr`](https://s3.waw4-1.cloudferro.com/EarthCODE/OSCAssets/antarctica_cube/land-ice/antarctica-combined.zarr), [`ice-temp-cube.zarr`](https://s3.waw4-1.cloudferro.com/EarthCODE/OSCAssets/antarctica_cube/land-ice/ice-temp-cube.zarr), [`sec.zarr`](https://s3.waw4-1.cloudferro.com/EarthCODE/OSCAssets/antarctica_cube/land-ice/sec.zarr), [`icemask_composite.zarr`](https://s3.waw4-1.cloudferro.com/EarthCODE/OSCAssets/antarctica_cube/land-ice/icemask_composite.zarr) and [`ice_velocity.zarr`](https://s3.waw4-1.cloudferro.com/EarthCODE/OSCAssets/antarctica_cube/land-ice/ice_velocity.zarr).
+- **Antarctic land ice:** [`antarctica-combined.zarr`](https://s3.waw4-1.cloudferro.com/EarthCODE/OSCAssets/antarctica_cube/land-ice/antarctica-combined.zarr), [`ice-temp-cube.zarr`](https://s3.waw4-1.cloudferro.com/EarthCODE/OSCAssets/antarctica_cube/land-ice/ice-temp-cube.zarr), [`sec.zarr`](https://s3.waw4-1.cloudferro.com/EarthCODE/OSCAssets/antarctica_cube/land-ice/sec.zarr), [`icemask_composite.zarr`](https://s3.waw4-1.cloudferro.com/EarthCODE/OSCAssets/antarctica_cube/land-ice/icemask_composite.zarr), [`ice_velocity.zarr`](https://s3.waw4-1.cloudferro.com/EarthCODE/OSCAssets/antarctica_cube/land-ice/ice_velocity.zarr) and [`antarctic-hydrology.zarr`](https://s3.waw4-1.cloudferro.com/EarthCODE/OSCAssets/antarctica_cube/land-ice/antarctic-hydrology.zarr).
 - **Antarctic sea ice and ocean surface:** [`sea-ice-cube.zarr`](https://s3.waw4-1.cloudferro.com/EarthCODE/OSCAssets/antarctica_cube/sea-ice/sea-ice-cube.zarr) and ALBATROS GeoParquet point data.
 
 The data cubes use GeoZarr as a standard. Open group `0` for the full-resolution data.
